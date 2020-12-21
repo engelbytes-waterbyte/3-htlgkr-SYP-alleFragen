@@ -34,9 +34,7 @@ Technisch gesehen: ein Projekt ist eine **Aufgabe (Vorhaben)**
 Projektmanagement besteht aus _Organisation_, _Mensch_ und _Methode_
 
 # Was ist die Lehre aus dem Diagramm? (gehe dabei auch auf die Projektphasen ein) ![Diagramm1.png](Diagramm1.png)
-
-
-
+Anfänglicher Mehraufwand von 5 % führt zu Kosten- und Zeitvorteil von ca. 20 %
 
 # Welche Ebenen des Projektmanagements kann man unterscheiden (Reichweite)
 
