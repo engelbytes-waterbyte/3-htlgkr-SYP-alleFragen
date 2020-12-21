@@ -9,7 +9,7 @@
 - Interdisziplinär
 - Mit Projektmanagement zur richtigen Problemsicht kommen.
 
-# Was ist ein Projekt(Merkmale)?
+# Was ist ein Projekt (Merkmale)?
 
 - Zielorientierung: genaue inhaltliche Abgrenzung
 - Zeitliche terminliche, finanzielle, personelle Begrenzung
@@ -23,11 +23,18 @@
 - Risiko
 - Umfang (Aufwand, Person, Finanzmittel)
 
+Technisch gesehen: ein Projekt ist eine **Aufgabe (Vorhaben)**
+- die sich aus einer Vielzahl von einzelnen **Teilaufgaben** (Tätigkeiten, Aktivitäten, Vorgänge) zusammensetzt (UMFANG)
+- deren Erfüllung jeweils **Zeit** und andere **Ressourcen (Kapazitäten)** benötigt
+- deren **Teilaufgaben** untereinander in **zeitlichen Anordnungsbeziehungen** stehen
+- deren **organisatorische Bedürfnisse** sich im **Zeitablauf** ändern
+
 # Nenne die drei Säulen von Projektmanagement
 
 Projektmanagement besteht aus _Organisation_, _Mensch_ und _Methode_
 
 # Was ist die Lehre aus dem Diagramm? (gehe dabei auch auf die Projektphasen ein) ![Diagramm1.png](Diagramm1.png)
+
 
 
 
