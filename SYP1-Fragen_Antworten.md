@@ -43,18 +43,19 @@ Anfänglicher Mehraufwand von 5 % führt zu Kosten- und Zeitvorteil von ca. 20 %
 # Welche Phasen hat das einfachste (Mehr-)Phasenmodell?
 ## a) beschreibe es
 
-1. Ideenphase
-2. Vorstudie
-3. Projektplanung
-4. Projektdurchführung
-5. Abschluss
+1. Initial Phase
+2. Intermediate Phase
+3. Final Phase
 
 ## b) baue es aus um weitere Phasen
 
 1. Ideenphase
-2. 
+2. (Vorstudie)
+3. Projektplanung
+4. Projektdurchführung
+5. Abschluss
 
-# Welche Aufgaben bestehen in einem Projekt phasenübergreifend(sogenannte "Querschnittsaufgaben")? 
+# Welche Aufgaben bestehen in einem Projekt phasenübergreifend (sogenannte "Querschnittsaufgaben")? 
 
 1. Ideenphase
    
