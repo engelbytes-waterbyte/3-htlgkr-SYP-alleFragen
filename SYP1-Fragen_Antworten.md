@@ -129,21 +129,69 @@ Anfänglicher Mehraufwand von 5 % führt zu Kosten- und Zeitvorteil von ca. 20 %
 
     * Projektabschlussbericht und Evaluierung
 
-# Welche grundlegenden Prozesse unterscheidet DIN 69901? 
+# Welche grundlegenden Prozesse unterscheidet DIN 69901?
+Führungsprozesse
+
+Unterstützungsprozesse
+
+Wertschöpfungsprozesse
 
 # Skizziere das Prozessmodell der DIN 69901
+![Prozessmodell DIN 69901.png](Prozessmodell DIN 69901.png)
 
 # Welche Prozessphasen sieht die DIN 69901 in Projektmanagement-Prozessen vor?
 
-# Wozu Projektphasen? 
+* Initalisierung
+* Definition
+* Planung
+* Steuerung
+* Abschluss
 
-# Beschreibe die Vorgehensweise im „Unified Process“ 
+# Wozu Projektphasen?
+
+# Beschreibe die Vorgehensweise im „Unified Process“
+
+1. Geschäftsprozessmodelierung
+2. Anforderungen
+3. Analyse und Entwurf
+4. Umsetzung
+5. Test
+6. Auslieferung
 
 # Wann ist (wann gilt) eine Projektphase (als) abgeschlossen? 
-
+Eine Phase ist erst dann abgeschlossen, wenn die in der Planung festgelegten Ergebnisse 
+(Dokumente, Programmfunktionen, Pläne, … ) in der geplanten Quantität und Qualität vorliegen und 
+abgenommen wurden
 # Warum Projektmanagement? (Textfolie)
+**Klare Kontrollmöglichkeiten bezüglich Ergebnissen, Terminen, Kosten und Produktivität** 
+
+ - Verbessert Effizienz, Transparenz und Koordination aller Vorhaben
+
+**Verbesserung der fachbereichsübergreifenden Zusammenarbeit**
+- effizientere Nutzung von Ressourcen, hohe Motivation, besserer Informationsaustausch
+
+**Konsequente Ausrichtung der vorhandenen Ressourcen**
+
+* Verbessert damit auch die Ausrichtung auf die Unternehmensziele
+
+**Förderung der Selbstorganisation, der Selbstkontrolle und der Eigenverantwortlichkeit von Mitarbeitern**
+
+* Werden automatisch in den Linienalltag übernommen
+
+**Projektmanagement als Basis für die Personalauswahl und für die Entwicklung zukünftiger Führungskräfte**
 
 # Welche Projektarten kann man unterscheiden?
+**Nach Auftraggeber**
+* intern
+* extern
+
+**Nach Ziel**
+* Sachziel(z.B Produktverbesserung)
+* Prozessziel (z.B Ablaufverbesserung)
+
+**Nach Häufigkeit**
+* repetitiv(ähnliche Grundstruktur)
+* nicht repetitiv (einmalig)
 
 # Welche Faktoren sind bei einem Innovationsprojekt besonders ausgeprägt?
 
