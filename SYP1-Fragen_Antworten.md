@@ -136,9 +136,9 @@ Unterstützungsprozesse
 
 Wertschöpfungsprozesse
 
-# Skizziere das Prozessmodell der DIN 69901
+# Skizziere das Prozessmodell der DIN 69901 
+![Prozessmodell DIN 69901.PNG](Prozessmodell DIN 69901.PNG)
 
-![Prozessmodell DIN 69901.PNG](https://raw.githubusercontent.com/ungarmichael/3-htlgkr-SYP-alleFragen/main/Prozessmodell%20DIN%2069901.PNG?token=ANSWR4F6V6MUFOKX7LIKBS274N7ZW)
 
 # Welche Prozessphasen sieht die DIN 69901 in Projektmanagement-Prozessen vor?
 
