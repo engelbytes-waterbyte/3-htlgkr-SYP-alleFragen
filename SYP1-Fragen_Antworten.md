@@ -195,21 +195,84 @@ abgenommen wurden
 * nicht repetitiv (einmalig)
 
 # Welche Faktoren sind bei einem Innovationsprojekt besonders ausgeprägt?
+Zweck/Anwendung
+Mittel/Technik
 
 # Wie werden Projekte nach relativer Neuigkeit eingeteilt?
+Wie bekannt ist der Zweck bzw. die Anwendung?
+Wie bekannt sind die Mittel bzw. Technologien
 
 # Wie können Projektarten nach dem Ziel des Projektes unterschieden werden?
+Sachziel(z.B Produktverbesserung)
+
+Prozessziel(z.B Ablaufverbesserung)
 
 # Was zeichnet ein Potentialprojekt aus? (WELCHE Faktoren sind WIE ausgeprägt?)
+**Fachlich-/inhaltliche Komplexität**
+* ist sehr ausgeprägt(offen)
 
+**Sozial-/kommunikative Komplexität**
+* ist wenig ausgepägt(gering)
+
+kein Wiederholcharakter, bekannte Personen
 # Was zeichnet ein Akzeptanzprojekt aus? (WELCHE Faktoren sind WIE ausgeprägt?)
+**Fachlich-/inhaltliche Komplexität**
+* ist wenig ausgeprägt(geschlossen)
+
+**Sozial-/kommunikative Komplexität**
+* ist sehr ausgepägt(hoch)
+
+Wiederholcharakter, unbekannte Personen
 
 # Was zeichnet ein Pionierprojekt aus? (WELCHE Faktoren sind WIE ausgeprägt?)
+**Fachlich-/inhaltliche Komplexität**
+* ist sehr ausgeprägt(offen)
 
+**Sozial-/kommunikative Komplexität**
+* ist sehr ausgepägt(hoch)
+
+kein Wiederholcharakter, unbekannte Personen
 # Was zeichnet ein Standardprojekt (Routineprojekt) aus? (WELCHE Faktoren sind WIE ausgeprägt?)
+**Fachlich-/inhaltliche Komplexität**
+* ist gering ausgeprägt(geschlossenn)
+
+**Sozial-/kommunikative Komplexität**
+* ist gering ausgepägt(gering)
+
+Wiederholcharakter, bekannte Personen
 
 # Welche Aufgabenträger sind in einem größeren Projekt neben dem/der Projektleiter*in noch anzutreffen und welche Aufgaben haben bzw. welche Rolle spielen diese?  (NICHT: Arten)
-
+**Das Projektteam**
+* Fachliche Kompetenz
+* Teamfähigkeit
+    * Kommunikations- und Integrationsfähigkeit
+    * Konfliktfähigkeit
+    * Verantwortungsbewusstsein, Sensibilität
+    * Engagement und Entschlusskraft
+    * Analytisches Denken und Ideenreichtum
+   
+**Der Projektausschuss**
+* Ist Verbindungsglied zwischen Projekt- und Linienorganisation
+* Besteht aus Vetretern der Unternehmensleitung und den betroffenen Abteilungsleitern
+* Aufgaben:
+    * Klare Zieldefinition
+    * Steuerung des Projektforganges
+    * Schlichten von Konflikten
+    * Vetragsverhandlungen
+    * Berufung des/der ProjektleiterIn
+    * Abnahme von Ergebnissen
+   
+**Die Promotoren**   
+* Wichtig bei Großprojekten
+* Bei weitreichenden Veränderungen
+* Arten bzw. Aufgaben
+    * Machtpromotoren
+    * Beziehungs- oder Sozialpromotoren
+    * Fachpromotoren 
+      
+Promotoren „intervenieren“ im Interesse der Projektziel-Erreichung
+Sie sollen insbesondere auf Stakeholder einwirken
+Sie sind KEINE Projektmitarbeiter, sondern „unabhängige Dritte“ 
 # Welche Eigenschaften muss ein(e) gute(r) Projektleiter*in aufweisen?
 
 # Welche Rollen muss ein(e) gute(r) Projektleiter*in ausfüllen?
