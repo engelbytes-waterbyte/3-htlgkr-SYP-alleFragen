@@ -274,33 +274,80 @@ Promotoren „intervenieren“ im Interesse der Projektziel-Erreichung
 Sie sollen insbesondere auf Stakeholder einwirken
 Sie sind KEINE Projektmitarbeiter, sondern „unabhängige Dritte“ 
 # Welche Eigenschaften muss ein(e) gute(r) Projektleiter*in aufweisen?
-
+* Überzeugung
+* Durchsetzungsvermögen
+* Belastbarkeit
+* Zuverlässigkeit
+* Verantwortungsbewusstsein
+* Kontaktfähigkeit
+* Teamgeist
+* Kreativität
+* Entscheidungfähigkeit
+* Eigeninitiative
+* Verhandlungskompetenz
 # Welche Rollen muss ein(e) gute(r) Projektleiter*in ausfüllen?
-
-# Was sind die Aufgaben eines/einer Projektleiter*in? 
-
+* Moderator
+* Diplomat
+* Manager
+* Fachperson
+* Prellbock
+* Stratege
+* Konfliktmanager
+* Teamentwickler
+* Diagnostiker
+* Berater
+* Lehrkraft
+* Seelsorger
+# Was sind die Aufgaben eines/einer Projektleiter*in?
+* Klärung der Zielvorgaben
+* Festlegen der Aufbau- und Ablauforganisation
+* Entscheidung über Lösungsalternativen
+* Planen und Beschaffung von Ressourcen
+* Vergabe von Aufgaben
+* Koordination, Führung und Motivation
+* Jederzeitigen Überblick über Projektstand
 # Wozu dient ein Projektausschuss? (Rolle, Randbedingungen, Zusammensetzung, NICHT: Aufgaben)
-
+* Ist Verbindungsglied zwischen Projekt- und Linienorganisation
+* Besteht aus Vertretern der Unternehmensleitung und den betroffenen Abteilungsleitern
 # Welche Aufgaben hat ein Projektausschuss? 
-
-# Was versteht man unter "Promotor"? 
+* Klare Zieldefinition
+* Steuerung des Projektfortganges
+* Schlichten von Konflikten
+* Vertragsverhandlungen
+* Berufung des/der ProjektleiterIn
+* Abnahme von Ergebnissen
+# Was versteht man unter "Promotor"?
+Promotoren intervenieren im Interesse der Projektziel-Erreichung
 ## Wozu Promotoren?
+Sind wichtig bei Großprojekten
+Bei weitreichenden Veränderungen
 ## Welche Arten gibt es?
-
+* Machtpromotoren
+* Beziehungs- oder Sozialpromotoren
+* Fachpromotoren
 # Wozu Promotoren? Welche Arten gibt es?
-
+Ist darüber schon beantwortet
 # Beschreibe die Methode "Brainstorming"?
+Etwa 7 Personen sollen während 10-20 Minuten alle Lösungsvorschläge die ihnen einfallen
+notieren bzw einer notiert und die anderen sagen die Lösungsvorschläge dabei ist Vernunft und Logik nicht gefragt.
+Kritik und Killerphrasen(das hatten wir schon, das geht nicht,...) sind verboten.
 ## Was ist das?
+Eine Kreativitätstechnik
 ## Wie ist der Ablauf?
 ## Worauf ist zu achten?
 
 # Beschreibe die „Methode 635“? 
 ## Was ist das?
+Eine Kreativiätstechnik
 ## Wie ist der Ablauf?
+6 Problemlöser schreiben je drei Lösungsansätze auf Blatt Papier. Nach 5 Minuten
+werden die Blätter untereinander ausgetauscht. Aufbauend auf die am Blatt stehende Lösung bringt
+jeder wieder in 5 Minuten 3 Lösungen zu Papier. Das wird wiederholt bis alle 6 Blätter von
+jedem der 6 Teilnehmer mit 3 Lösungsideen beschrieben sind.
 ## Worauf ist zu achten?
-
 # Was geschieht, wenn ein Projektteam die "Methode 635" anwendet? (ankreuzen)
-
+Gruppenspannungen wirken sich nicht auf kreative Produktion aus.
+Erfolgsrate liegt bei über 15%
 # Beschreibe die Methode „Synektik“? 
 ## Was ist das?
 ## Wie ist der Ablauf?
