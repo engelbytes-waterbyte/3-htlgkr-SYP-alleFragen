@@ -179,8 +179,9 @@ abgenommen wurden
 * Mittel bzw. Technik
 
 # Wie werden Projekte nach relativer Neuigkeit eingeteilt?
-* Wie bekannt ist der Zweck bzw. die Anwendung?
-* Wie bekannt sind die Mittel bzw. Technologien?
+* Wie (un)bekannt ist der Zweck bzw. die Anwendung?
+* Wie (un)bekannt sind die Mittel bzw. Technologien?
+* in Routine-Projekte, Fachprojekte, Innovationsprojekte
 
 # Wie können Projektarten nach dem Ziel des Projektes unterschieden werden?
 * Sachziel(z.B Produktverbesserung)
