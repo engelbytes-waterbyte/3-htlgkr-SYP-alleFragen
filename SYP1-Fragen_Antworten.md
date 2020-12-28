@@ -101,6 +101,11 @@ Mehraufwand von 5 % in der Anfangsphase führt zu Kosten- und Zeitvorteil von ca
 * Abschluss
 
 # Wozu Projektphasen?
+* Reduzierung der Komplexität
+* Schaffung von Entscheidungspunkten
+* Möglichkeit zur Projektsteuerung
+* Übersichtliche grafische Darstellung
+* Ausgangsbasis für die Feinplanung
 
 # Beschreibe die Vorgehensweise im „Unified Process“
 
