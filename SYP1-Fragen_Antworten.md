@@ -195,8 +195,8 @@ abgenommen wurden
 * nicht repetitiv (einmalig)
 
 # Welche Faktoren sind bei einem Innovationsprojekt besonders ausgeprägt?
-Zweck/Anwendung
-Mittel/Technik
+* Zweck bzw. Anwendung
+* Mittel bzw. Technik
 
 # Wie werden Projekte nach relativer Neuigkeit eingeteilt?
 Wie bekannt ist der Zweck bzw. die Anwendung?
