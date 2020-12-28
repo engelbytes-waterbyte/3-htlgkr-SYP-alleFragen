@@ -34,7 +34,7 @@ Technisch gesehen: ein Projekt ist eine **Aufgabe (Vorhaben)**
 Projektmanagement besteht aus _Organisation_, _Mensch_ und _Methode_
 
 # Was ist die Lehre aus dem Diagramm? (gehe dabei auch auf die Projektphasen ein) ![Kosten_Zeit_Ersparnis.png](Kosten_Zeit_Ersparnis.png)
-Anfänglicher Mehraufwand von 5 % führt zu Kosten- und Zeitvorteil von ca. 20 %
+Mehraufwand von 5 % in der Anfangsphase führt zu Kosten- und Zeitvorteil von ca. 20 % beim Projektabschluss.
 
 # Welche Ebenen des Projektmanagements kann man unterscheiden (Reichweite)
 **PM "im Großen"**
