@@ -67,39 +67,11 @@ Anfänglicher Mehraufwand von 5 % führt zu Kosten- und Zeitvorteil von ca. 20 %
 
 # Welche Aufgaben bestehen in einem Projekt phasenübergreifend (sogenannte "Querschnittsaufgaben")? 
 
-1. Ideenphase
-   
-2. Vorstudie
-    
-    feasability studiy, Machbarkeitsstudie, Varianten, Entscheidung
-    
-    **Querschnittsaufgaben**
-
-    - Kick-off-meeting, Teambildung
-
-3. Projektplanung
-    - Definition
-    - Analyse
-    - Realisierungsplan
-
-    **Querschnittsaufgaben**
-
-    - Teamkommunikation 
-    - Stakeholder-Analyse
-    - Risikomanagement
-
-4. Projektdurchführung
-    
-    **Querschnittsaufgaben**
-
-    - Projekt-Controlling
-    - Teamkommunikation, Reporting, Doku (wie bei Projektplanung)
-    - Stakeholder-Analyse (wie bei Projektplanung)
-    - Risikomanagement (wie bei Projektplanung)
-
-5. Abschluss
-
-    Projektabschlussbericht und Evaluierung
+* Kick-off, Teambildung (Projektplanung > Definition)
+* Teamkommuikation, Reporting, Doku (Projektplanung + Projektdurchführung)
+* Stakeholder-Analyse (Projektplanung + Projektdurchführung)
+* Risikomanagement (Projektplanung + Projektdurchführung)
+* Projekt-Controlling (Projektdurchführung)
 
 # Welche Dokumente werden im Projektablauf gefordert? 
 
