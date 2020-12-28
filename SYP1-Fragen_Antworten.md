@@ -33,7 +33,7 @@ Technisch gesehen: ein Projekt ist eine **Aufgabe (Vorhaben)**
 
 Projektmanagement besteht aus _Organisation_, _Mensch_ und _Methode_
 
-# Was ist die Lehre aus dem Diagramm? (gehe dabei auch auf die Projektphasen ein) ![Diagramm1.png](Diagramm1.png)
+# Was ist die Lehre aus dem Diagramm? (gehe dabei auch auf die Projektphasen ein) ![Kosten_Zeit_Ersparnis.png](Kosten_Zeit_Ersparnis.png)
 Anfänglicher Mehraufwand von 5 % führt zu Kosten- und Zeitvorteil von ca. 20 %
 
 # Welche Ebenen des Projektmanagements kann man unterscheiden (Reichweite)
@@ -194,18 +194,40 @@ abgenommen wurden
 * repetitiv(ähnliche Grundstruktur)
 * nicht repetitiv (einmalig)
 
+**nach relativer Neuartigkeit**
+* Wie bekannt ist der Zweck bzw. die Anwendung?
+* Wie bekannt sind die Mittel bzw. Technologien?
+* (Routine-Projekte, Fachprojekte, Innovationsprojekte)
+
+**nach Aufgabengebiet (Projektinhalt)**
+* IT-Projekte
+* Bauprojekte
+* Dienstleistungsprojekte
+* usw.
+
+**nach Projektorganisation / Befugnisse des Projektleiters**
+* Einflussprojekt
+* Matrixprojekt
+* Autonomes Projekt
+
+**nach Projektsteuerung**
+* Technokratisches Projekt
+* Agiles Projekt
+
+**nach strategischen Aspekten**
+![Projektarten_strategische_Aspekte.png](Projektarten_strategische_Aspekte.png)
+
 # Welche Faktoren sind bei einem Innovationsprojekt besonders ausgeprägt?
 * Zweck bzw. Anwendung
 * Mittel bzw. Technik
 
 # Wie werden Projekte nach relativer Neuigkeit eingeteilt?
-Wie bekannt ist der Zweck bzw. die Anwendung?
-Wie bekannt sind die Mittel bzw. Technologien?
+* Wie bekannt ist der Zweck bzw. die Anwendung?
+* Wie bekannt sind die Mittel bzw. Technologien?
 
 # Wie können Projektarten nach dem Ziel des Projektes unterschieden werden?
-Sachziel(z.B Produktverbesserung)
-
-Prozessziel(z.B Ablaufverbesserung)
+* Sachziel(z.B Produktverbesserung)
+* Prozessziel(z.B Ablaufverbesserung)
 
 # Was zeichnet ein Potentialprojekt aus? (WELCHE Faktoren sind WIE ausgeprägt?)
 **Fachlich-/inhaltliche Komplexität**
