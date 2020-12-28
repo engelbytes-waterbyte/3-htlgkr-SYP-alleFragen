@@ -37,8 +37,18 @@ Projektmanagement besteht aus _Organisation_, _Mensch_ und _Methode_
 Anfänglicher Mehraufwand von 5 % führt zu Kosten- und Zeitvorteil von ca. 20 %
 
 # Welche Ebenen des Projektmanagements kann man unterscheiden (Reichweite)
+**PM "im Großen"**
+* **übergeordnetes PM mit Sicht der Einbettung in die Systemumwelt bzw. in das Unternehmen**
+* klassisches PM
+* Orgformen "im Großen"
+* "schwere" Prozesse
+* "Wasserfall"
 
-
+**PM "im Kleinen"**
+* **Enge Sicht des PM: Nur der Erstellungsprozess des Produktes wird betrachtet**
+* Focus: Systemerstellung
+* agile Ansätze
+* "Spiral-Modell"
 
 # Welche Phasen hat das einfachste (Mehr-)Phasenmodell?
 ## a) beschreibe es
