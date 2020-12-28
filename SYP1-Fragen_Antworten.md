@@ -83,11 +83,10 @@ Anfänglicher Mehraufwand von 5 % führt zu Kosten- und Zeitvorteil von ca. 20 %
 * Projektabschlussbericht (Evaluierung)
 
 # Welche grundlegenden Prozesse unterscheidet DIN 69901?
-Führungsprozesse
 
-Unterstützungsprozesse
-
-Wertschöpfungsprozesse
+* Führungsprozesse
+* Unterstützungsprozesse
+* Wertschöpfungsprozesse
 
 # Skizziere das Prozessmodell der DIN 69901 
 ![Prozessmodell DIN 69901.PNG](ProzessmodellDIN69901.PNG)
@@ -292,70 +291,149 @@ Sie sind KEINE Projektmitarbeiter, sondern „unabhängige Dritte“
 * Berufung des/der ProjektleiterIn
 * Abnahme von Ergebnissen
 # Was versteht man unter "Promotor"?
-Promotoren intervenieren im Interesse der Projektziel-Erreichung
+Promotoren intervenieren im Interesse der Projektziel-Erreichung  
+Sie sollen insbesondere auf Stakeholder einwirken  
+Sie sind **KEINE** Projektmitarbeiter, sondern "unabhängige Dritte"
+
 ## Wozu Promotoren?
-Sind wichtig bei Großprojekten
-Bei weitreichenden Veränderungen
+* Sind wichtig bei Großprojekten
+* Bei weitreichenden Veränderungen
+* sollen insbesondere auf Stakeholder einwirken 
+
 ## Welche Arten gibt es?
-* Machtpromotoren
-* Beziehungs- oder Sozialpromotoren
-* Fachpromotoren
+* Machtpromotoren (einflussreiche Person des öffentlichen Lebens)
+* Beziehungs- oder Sozialpromotoren (Vertrauensleute, Netzwerker)
+* Fachpromotoren (Unangreifbare, anerkannte Kompetenz, Koryphäe)
+
 # Wozu Promotoren? Welche Arten gibt es?
-Ist darüber schon beantwortet
+* Sind wichtig bei Großprojekten
+* Bei weitreichenden Veränderungen
+* sollen insbesondere auf Stakeholder einwirken
+* Machtpromotoren, Beziehungs- oder Sozialpromotoren, Fachpromotoren
+
 # Beschreibe die Methode "Brainstorming"?
-Etwa 7 Personen sollen während 10-20 Minuten alle Lösungsvorschläge die ihnen einfallen
-notieren bzw einer notiert und die anderen sagen die Lösungsvorschläge dabei ist Vernunft und Logik nicht gefragt.
-Kritik und Killerphrasen(das hatten wir schon, das geht nicht,...) sind verboten.
 ## Was ist das?
 Eine Kreativitätstechnik
 ## Wie ist der Ablauf?
+Ideensuchgruppe soll zu bekanntem Problem so viele Lösungsvorschläge wie möglich machen!
 ## Worauf ist zu achten?
+* Etwa 7 Personen
+* 10-20 Minuten
+* Klare Problemdefinition
+* Quantität zählt
+* Jegliche Kritik während der Sitzung ist verboten!
+* Keine Killerphrasen
+* Vernunft und Logik sind _nicht_ gefragt!
 
 # Beschreibe die „Methode 635“? 
 ## Was ist das?
 Eine Kreativiätstechnik
 ## Wie ist der Ablauf?
-6 Problemlöser schreiben je drei Lösungsansätze auf Blatt Papier. Nach 5 Minuten
-werden die Blätter untereinander ausgetauscht. Aufbauend auf die am Blatt stehende Lösung bringt
-jeder wieder in 5 Minuten 3 Lösungen zu Papier. Das wird wiederholt bis alle 6 Blätter von
+**6** Problemlöser schreiben je **3** Lösungsansätze auf Blatt Papier.  
+Nach **5** Minuten werden die Blätter untereinander ausgetauscht.  
+Aufbauend auf die am Blatt stehende Lösung bringt jeder wieder in 5 Minuten 3 Lösungen zu Papier.  
+Das wird wiederholt bis alle 6 Blätter von
 jedem der 6 Teilnehmer mit 3 Lösungsideen beschrieben sind.
 ## Worauf ist zu achten?
+* Keine Kommunikation der Mitglieder der Ideensuchgruppe
+
 # Was geschieht, wenn ein Projektteam die "Methode 635" anwendet? (ankreuzen)
-Gruppenspannungen wirken sich nicht auf kreative Produktion aus.
-Erfolgsrate liegt bei über 15%
-# Beschreibe die Methode „Synektik“? 
+* Gruppenspannungen wirken sich nicht auf kreative Produktion aus.
+* Erfolgsrate liegt bei über 15%
+
+# Beschreibe die Methode „Synektik“?
 ## Was ist das?
+Eine Kreativitätstechnik
 ## Wie ist der Ablauf?
+* Mache dir das Fremde vertraut = Gründliche Problemanalyse
+* Entfremdedir das Vertraute: Durch Bildung von Analogien verfremden und für neue Problemstellungen nach Lösungen suchen (um den Hemmschuh "Erfahrung" zu entfernen)
+* Die möglicherweise "utopischen" Lösungen wieder an die ursprüngliche Problemstellung ranführen
 ## Worauf ist zu achten?
 
-# Beschreibe die Methode Morphologie? 
+# Beschreibe die Methode Morphologie?
 ## Was ist das?
+Eine Kreativitätstechnik
 ## Wie ist der Ablauf?
+* Problem wird in Bestandteile zerlegt
+* Es werden andere Lösungsmöglichkeiten für jedes Bestandteil gesucht
+* Lösungen des Gesamtproblems ergeben sich durch Kombination der einzelnen Bestandteils-Lösungen
 ## Worauf ist zu achten?
 
-# Beschreibe die Methode Mindmapping? 
+# Beschreibe die Methode Mindmapping?
 ## Was ist das?
+Eine Kreativitätstechnik
 ## Wie ist der Ablauf?
+* Problemstellung in die Blattmitte
+* Problem in kleinere Bestandteile zerlegen, diese mithilfe von Pfeilen mit dem Hauptproblem und den anderen Unterproblemen verknüpfen
+* Je nach Tiefe die kleineren Probleme in noch kleinere Probleme unterteilen
 ## Worauf ist zu achten?
+**Mindmapping-Regeln**
+* Beginn in Blattmitte
+* Hauptthema und -äste in Blockbuchstaben
+* geschwungene Äste, dünner werdend
+* Länge der Linie = Länge des Begriffs
+* je Linie darf nur ein Wort geschrieben werden
+* verwende Farben und Zeichnungen/Symbole
+
+**Die Mindmap darf nicht überladen werden**
 
 # Beschreibe die Methode Bionik?
 ## Was ist das?
+Eine Kreativitätstechnik
 ## Wie ist der Ablauf?
-
+Problemstellungen werden an die Natur herangeführt (von der Natur lernen).
+Man schaut sich Lösungen für Probleme, die in der Natur bereits gelöst sind, von der Natur ab.  
+z.B.: Vögel -> Tragflächenenden "Winglets"
 
 # Beschreibe die Methode Standard-Delphi?
 ## Was ist das?
+Eine Kreativitätstechnik
 ## Wie ist der Ablauf?
+* jedem Schätzer wird einzeln die Aufgabe erklärt
+* Eventuell Schätzformular aushändigen
+* Jeder füllt getrennt aus, keine Diskussion
+* Sammlung der Schätzungen in einem Formular, jeweils mit Begründung
+* Jedem einzeln: Vorlage der (aggregierten) Sammlung, und Überarbeitung
+* In so vielen Schritten, bis die Einzelschätzungen sich ausreichend angenähert haben
 ## Worauf ist zu achten?
+* keine Absprache zwischen den befragten Experten (keine Diskussion, schwer realisierbar)
 
-# Was ist der Unterschied zwischen Standard- und Breitband Delphi? 
+# Was ist der Unterschied zwischen Standard- und Breitband Delphi?
+Bei der Breitband-Delphi gibt es gemeinsame Sitzungen mit Diskussion am Beginn und zwischen den Runden
 
 # Welche Ebenen gehören zu einem ganzheitlichen Projektmanagement?
+* Sachebene (Fach-/Methodenkenntnisse)
+* Organisatorische Ebene (PM-Kenntnisse)
+* Psycho-soziale Ebene: Teamfähigkeit, Kommunikation
 
 # Nenne allgemeine Spielregeln für erfolgreiche  Kommunikation? (NICHT: Teamarbeit)
+* Aktives Zuhören, Interesse am Gesprächspartner
+* Killerphrasen vermeiden
+* Rückmeldungen geben
+* Ich-Botschaften verwenden
 
-# Nenne allgemeine Spielregeln für erfolgreiche Teamarbeit? (NICHT: Kommunikation) 
+# Nenne allgemeine Spielregeln für erfolgreiche Teamarbeit? (NICHT: Kommunikation)
+* Gemeinsam Spielregeln festlegen (Kick-Off)
+* Vereinbartes Einhalten (Termine, Pünktlichkeit)
+* jeder darf ausreden, aber kurz fassen
+* Nachaußen dring nur, was die Gruppe genehmigt hat
+* Dokuarbeit (Protokoll) und Moderation verteilt
 
-# Was sind Serifen? Wo sollte man sie nicht verwenden?  
+# Was sind Serifen? Wo sollte man sie nicht verwenden?
+Serifen sind die "Füßchen" bei Schriften wie Times New Roman, die für eine erhöhte Lesbarkeit geschaffen wurden.  
+Man sollte sie nicht für Overhead- und Beamerprojektionen
 
 # Welche unfaire Taktiken werden oft in Verhandlungen eingesetzt und wie begegnet man dem am besten?
+* Partner argumentiert mit falschen Daten:
+* * Interessiert zeigen und Daten vorlegen lassen, Quellen verlangen
+* Partner tätigt persönliche Angriffe:
+* * Ignorieren und auf Sachfrage bestehen
+* Nachreichen von Forderungen:
+* * Bitte, alle Wünsche bekannt zu geben - eigene Zusagen zurücknehmen
+* Psychologische Tricks:
+* * Warten lassen
+* * * Nicht aus der Ruhe bringen lassen: z.B.: Fragen, ob man neuen Termin vereinbaren soll
+* * Unguten Sitzplatz (Sonne blendet, es zieht, ...)
+* * * Direkt ansprechen: "Darf ich Platz wechseln, ..."
+* * Zeitdruck erzeugen (nur noch heute ...)
+* * * Nicht aus der Ruhe bringen lassen: z.B.: um Reservierung bis morgen bitten
