@@ -2,10 +2,10 @@
 =
 # Wieso Projekte? Warum werden immer mehr Aufgaben in Projektform abgewickelt?
 
--  Mehr individuelle Problemlösungen
--  Komplexität der Aufgaben steigt
--  Abteilungsübergreifende Zusammenarbeit möglich
--  Zusammenarbeit auch über Länder und Kontinentsgrenzen hinweg
+- Mehr individuelle Problemlösungen
+- Komplexität der Aufgaben steigt
+- Abteilungsübergreifende Zusammenarbeit möglich
+- Zusammenarbeit auch über Länder und Kontinentsgrenzen hinweg
 - Interdisziplinär
 - Mit Projektmanagement zur richtigen Problemsicht kommen.
 
