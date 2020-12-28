@@ -75,41 +75,12 @@ Anfänglicher Mehraufwand von 5 % führt zu Kosten- und Zeitvorteil von ca. 20 %
 
 # Welche Dokumente werden im Projektablauf gefordert? 
 
-1. Ideenphase
-   
-    **Dokumente**
-        
-     * Projektantrag
-
-2. Vorstudie
-    **Dokumente**
-
-    - Projektauftrag, Zieldefinition
-
-3. Projektplanung
-4. 
-    **Dokumente**
-
-    * Meilenstenliste
-    * Projektstrukturplan
-    * Arbeitspakete
-    * Netzplan
-    * Stakeholder-Analyse
-    * Risikoanalyse
-
-5. Projektdurchführung
-  
-    Projekt-Controlling
-
-    **Dokumente**
-
-    Berichte zu jedem Meilenstein
-
-6. Abschluss
-
-    **Dokumente**
-
-    * Projektabschlussbericht und Evaluierung
+* Projektantrag (Projektidee)
+* Projektauftrag, Zieldefinition (Vorstudie)
+* Meilensteinliste, Projektstrukturplan, Arbeitspakete, Netzplan (Projektplanung)
+* Stakeholder-Analyse, Risikoanalyse (Projektplanung)
+* Berichte zu jedem Meilenstein (Projekdurchführung)
+* Projektabschlussbericht (Evaluierung)
 
 # Welche grundlegenden Prozesse unterscheidet DIN 69901?
 Führungsprozesse
