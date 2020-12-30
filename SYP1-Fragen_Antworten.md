@@ -143,58 +143,144 @@ abgenommen wurden
 * intern
 * extern
 
+# Welche grundlegenden Prozesse unterscheidet DIN 69901?
+
+- Führungsprozesse
+- Projektmanagementprozesse
+- Unterstützungsprozesse
+- Wertschöpfungsprozesse
+
 **Nach Ziel**
 * Sachziel(z.B Produktverbesserung)
 * Prozessziel (z.B Ablaufverbesserung)
 
-**Nach Häufigkeit**
-* repetitiv(ähnliche Grundstruktur)
-* nicht repetitiv (einmalig)
+![DIN69901-Phasenmodell.jpg](DIN69901-Phasenmodell.jpg)
 
-**nach relativer Neuartigkeit**
-* Wie bekannt ist der Zweck bzw. die Anwendung?
-* Wie bekannt sind die Mittel bzw. Technologien?
-* (Routine-Projekte, Fachprojekte, Innovationsprojekte)
+# Welche Prozessphasen sieht die DIN 69901 in Projektmanagement-Prozessen vor?
 
-**nach Aufgabengebiet (Projektinhalt)**
-* IT-Projekte
-* Bauprojekte
-* Dienstleistungsprojekte
-* usw.
+- Initialisierung
+- Definition
+- Planung
+- Steuerung
+- Abschluss
 
-**nach Projektorganisation / Befugnisse des Projektleiters**
-* Einflussprojekt
-* Matrixprojekt
-* Autonomes Projekt
+# Wozu Projektphasen? 
 
-**nach Projektsteuerung**
-* Technokratisches Projekt
-* Agiles Projekt
+Um die in der Planung festgelegten Ergebnisse (Dokumente, Programmfunktionen, Pläne, ...) in der geplanten Quantität und Qualität überprüfen zu können. 
 
-**nach strategischen Aspekten**
-![Projektarten_strategische_Aspekte.png](Projektarten_strategische_Aspekte.png)
+# Beschreibe die Vorgehensweise im „Unified Process“ 
+
+Zuerst erfolgt die Geschäftsprozess-modellierung.
+
+Danach werden die Anforderungen überprüft, 
+eine Analyse und einEntwurf wird erstellt,
+eine Umsetzung bzw Implementation des Projektes,
+Testen und anschließende Auslieferung(Deployement),
+bei scheitern der Tests erfolgt eine Evaluierung
+ 
+# Wann ist (wann gilt) eine Projektphase (als) abgeschlossen? 
+
+Eine Phase ist erst dann abgeschlossen, wenn die in der Planung festgelegten Ergebnisse (Dokumente, Programmfunktionen, Pläne, ...) in der geplanten Quantität und Qualität vorliegen und abgenommen wurden
+
+# Warum Projektmanagement? (Textfolie)
+
+    - Klare Kontrollmöglichkeiten
+    - Konsequente Ausrichtung
+    - Basis für Personalauswahl und Führungskraftauswahl
+    - Verbesserung der fachsübergreifenden Zusammenarbeit
+    - Förderung der Selbstorganisation und Selbstkontrolle
+
+# Welche Projektarten kann man unterscheiden?
+
+nach Auftraggeber
+
+- intern
+- extern
+
+nach Ziel
+
+- Sachziel → zb Produktverbesserung
+- Prozessziel → Ablaufverbesserung
+
+nach Häufigkeit
+
+- repetitiv → ähnliche Grundstruktur
+- nicht repetitiv → einmalig
+
+nach relativer Neuartigkeit
+
+- Wie bekannt ist der Zweck bzw. die Anwendung?
+- Wie bekannt sind die Mittel- bzw Technologien
+
+nach Aufgabengebiet (Projektinhalt)
+
+- Investitionsprojekte
+- Kundenauftragsprojekte
+- Forschungs- und Entwicklungsprojekte
+- Bauprojekte
+- IT-Projekte
+- Dienstleistungsprojekte
+- usw.
+
+Nach Projektorganisation / Befugnisse des Projektleiters
+
+- Einflussprojekt
+- Matrixprojekt
+- Autonomes Projekt
+
+Projektsteuerung
+
+- Technokratisches Projekt
+- Agiles Projekt
+
+nach strategischen Aspekten
+
+- Akzeptanzprojekte( komplexe Standardprojekte)
+    - werden meist wiederholt (Wiederholcharakter)
+    - unbekannte Personen
+    - abteilungsübergreifende Zusammenarbeit
+    - klare Aufgabenstellung
+- PionierProjekte
+    - kein Wiederholcharakter
+    - unbekannte Personen
+    - alternative Lösungswege
+    - abteilungs übergreifende Zusammenarbeit
+- Potentialprojekte“““˝
+    - kein Wiederholcharakter
+    - bekannte Personen
+    - alternative Lösungswege
+    - innerhalb einer Abteilung
+- Standard-/Routineprojekte
+    - Wiederholcharakter
+    - bekannte Personen
+    - klare Aufgabenstellung
+    - innerhalb einer Abteilung
 
 # Welche Faktoren sind bei einem Innovationsprojekt besonders ausgeprägt?
 * Zweck bzw. Anwendung
 * Mittel bzw. Technik
+
+Der Zweck bzw die Anwendung ist noch unbekannt und auch die Mittel bzw die Technik
 
 # Wie werden Projekte nach relativer Neuigkeit eingeteilt?
 * Wie (un)bekannt ist der Zweck bzw. die Anwendung?
 * Wie (un)bekannt sind die Mittel bzw. Technologien?
 * in Routine-Projekte, Fachprojekte, Innovationsprojekte
 
+Nach repetitiver (ähnliche Grundstruktur) oder nicht repetitiver (einamliger) Form
+
 # Wie können Projektarten nach dem Ziel des Projektes unterschieden werden?
 * Sachziel(z.B Produktverbesserung)
 * Prozessziel(z.B Ablaufverbesserung)
+
+Nach Sachziel(zb. Produktverbesserung) und nach Prozessziel(zb. Ablaufverbesserung)
 
 # Was zeichnet ein Potentialprojekt aus? (WELCHE Faktoren sind WIE ausgeprägt?)
 **Fachlich-/inhaltliche Komplexität**
 * ist sehr ausgeprägt(offen)
 
-**Sozial-/kommunikative Komplexität**
-* ist wenig ausgepägt(gering)
+Diese Projekte sind offen (alternative Lösungswege) und haben geringe Soziale-/kommunikative Komplexität(innerhalb einer Abteilung)
 
-kein Wiederholcharakter, bekannte Personen
 # Was zeichnet ein Akzeptanzprojekt aus? (WELCHE Faktoren sind WIE ausgeprägt?)
 **Fachlich-/inhaltliche Komplexität**
 * ist wenig ausgeprägt(geschlossen)
@@ -203,6 +289,8 @@ kein Wiederholcharakter, bekannte Personen
 * ist sehr ausgepägt(hoch)
 
 Wiederholcharakter, unbekannte Personen
+
+Akzeptanzprojekte sind sozial und kommunikativ komplexe Projekte(abteilungsübergreifend) und offen (alternative Lösungswege) 
 
 # Was zeichnet ein Pionierprojekt aus? (WELCHE Faktoren sind WIE ausgeprägt?)
 **Fachlich-/inhaltliche Komplexität**
@@ -443,3 +531,80 @@ Man sollte sie nicht für Overhead- und Beamerprojektionen
 * * * Direkt ansprechen: "Darf ich Platz wechseln, ..."
 * * Zeitdruck erzeugen (nur noch heute ...)
 * * * Nicht aus der Ruhe bringen lassen: z.B.: um Reservierung bis morgen bitten
+  
+**200er**
+=
+# Was ist ein Projektantrag?
+
+Der Projektantrag enthält
+* Ausformulierung der Projektidee
+* Aufgabenbeschreibung
+* Projektnutzen
+* Folgen, wenn Projekt nicht gemacht wird
+* personelle und finanzielle Rahmenbedingungen
+
+außerdem löst der Projektantrag die Vorstudie aus. 
+
+# Was ist eine feasibility study? Wann erfolgt eine solche (zeitlich im Projektablauf)
+
+Die feasibility study untersucht die Wirtschaftlichkeit, technische Umsetzbarkeit und Risiko eines Projektes.
+
+Diese erfolgt während der Vorstudie. 
+
+# Worauf ist bei der Erarbeitung & Formulierung von Zielen zu achten?
+
+Die visher vage Zielvorstellung soll
+* systematisch strukturiert,
+* auf Vollständigkeit überprüft und
+* in eine verbindliche Form gebracht werden
+
+# Was versteht man unter der Stoßrichtung eines Projektzieles?
+
+Man strebt bei der Stoßrichtung meist eine postivie Entwicklung oder zumindest die Bewahrung eines Zustands an. Parallel wird eine negative Entwicklung vermieden.
+
+# Was ist das Teufelsquadrat? Aussage? Sinn?
+
+
+
+# Welche 4 Dimensionen enthält ein gut formuliertes Ziel jedenfalls?
+
+
+
+# Eine „Eselsbrücke“ zum Überprüfen der Zielformulierung lautet SMART?  Was verbirgt sich dahinter?
+# Eine „Eselsbrücke“ zum Überprüfen der Zielformulierung lautet PURE?  
+# Was verbirgt sich dahinter?
+# Eine „Eselsbrücke“ zum Überprüfen der Zielformulierung lautet CLEAR?  
+# Was verbirgt sich dahinter?
+# Beschreibe den Ablauf einer Nutzwertanalyse.
+# Warum Nutzwertanalyse (Problemsituation, die für die Anwendung einer NWA spricht)?
+# Wozu dient der Paarvergleich (im Rahmen der Nutzwertanalyse) und wie wird dieser durchgeführt?
+# Was geschieht bei der Sensitivitätsanalyse (im Rahmen einer Nutzwertanalyse)?
+# Nenne die Vor- und Nachteile der Nutzwertanalyse
+# Wie kann eine Abgrenzung eines Projektes zum Umfeld geschehen (Sichten)?
+# Kennzeichne (durch umkreisen von ) w (wahr),  f (falsch)      = ist Teilmenge von pdU = das Unternehmen, dass das Projekt durchführt
+## a)  w – f     Alle Stakeholder     aller Shareholder des pdU     
+## b)  w – f     Alle Shareholder des pdU    aller Stakeholder
+## c)  w – f     Ein Stakeholder = Shareholder des pdU   
+## d)  w – f     Ein Shareholder des pdU = Stakeholder 
+---
+# Kennzeichne (durch umkreisen von ) w (wahr),  f (falsch)      = ist Teilmenge von pdU = das Unternehmen, dass das Projekt durchführt
+# a)  w – f     Alle Shareholder des pdU    aller Stakeholder
+# b)  w – f     Alle Stakeholder     aller Shareholder des pdU     
+# c)  w – f     Ein Stakeholder = Shareholder des pdU   
+# d)  w – f     Ein Shareholder des pdU = Stakeholder 
+# Kennzeichne (durch umkreisen von ) w (wahr),  f (falsch)      = ist Teilmenge von pdU = das Unternehmen, dass das Projekt durchführt
+## a)  w – f     Alle Stakeholder     aller Shareholder des pdU     
+## b)  w – f     Ein Shareholder des pdU = Stakeholder 
+## c)  w – f     Alle Shareholder des pdU    aller Stakeholder
+## d)  w – f     Ein Stakeholder = Shareholder des pdU   
+---
+# Kennzeichne (durch umkreisen von ) w (wahr),  f (falsch)      = ist Teilmenge von pdU = das Unternehmen, dass das Projekt durchführt
+## a)  w – f     Alle Stakeholder     aller Shareholder des pdU
+## b)  w – f     Ein Stakeholder = Shareholder des pdU   
+## c)  w – f     Alle Shareholder des pdU    aller Stakeholder
+## d)  w – f     Ein Shareholder des pdU = Stakeholder 
+
+# Was bedeutet "Stakeholder"? Wie wird bei der Stakeholderanalyse vorgegangen?
+# Was IST ein Projektauftrag? (Inhalt ist NICHT gefragt, auch nicht grob!) Projektauftrag: NICHT: Was ist ein Projektauftrag , sondern:
+## a) Wann im Zeitablauf?							
+## b) Was gehört in Projektauftrag (Inhalt grob und fein)?
