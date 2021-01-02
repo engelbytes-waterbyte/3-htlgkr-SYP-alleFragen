@@ -312,7 +312,7 @@ Diese Projekte sind offen (alternative Lösungswege) und haben geringe Soziale-/
 
 Wiederholcharakter, unbekannte Personen
 
-Akzeptanzprojekte sind sozial und kommunikativ komplexe Projekte(abteilungsübergreifend) und offen (alternative Lösungswege)
+Akzeptanzprojekte sind sozial und kommunikativ komplexe Projekte(abteilungsübergreifend) und Fachlich-/inhaltliv geschlossen (klare Aufgabenstellung)
 
 # Was zeichnet ein Pionierprojekt aus? (WELCHE Faktoren sind WIE ausgeprägt?)
 
