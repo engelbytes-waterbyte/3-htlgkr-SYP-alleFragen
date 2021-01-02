@@ -298,7 +298,11 @@ Nach Sachziel(zb. Produktverbesserung) und nach Prozessziel(zb. Ablaufverbesseru
 
 - ist sehr ausgeprägt(offen)
 
-Diese Projekte sind offen (alternative Lösungswege) und haben geringe Soziale-/kommunikative Komplexität(innerhalb einer Abteilung)
+**Sozial-/kommunikative Komplexität**
+
+- ist sehr ausgepägt(hoch)
+
+Diese Projekte sind offen (alternative Lösungswege) und haben hohe Soziale-/kommunikative Komplexität (ateilungsübergreifende Zusammenarbeit)
 
 # Was zeichnet ein Akzeptanzprojekt aus? (WELCHE Faktoren sind WIE ausgeprägt?)
 
@@ -658,7 +662,9 @@ Die visher vage Zielvorstellung soll
 
 # Was versteht man unter der Stoßrichtung eines Projektzieles?
 
-Man strebt bei der Stoßrichtung meist eine postivie Entwicklung oder zumindest die Bewahrung eines Zustands an. Parallel wird eine negative Entwicklung vermieden.
+* positive Entwicklung
+* Bewahrung eines positiven Zustands 
+* Vermeidung einer negativen Entwicklung
 
 # Was ist das Teufelsquadrat? Aussage? Sinn?
 
