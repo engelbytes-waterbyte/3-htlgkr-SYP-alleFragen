@@ -259,7 +259,7 @@ nach strategischen Aspekten
   - unbekannte Personen
   - alternative Lösungswege
   - abteilungs übergreifende Zusammenarbeit
-- Potentialprojekte“““˝
+- Potentialprojekte
   - kein Wiederholcharakter
   - bekannte Personen
   - alternative Lösungswege
