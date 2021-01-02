@@ -668,7 +668,7 @@ Die visher vage Zielvorstellung soll
 
 # Was ist das Teufelsquadrat? Aussage? Sinn?
 
-Das ganze Projekt ist gefährdet wenn eines der vier Faktoren (Qualität, Quantität, Zeit, Kosten) im Teufelsquadrat zu viel Gewicht bekommt und Projektmanager erleben dabei meist eine Zerreißprobe.
+An den Ecken des Teufelsquadrat stehen Qualität, Quantität, Kosten und Entwicklungsdauer. Zwischen den Ecken kann man sich eine Schnur bestimmter Länge vorstellen. Wenn man einen Faktor wenn man an einer Ecke des Quadrates zieht, verschieben sich auch die anderen Faktoren. Vor Projektbeginn muss geklärt werden, welches „Gewicht“ jede Dimension des Teufelsquadrates hat.
 
 # Welche 4 Dimensionen enthält ein gut formuliertes Ziel jedenfalls?
 
