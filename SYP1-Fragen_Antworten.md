@@ -254,7 +254,7 @@ nach strategischen Aspekten
   - unbekannte Personen
   - abteilungsübergreifende Zusammenarbeit
   - klare Aufgabenstellung
-- PionierProjekte
+- Pionierprojekte
   - kein Wiederholcharakter
   - unbekannte Personen
   - alternative Lösungswege
