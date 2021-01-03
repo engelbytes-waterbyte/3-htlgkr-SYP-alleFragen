@@ -950,3 +950,34 @@ Informelle Organisationen sind soziale Strukturen, bei denenzwischenmenschliche 
 * Kommunikation mit Auftraggeber
 
 #Nenne Vor- und Nachteile der Matrix-Projektorganisation im Vergleich zu anderen Formen. 
+**Vorteile**
+* Idenfikation der Projekt-mitglieder (Team)
+* Keine (Re)Integrationsprobleme bei Projektende
+**Nachteile**
+* Konfliktpotential
+* Doppelunterstellung
+> Was ned ob richtig weil do steht im Vergleich
+# Beschreibe die Org.-Form „Auftrags-Projektorganisation“.
+* Matrixorientiert, aber keine Doppelunterstellung
+* Eigene Organisationseinheit "Projektmanagement" -> für Unternehmen mit vielen Projekten
+* Projektleiter hat Gesamtverantwortung
+* Kleine Projektgruppe ist z.B Lieferant des Vertriebes oder der Leitung und "Auftraggeber" für Entwicklung und Fertigung
+#a)Beschreibe die Org.-Form „Reine Projektorganisation“.   
+* Seperate Struktur für die Dauer des Projektes
+* PL kann wie Bereichs-/Abteilungsleiter installiert werden
+* In der Regel für lange dauernde (Groß-)Projekte
+##b) Wie nennt man diese noch? 
+Task force
+##c)Vor-/Nachteile
+**Vorteile**
+* PL hat volle Kompetenz
+* Optimale Ausrichtung auf das Projektziel
+* Geringster Overhead
+* Volle Identifikation (Motivation)
+
+**Nachteile**
+* Wiedereingliederung nach Projektende
+* Wer wird abgestellt(Qualif.)
+#Beschreibe die Organisationsform „projektorientiertes Unternehmen“. (Wie ist so eine Form aufgebaut? Wie ist der Arbeitsablauf? Wie werden die Projekte koordiniert usw.)
+> I was ned 
+# Wähle eine Projekt-Organisationsform und begründe* deine Wahl:Sehr umfangreiches Projekt, wenig Risiko, bekannte Technologie, durchschnittlicher Zeitdruck, Plandauer ist 2 Jahre. (Annahme: es wurden/werden nur wenige Projekte im Unternehmen gemacht)*Nenne Aspekte, die für die eine oder andere Form sprechen
