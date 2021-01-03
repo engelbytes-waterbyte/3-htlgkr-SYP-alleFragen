@@ -949,35 +949,76 @@ Informelle Organisationen sind soziale Strukturen, bei denenzwischenmenschliche 
 * Wenig Verbindendes (Team)
 * Kommunikation mit Auftraggeber
 
-#Nenne Vor- und Nachteile der Matrix-Projektorganisation im Vergleich zu anderen Formen. 
-**Vorteile**
-* Idenfikation der Projekt-mitglieder (Team)
-* Keine (Re)Integrationsprobleme bei Projektende
-**Nachteile**
-* Konfliktpotential
-* Doppelunterstellung
-> Was ned ob richtig weil do steht im Vergleich
-# Beschreibe die Org.-Form „Auftrags-Projektorganisation“.
-* Matrixorientiert, aber keine Doppelunterstellung
-* Eigene Organisationseinheit "Projektmanagement" -> für Unternehmen mit vielen Projekten
-* Projektleiter hat Gesamtverantwortung
-* Kleine Projektgruppe ist z.B Lieferant des Vertriebes oder der Leitung und "Auftraggeber" für Entwicklung und Fertigung
-#a)Beschreibe die Org.-Form „Reine Projektorganisation“.   
-* Seperate Struktur für die Dauer des Projektes
-* PL kann wie Bereichs-/Abteilungsleiter installiert werden
-* In der Regel für lange dauernde (Groß-)Projekte
-##b) Wie nennt man diese noch? 
-Task force
-##c)Vor-/Nachteile
-**Vorteile**
+# Nenne Vor- und Nachteile der Matrix-Projektorganisation im Vergleich zu anderen Formen. 
+
+## Vorteile:
+  Identifaktion der Projektmitglieder (Team)
+  Keine (Re)Integrationsprobleme bei Projektende
+
+## Nachteile:
+  Konfliktpotential (Projekt-Linie)
+  Doppelunterstellung("zwei Herren")
+
+# Beschreibe die Org.-Form „Auftrags-Projektorganisation“. 
+
+Die Auftrags-Projektorganisation ist zwar Matrixorientiert hat aber keine Doppelunterstellung. Sie hat eine eigene Organisationseinheit: "Projektmanagement" und ist für Unternehmen mit vielen Projekten. Der Projektleiter hat die Gesamtverantwortung und grundsätzlich ist die setzt sich die Auftrags-Projektorganisation aus kleine Projektgruppen(z.B. "Lieferant" ) zusammen. 
+
+> Beispiel: Von der Motoren-Divison von VW kommt der Auftrag an die als Auftrags-PO aufgestellte Forschungsabteilung: „Entwickeln sie eine neue, Abgas-reduziernde Motorensteuerung“. Die Forschungs-Abteilung übernimmt den Auftrag und steuert die Entwicklung. Sie vergibt selbst wieder Aufträge an die Fachabteilungen (Elektronik, IT). Gemanagt wird das Projekt aber von der Forschungsabteilung (analog Bild: „Proj. A“)
+
+![Auftrags-Projektorganisation.jpg](Auftrags-Projektorganisation.jpg)
+
+# a) Beschreibe die Org.-Form „Reine Projektorganisation“.  
+ 
+  Bie einer reinen Projektorganisation werden die Mitarbeiter vollstündig aus ihren üblichen Unternehmensbereichen ausgegliedert und in das Projekt eingebunden. Sie eignet sich besonders gut für umfangreiche, komplexe Projekte von hoher Bedeutung. 
+  Die Verantwortungsbereiche und die Aufgabenverteilung ist klar strukturiert.
+
+# b) Wie nennt man diese noch?      
+
+  Die "reine Projektorganisation" nennt man außerdem noch "Task Force".
+
+# c) Vor-/Nachteile 
+  <!-- |Vorteile |Nachteile |
+  |--|--|
+  |PL hat volle Kompetenz | Wiedereingliederung nach Projektende|
+  |Optimale Ausrichtung auf das Projektziel| Wer wird abgestellt(Qualif.)|
+  |Geringster Overhead | |
+  |Volle Identifikation(Motivation) | | -->
+
+## Vorteile
 * PL hat volle Kompetenz
 * Optimale Ausrichtung auf das Projektziel
 * Geringster Overhead
 * Volle Identifikation (Motivation)
 
-**Nachteile**
+## Nachteile
 * Wiedereingliederung nach Projektende
-* Wer wird abgestellt(Qualif.)
-#Beschreibe die Organisationsform „projektorientiertes Unternehmen“. (Wie ist so eine Form aufgebaut? Wie ist der Arbeitsablauf? Wie werden die Projekte koordiniert usw.)
-> I was ned 
-# Wähle eine Projekt-Organisationsform und begründe* deine Wahl:Sehr umfangreiches Projekt, wenig Risiko, bekannte Technologie, durchschnittlicher Zeitdruck, Plandauer ist 2 Jahre. (Annahme: es wurden/werden nur wenige Projekte im Unternehmen gemacht)*Nenne Aspekte, die für die eine oder andere Form sprechen
+* Wer wird abgestellt (Qualif.)
+
+# Beschreibe die Organisationsform „projektorientiertes Unternehmen“. (Wie ist so eine Form aufgebaut? Wie ist der Arbeitsablauf? Wie werden die Projekte koordiniert usw.)
+
+Wenn Projekte "zum Normalfall" werden wird die Projektorganisation immer mehr auch zur Unternehmensorgainsation.
+Jeder im Führungskreis ist für ein Projekt zuständig. Jeder Arbeiter ist einem Projekt zugeteilt. Dienstleistungsservice (Administration, Verwaltung (z.B. EDV, Personal, …)) wird für alle Projekte zur Verfügung gestellt. 
+
+# Wähle eine Projekt-Organisationsform und begründe* deine Wahl: Sehr umfangreiches Projekt, wenig Risiko, bekannte Technologie, durchschnittlicher Zeitdruck, Plandauer ist 2 Jahre. (Annahme: es wurden/werden nur wenige Projekte im Unternehmen gemacht) 
+> *Nenne Aspekte, die für die eine oder andere Form sprechen.
+
+# Wähle eine Projekt-Organisationsform und begründe* deine Wahl:Projektgröße mittel, hohes Risiko, bekannte Technologie, hoher Zeitdruck, Plandauer 7 Monate. (Annahme: es wurden/werden nicht sehr viele Projekte im Unternehmen gemacht)
+> *Nenne Aspekte, die für die eine oder andere Form sprechen.
+
+# Wähle eine Projekt-Organisationsform und begründe* deine Wahl: Projektgröße klein, hohes Risiko, bekannte Technologie, sehr hoher Zeitdruck, Plandauer 2 Monate. (Annahme: es wurden/werden nur wenige Projekte im Unternehmen gemacht)
+> *Nenne Aspekte, die für die eine oder andere Form sprechen.
+
+# Wähle eine Projekt-Organisationsform und begründe* deine Wahl: Projektgröße klein, mittleres Risiko, unbekannte Technologie, sehr hoher Zeitdruck, Plandauer 12 Monate. (Annahme: es wurden/werden nur wenige Projekte im Unternehmen gemacht)
+> Nenne Aspekte, die für die eine oder andere Form sprechen.
+
+# Beschreibe die Organisationsform „Chefprogrammierer-Team“ (Charakteristika, Vor-, Nachteile)
+
+# a) Was grenzt die Organisationsform „Projektgruppe“ vom „Chefprogrammierer-Team“ ab?       b) Vor- /Nachteile?
+
+# Beschreibe die 4 (bzw. 5) Phasen der Teambildung
+
+# Was unterscheidet Produktstruktur, Objektstruktur und Projektstruktur?
+
+# Wie lautet die englische Bezeichnung für Projektstrukturplan?
+
+# Im Projektstrukturplan wird das Projekt tätigkeitsmäßig und zeitlich gegliedert:    wahr  /  falsch  
