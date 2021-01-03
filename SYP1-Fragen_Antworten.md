@@ -837,8 +837,7 @@ Stakeholderanalyse:
 # Was **IST** ein Projektauftrag? (Inhalt ist NICHT gefragt, auch nicht grob!) Projektauftrag: NICHT: Was ist ein Projektauftrag , sondern:
 
 ## a) Wann im Zeitablauf?
-
-
+I glaub Vorstudie was oba ned genau
 
 ## b) Was gehört in Projektauftrag (Inhalt grob und fein)?
 
@@ -861,3 +860,93 @@ Er enthält (fein):
 - Projektleiter
 - Team
 - Vertragsabschluss-Personen
+
+# **300er**
+# Zähle möglichst vollständig die Bausteine einer guten Projektkultur auf
+* Projekt-Ziele
+* Aufbau-Organisation
+* Ablauf-Organisation
+* Projekt-planung
+* Führung
+* Projekt-controlling
+
+# Was gehört alles zu einer guten Projektkultur? Was muss dafür getan werden? Was bekommt man dafür (Nutzen)?
+Ensteht durch Haltungen, Denkweisen, die der Förderung von Motivation, Engagement und Teamgeist dienen.
+Projektkultur ist und schafft das Klima für
+* Verbesserung der Kooperation
+* Verbesserung der fachlichen sozialen Kompetenz
+* Eine Steigerung der Kreativität
+
+Ergebnis: 
+Verringerung des Projektrisikos
+
+> Wola bin ma ned sicha ob des stimmt oba do steht ois so scheiße
+# Warum ist ein motivierender Projektstart so wichtig? 
+Der Projektstart ist wie der erste Schultag: Man spürt gleich, ob man sich in dieser Gruppe wohl fühlen wird oder nicht. 
+Und vom „Wohlfühlen“ hängt vielfach auch der Erfolg des gesamten Projektes ab.
+Wichtig daher: Gute Projektkultur zeigt sich bereits am Projektstart​
+> Digga steht scho wieda ned gscheid drinne wird scho passen ka
+# Welche Formen haben wir kennen gelernt (Aufzählung)?
+* Start-Up-Seminar
+* Start-Up-Workshop
+* Kick-Off-Meeting
+# Beschreibe ein Projekt-Start-up-Workshop
+oft mehrtägig, außerhalb der Firma
+
+zu den im Start-Up-Seminar behandelten Aufgaben
+* Geschichte, Ziele und Umfeld des Projektes
+* Unklarheiten werden beseitigt
+* Ziele konkretisiert
+* Probleme und Risiken besprochen
+
+kommen noch dazu: 
+* Klimaaufbau, "Wir-Gefühl" herstellen
+* Konfliktquellen frühzeitig erkennen ("Rankkämpfe")
+* Zielausrichtung -> Konzentration auf Projekt
+* gemeinsame Projektplanung (grob: Abgrenzung, Strukturierung, Ressourcen, ..)
+* Rollen / Verantwortung definieren
+* Kommunikationswege festlegen
+
+am besten auch von einem externen Moderator/Berater geleitet
+# Beschreibe ein Projekt-Kick-Off. Was ist das, Ziele, Ablauf. 
+**Was ist das**
+* Erste offizielle Sitzung des Teams nach Erteilung des Durchführungsauftrages
+* Die an der Projektdurchführung beteiligten Personen lernen sich kennen und werden informiert
+
+**Ziele**
+* Klimabildung, Kennen lernen
+* Erwartungen, Hoffnungen, Wünsche gegenseitig darlegen und klären
+* Rollen klären
+* Spielregeln für Zusammenarbeit (Protokoll, Moderation, Pünktlichkeit, Folgen: Kaffekassen füllen ....)
+
+**Ablauf**
+1. Pl eröffnet, stellt sich vor, legt Kompetenz offen
+2. PL stellt Projektziel vor
+3. Jedes Teammitglied stellt sich vor, schildert Erfahrungen, Wünsche und Befürchtungen
+4. Pl informiert über weitere Details des Auftrages, geht auf Wünsche und Befürchtungen ein
+5. Gemeinsam Spielregeln beschließen
+6. Weitere Vorgehensweise vereinbaren
+# Was versteht man unter informeller Organisation?
+Informelle Organisationen sind soziale Strukturen, bei denenzwischenmenschliche Beziehungen eine große Rolle spielen. Sie werden durch soziale Kontakte und Sympathien zwischenden Mitgliedern gebildet und entstehen spontan.
+> Hob i aus Internet i find ned auf Folien
+
+# Nenne die 6 Grundformen von Projektorganisation
+* Einfluss-Projektorganisation
+* Matrix-Projektorganisation
+* Auftrags-Projektorganisation
+* Reine Projektorganisation
+* projektorierentierte Teilorganisation
+* projektorierentiertes Unternehmen
+
+# Nenne Vor- und Nachteile der Einfluss-Projektorganisation 
+**Vorteile**
+* Besteh. Org. braucht nicht verändert werden
+* Personalzuordnung zu mehreren Projekten möglich
+
+**Nachteile**
+* Projektleiter keine Weisungsbefugnis
+* Keine Verantwortung des PL
+* Wenig Verbindendes (Team)
+* Kommunikation mit Auftraggeber
+
+#Nenne Vor- und Nachteile der Matrix-Projektorganisation im Vergleich zu anderen Formen. 
