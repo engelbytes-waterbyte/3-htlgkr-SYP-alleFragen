@@ -1021,4 +1021,6 @@ Jeder im Führungskreis ist für ein Projekt zuständig. Jeder Arbeiter ist eine
 
 # Wie lautet die englische Bezeichnung für Projektstrukturplan?
 
+Work Breakdown Structure
+
 # Im Projektstrukturplan wird das Projekt tätigkeitsmäßig und zeitlich gegliedert:    wahr  /  falsch  
