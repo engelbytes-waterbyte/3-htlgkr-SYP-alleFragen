@@ -860,10 +860,9 @@ Stakeholderanalyse:
 Nach der Vorstudie, vor der Projektplanung  
 Der formelle Startpunkt des Projektes
 
-
 ## b) Was gehört in Projektauftrag (Inhalt grob und fein)?
 
- Er enthält (grob):
+Er enthält (grob):
  - Zielformulierung
  - Qualitätskriterien
  - finanzieller Rahmen
@@ -883,17 +882,23 @@ Er enthält (fein):
 - Team
 - Vertragsabschluss-Personen
 
+
 # **300er**
+
 # Zähle möglichst vollständig die Bausteine einer guten Projektkultur auf
-* Projekt-Ziele
-* Aufbau-Organisation
-* Ablauf-Organisation
-* Projekt-planung
+* Projektziele
+* Aufbauorganisation
+* Ablauforganisation
+* Projektplanung
 * Führung
-* Projekt-controlling
+* Projekt-Controlling
 
 # Was gehört alles zu einer guten Projektkultur? Was muss dafür getan werden? Was bekommt man dafür (Nutzen)?
-Ensteht durch Haltungen, Denkweisen, die der Förderung von Motivation, Engagement und Teamgeist dienen.
+
+Die Projektkultur ist das Umfeld, die Art und Weise wie Methoden, Management usw. mit Menschen verbunden werden
+
+Ensteht durch Haltungen, Denkweisen, die der Förderung von Motivation, Engagement und Teamgeist dienen.  
+  
 Projektkultur ist und schafft das Klima für
 * Verbesserung der Kooperation
 * Verbesserung der fachlichen sozialen Kompetenz
@@ -902,17 +907,20 @@ Projektkultur ist und schafft das Klima für
 Ergebnis: 
 Verringerung des Projektrisikos
 
-> Wola bin ma ned sicha ob des stimmt oba do steht ois so scheiße
-# Warum ist ein motivierender Projektstart so wichtig? 
+# Warum ist ein motivierender Projektstart so wichtig?
+
 Der Projektstart ist wie der erste Schultag: Man spürt gleich, ob man sich in dieser Gruppe wohl fühlen wird oder nicht. 
 Und vom „Wohlfühlen“ hängt vielfach auch der Erfolg des gesamten Projektes ab.
 Wichtig daher: Gute Projektkultur zeigt sich bereits am Projektstart​
-> Digga steht scho wieda ned gscheid drinne wird scho passen ka
+
 # Welche Formen haben wir kennen gelernt (Aufzählung)?
+
 * Start-Up-Seminar
 * Start-Up-Workshop
 * Kick-Off-Meeting
+
 # Beschreibe ein Projekt-Start-up-Workshop
+
 oft mehrtägig, außerhalb der Firma
 
 zu den im Start-Up-Seminar behandelten Aufgaben
@@ -930,6 +938,7 @@ kommen noch dazu:
 * Kommunikationswege festlegen
 
 am besten auch von einem externen Moderator/Berater geleitet
+
 # Beschreibe ein Projekt-Kick-Off. Was ist das, Ziele, Ablauf. 
 **Was ist das**
 * Erste offizielle Sitzung des Teams nach Erteilung des Durchführungsauftrages
