@@ -732,6 +732,7 @@ Durch Multiplikation der Zielwerte mit den Gewichtungswerten und deren Summierun
 # Was geschieht bei der Sensitivitätsanalyse (im Rahmen einer Nutzwertanalyse)?
 
 Variation der Erträge und Beobachtung der Veränderung der Nutzwerte
+Zielsystem testen, Entscheidungsrisiko beurteilen
 
 Die Sensitivitätsanalyse zeigt die Veränderung des Gesamtnutzens, wenn einzelne Parameter verändert werden (Beurteilung des Entscheidungsrisikos)
 
