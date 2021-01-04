@@ -650,7 +650,7 @@ Der Projektantrag ist die Voraussetzung und Grundlage zur Feststellung der Proje
 
 Die feasibility study oder auch Machbarkeitsstudie ist eine Grundlage für die Entscheidung, ob und wie ein Projekt durchgeführt werden kann.
 
-Sie erfolgt im frühen Stadium der Initialisierungsphase und sie ist in der Realisierungsphase bereits vollstädnig abgeschlossen.
+Sie erfolgt am Anfang der Vorstudie, also zwischen Projektidee und Projektplanung.
 
 # Worauf ist bei der Erarbeitung & Formulierung von Zielen zu achten?
 
