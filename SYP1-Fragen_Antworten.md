@@ -735,10 +735,12 @@ Andwendung der Entscheidungsregel
 
 # Wozu dient der Paarvergleich (im Rahmen der Nutzwertanalyse) und wie wird dieser durchgeführt?
 
-Der Paarvergleich wird dazu verwendet herauszufinden welches Kriterium die höchste Gewichtung hat.
-Beim Paarvergleich wird jeder Fall mit einem anderen Fall verglichen.
+Beim Paarvergleich wirde jedes Kriterium mit allen anderen Kriterien verglichen.  
+Dann wird die Summe der Punkte jedes Kriteriums durch die Gesamtpunkteanzahl dividiert, und man erhält die Gewichtung des Kriteriums.
 
 # Was geschieht bei der Sensitivitätsanalyse (im Rahmen einer Nutzwertanalyse)?
+
+Variation der Erträge und Beobachtung der Veränderung der Nutzwerte
 
 Die Sensitivitätsanalyse zeigt die Veränderung des Gesamtnutzens, wenn einzelne Parameter verändert werden (Beurteilung des Entscheidungsrisikos)
 
