@@ -677,6 +677,13 @@ An den Ecken des Teufelsquadrat stehen Qualität, Quantität, Kosten und Entwick
 * Zeitziel (Dauer)
 * Kostenziel (Kosten)
 
+oder
+
+* Lösungsneutralität
+* Operationalität (Messbarkeit)
+* Stoßrichtung
+* Randbedingungen (Ressourcen)
+
 # Eine „Eselsbrücke“ zum Überprüfen der Zielformulierung lautet SMART? Was verbirgt sich dahinter?
 
 - **S**pecific
