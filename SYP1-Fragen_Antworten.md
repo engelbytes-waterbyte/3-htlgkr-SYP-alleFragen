@@ -672,14 +672,10 @@ An den Ecken des Teufelsquadrat stehen Qualität, Quantität, Kosten und Entwick
 
 # Welche 4 Dimensionen enthält ein gut formuliertes Ziel jedenfalls?
 
-> Wos moant der Spost?!
-
-Ein gut formuliertes Ziel besteht aus Hinterfragen der folgenden Fragen:
-
-- Wozu?
-- Für wen?
-- Was? (Endergebnis)
-- Woran messbar?
+* Leistungsziel (Quantität)
+* Qualitätsziel (Qualität)
+* Zeitziel (Dauer)
+* Kostenziel (Kosten)
 
 # Eine „Eselsbrücke“ zum Überprüfen der Zielformulierung lautet SMART? Was verbirgt sich dahinter?
 
