@@ -726,7 +726,8 @@ oder
 # Wozu dient der Paarvergleich (im Rahmen der Nutzwertanalyse) und wie wird dieser durchgeführt?
 
 Beim Paarvergleich wirde jedes Kriterium mit allen anderen Kriterien verglichen.  
-Dann wird die Summe der Punkte jedes Kriteriums durch die Gesamtpunkteanzahl dividiert, und man erhält die Gewichtung des Kriteriums.
+Dann wird die Summe der Punkte jedes Kriteriums durch die Gesamtpunkteanzahl dividiert, und man erhält die Gewichtung des Kriteriums.  
+Durch Multiplikation der Zielwerte mit den Gewichtungswerten und deren Summierung ergeben sich die Nutzwerte.
 
 # Was geschieht bei der Sensitivitätsanalyse (im Rahmen einer Nutzwertanalyse)?
 
