@@ -709,22 +709,12 @@ oder
 
 # Beschreibe den Ablauf einer Nutzwertanalyse.
 
-Zuerst wird das Zielsystem mithilfe der Sensitivitätsanalyse festgelegt.
-
-Danach erfolgt die Ermittlung der Zielertragsmatrix (Erträge der Kriterien bezücglich der Handlungsalternativen)
-
-Ermitteln der Zielwerte (Zielwertmatrix - skalierte Werte bezüglich der Zielerträge)
-Wertsynthese (Nutzwertmatrix)
-Kosten/Nutzen Bewertung
-Andwendung der Entscheidungsregel
-
-1. Zieldefinition
-2. Ausschluss- und Auswahlkriterien definieren
-3. Gewichtung der Kriterien
-4. Definition von Alternativen
-5. Bewerten von Alternativen
-6. Nutzwertberechnung
-7. Sensitivitätsanalyse
+1. Festlegen des Zielsystems (Sensitivitätsanalyse)
+2. Ermitteln der Zielertragsmatrix (Zielertragsmatrix = Erträge der Kriterien bezüglich Handlungsalternativen)
+3. Ermitteln der Zielwerte 🠖 Zielwertmatrix (Skalierte Werte bezüglich der Zielerträge)
+4. Wertsynthese 🠖 Nutzwertmatrix
+5. (Kosten/Nutzen-Bewertung)
+6. Anwendung der Entscheidungsregel
 
 # Warum Nutzwertanalyse (Problemsituation, die für die Anwendung einer NWA spricht)?
 
