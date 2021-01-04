@@ -766,11 +766,19 @@ Die Sensitivitätsanalyse zeigt die Veränderung des Gesamtnutzens, wenn einzeln
 
 ## a) w – f Alle Stakeholder ⊆ aller Shareholder des pdU
 
+Falsch
+
 ## b) w – f Alle Shareholder des pdU ⊆ aller Stakeholder
+
+Wahr
 
 ## c) w – f Ein Stakeholder = Shareholder des pdU
 
+Falsch
+
 ## d) w – f Ein Shareholder des pdU = Stakeholder
+
+Wahr
 
 ---
 
@@ -778,43 +786,67 @@ Die Sensitivitätsanalyse zeigt die Veränderung des Gesamtnutzens, wenn einzeln
 
 > ⊆ = ist Teilmenge von, pdU = das Unternehmen, dass das Projekt durchführt
 
-## a) **w** – f Alle Shareholder des pdU ⊆ aller Stakeholder
+## a) w – f Alle Shareholder des pdU ⊆ aller Stakeholder
 
-## b) w – **f** Alle Stakeholder ⊆ aller Shareholder des pdU
+Wahr
 
-## c) w – **f** Ein Stakeholder = Shareholder des pdU
+## b) w – f Alle Stakeholder ⊆ aller Shareholder des pdU
 
-## d) **w** – f Ein Shareholder des pdU = Stakeholder
+Falsch
 
----
+## c) w – f Ein Stakeholder = Shareholder des pdU
 
-# Kennzeichne (durch umkreisen von ) w (wahr), f (falsch) 
->⊆ = ist Teilmenge von, pdU = das Unternehmen, dass das Projekt durchführt
+Falsch
 
-## a) w – **f** Alle Stakeholder ⊆ aller Shareholder des pdU
+## d) w – f Ein Shareholder des pdU = Stakeholder
 
-## b) **w** – f Ein Shareholder des pdU = Stakeholder
-
-## c) **w** – f Alle Shareholder des pdU ⊆ aller Stakeholder
-
-## d) w – **f** Ein Stakeholder = Shareholder des pdU
+Wahr
 
 ---
 
 # Kennzeichne (durch umkreisen von ) w (wahr), f (falsch) 
 >⊆ = ist Teilmenge von, pdU = das Unternehmen, dass das Projekt durchführt
 
-## a) w – **f** Alle Stakeholder ⊆ aller Shareholder des pdU
+## a) w – f Alle Stakeholder ⊆ aller Shareholder des pdU
 
-## b) w – **f** Ein Stakeholder = Shareholder des pdU
+Falsch
 
-## c) **w** – f Alle Shareholder des pdU ⊆ aller Stakeholder
+## b) w – f Ein Shareholder des pdU = Stakeholder
 
-## d) **w** – f Ein Shareholder des pdU = Stakeholder
+Wahr
+
+## c) w – f Alle Shareholder des pdU ⊆ aller Stakeholder
+
+Wahr
+
+## d) w – f Ein Stakeholder = Shareholder des pdU
+
+Falsch
+
+---
+
+# Kennzeichne (durch umkreisen von ) w (wahr), f (falsch) 
+>⊆ = ist Teilmenge von, pdU = das Unternehmen, dass das Projekt durchführt
+
+## a) w – f Alle Stakeholder ⊆ aller Shareholder des pdU
+
+Falsch
+
+## b) w – f Ein Stakeholder = Shareholder des pdU
+
+Falsch
+
+## c) w – f Alle Shareholder des pdU ⊆ aller Stakeholder
+
+Wahr
+
+## d) w – f Ein Shareholder des pdU = Stakeholder
+
+Wahr
 
 # Was bedeutet "Stakeholder"? Wie wird bei der Stakeholderanalyse vorgegangen?
 
-Stakeholder sind Personen die in irgendeiner Weise am Projekt interessiert sind bze betroffen sind. 
+Stakeholder sind Personen die in irgendeiner Weise am Projekt interessiert sind bzw. betroffen sind.
 
 Stakeholderanalyse:
 1. identifiziere Stakeholder
@@ -825,7 +857,10 @@ Stakeholderanalyse:
 # Was **IST** ein Projektauftrag? (Inhalt ist NICHT gefragt, auch nicht grob!) Projektauftrag: NICHT: Was ist ein Projektauftrag , sondern:
 
 ## a) Wann im Zeitablauf?
-I glaub Vorstudie was oba ned genau
+
+Nach der Vorstudie, vor der Projektplanung  
+Der formelle Startpunkt des Projektes
+
 
 ## b) Was gehört in Projektauftrag (Inhalt grob und fein)?
 
