@@ -679,9 +679,7 @@ An den Ecken des Teufelsquadrat stehen Qualität, Quantität, Kosten und Entwick
 
 # Eine „Eselsbrücke“ zum Überprüfen der Zielformulierung lautet SMART? Was verbirgt sich dahinter?
 
-Hinter _SMART_ verbergen sich die folgenden Adjektive:
-
-- **S**mart
+- **S**pecific
 - **M**easurable
 - **A**chievable
 - **R**elevant
@@ -689,16 +687,12 @@ Hinter _SMART_ verbergen sich die folgenden Adjektive:
 
 # Eine „Eselsbrücke“ zum Überprüfen der Zielformulierung lautet PURE? Was verbirgt sich dahinter?
 
-Hinter _PURE_ verbergen sich die folgenden Adjektive:
-
 - **P**ositively Stated (positiv formuliert)
 - **U**nderstood (verständlich)
 - **R**elevant
 - **E**thical (ethisch korrekt)
 
 # Eine „Eselsbrücke“ zum Überprüfen der Zielformulierung lautet CLEAR? Was verbirgt sich dahinter?
-
-Hinter _CLEAR_ verbergen sich die folgenden Adjektive:
 
 - **C**hallenging (herausfordernd)
 - **L**egal (legal, rechtskonform)
