@@ -750,18 +750,15 @@ Die Sensitivitätsanalyse zeigt die Veränderung des Gesamtnutzens, wenn einzeln
 
 # Wie kann eine Abgrenzung eines Projektes zum Umfeld geschehen (Sichten)?
 
-aus inhaltlicher Sicht: Was ist Gegenstand, was nicht
+**aus inhaltlicher Sicht: Was ist Gegenstand, was nicht**
 
 - sachlich: Ziele und Inhalte
 - zeitlich: Anfangs- und End- Ereignis
 - sozial: Rollen und Werte
 
-aus Beziehungssicht: Außenbeziehungen des Projekts
-||||
-| :- |-:| -:|
-| sachlich | zu| anderen Projekten|
-| zeitlich |zum | zum Unternehmen |
-| sozial | zur | zur Unternehmensumwelt |
+**aus Beziehungssicht: Außenbeziehungen des Projekts**
+
+![Projekt_Umfeld_Abgrenzung_Beziehungssicht.png](Projekt_Umfeld_Abgrenzung_Beziehungssicht.png)
 
 # Kennzeichne (durch umkreisen von ) w (wahr), f (falsch)
 
