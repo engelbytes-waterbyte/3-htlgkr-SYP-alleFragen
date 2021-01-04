@@ -762,11 +762,11 @@ Die Sensitivitätsanalyse zeigt die Veränderung des Gesamtnutzens, wenn einzeln
 
 # Kennzeichne (durch umkreisen von ) w (wahr), f (falsch)
 
->  = ist Teilmenge von, pdU = das Unternehmen, dass das Projekt durchführt
+> ⊆ = ist Teilmenge von, pdU = das Unternehmen, dass das Projekt durchführt
 
-## a) w – f Alle Stakeholder  aller Shareholder des pdU
+## a) w – f Alle Stakeholder ⊆ aller Shareholder des pdU
 
-## b) w – f Alle Shareholder des pdU  aller Stakeholder
+## b) w – f Alle Shareholder des pdU ⊆ aller Stakeholder
 
 ## c) w – f Ein Stakeholder = Shareholder des pdU
 
@@ -776,11 +776,11 @@ Die Sensitivitätsanalyse zeigt die Veränderung des Gesamtnutzens, wenn einzeln
 
 # Kennzeichne (durch umkreisen von ) w (wahr), f (falsch)
 
->  = ist Teilmenge von, pdU = das Unternehmen, dass das Projekt durchführt
+> ⊆ = ist Teilmenge von, pdU = das Unternehmen, dass das Projekt durchführt
 
-## a) **w** – f Alle Shareholder des pdU  aller Stakeholder
+## a) **w** – f Alle Shareholder des pdU ⊆ aller Stakeholder
 
-## b) w – **f** Alle Stakeholder  aller Shareholder des pdU
+## b) w – **f** Alle Stakeholder ⊆ aller Shareholder des pdU
 
 ## c) w – **f** Ein Stakeholder = Shareholder des pdU
 
@@ -789,26 +789,26 @@ Die Sensitivitätsanalyse zeigt die Veränderung des Gesamtnutzens, wenn einzeln
 ---
 
 # Kennzeichne (durch umkreisen von ) w (wahr), f (falsch) 
-> = ist Teilmenge von, pdU = das Unternehmen, dass das Projekt durchführt
+>⊆ = ist Teilmenge von, pdU = das Unternehmen, dass das Projekt durchführt
 
-## a) w – **f** Alle Stakeholder  aller Shareholder des pdU
+## a) w – **f** Alle Stakeholder ⊆ aller Shareholder des pdU
 
 ## b) **w** – f Ein Shareholder des pdU = Stakeholder
 
-## c) **w** – f Alle Shareholder des pdU  aller Stakeholder
+## c) **w** – f Alle Shareholder des pdU ⊆ aller Stakeholder
 
 ## d) w – **f** Ein Stakeholder = Shareholder des pdU
 
 ---
 
 # Kennzeichne (durch umkreisen von ) w (wahr), f (falsch) 
-> = ist Teilmenge von, pdU = das Unternehmen, dass das Projekt durchführt
+>⊆ = ist Teilmenge von, pdU = das Unternehmen, dass das Projekt durchführt
 
-## a) w – **f** Alle Stakeholder  aller Shareholder des pdU
+## a) w – **f** Alle Stakeholder ⊆ aller Shareholder des pdU
 
 ## b) w – **f** Ein Stakeholder = Shareholder des pdU
 
-## c) **w** – f Alle Shareholder des pdU  aller Stakeholder
+## c) **w** – f Alle Shareholder des pdU ⊆ aller Stakeholder
 
 ## d) **w** – f Ein Shareholder des pdU = Stakeholder
 
