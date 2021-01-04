@@ -723,6 +723,7 @@ Andwendung der Entscheidungsregel
 
 - Viele Kriterien
 - Viele Mitreder/Mitentscheider
+- Man möchte fähig sein, im nachhinein zu erklären, wie eine Entscheidung zustande kam
 - Verschiedene Personenen haben verschiedene Bedürfnisse/Anforderungen
 
 # Wozu dient der Paarvergleich (im Rahmen der Nutzwertanalyse) und wie wird dieser durchgeführt?
