@@ -112,7 +112,7 @@ Die Auftrags-Projektorganisation ist zwar Matrixorientiert hat aber keine Doppel
 
 > Beispiel: Von der Motoren-Divison von VW kommt der Auftrag an die als Auftrags-PO aufgestellte Forschungsabteilung: „Entwickeln sie eine neue, Abgas-reduziernde Motorensteuerung“. Die Forschungs-Abteilung übernimmt den Auftrag und steuert die Entwicklung. Sie vergibt selbst wieder Aufträge an die Fachabteilungen (Elektronik, IT). Gemanagt wird das Projekt aber von der Forschungsabteilung (analog Bild: „Proj. A“)
 
-![Auftrags-Projektorganisation.jpg](Auftrags-Projektorganisation.jpg)
+![Auftrags-Projektorganisation.jpg](SYP1-Fragen_Grafiken/Auftrags-Projektorganisation.jpg)
 
 # a) Beschreibe die Org.-Form „Reine Projektorganisation“.  
  

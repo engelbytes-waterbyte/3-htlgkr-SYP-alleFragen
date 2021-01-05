@@ -128,7 +128,7 @@ Die Sensitivitätsanalyse zeigt die Veränderung des Gesamtnutzens, wenn einzeln
 
 **aus Beziehungssicht: Außenbeziehungen des Projekts**
 
-![Projekt_Umfeld_Abgrenzung_Beziehungssicht.png](Projekt_Umfeld_Abgrenzung_Beziehungssicht.png)
+![Projekt_Umfeld_Abgrenzung_Beziehungssicht.png](SYP1-Fragen_Grafiken/Projekt_Umfeld_Abgrenzung_Beziehungssicht.png)
 
 # Kennzeichne (durch umkreisen von ) w (wahr), f (falsch)
 

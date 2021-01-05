@@ -34,7 +34,7 @@ Technisch gesehen: ein Projekt ist eine **Aufgabe (Vorhaben)**
 
 Projektmanagement besteht aus _Organisation_, _Mensch_ und _Methode_
 
-# Was ist die Lehre aus dem Diagramm? (gehe dabei auch auf die Projektphasen ein) ![Kosten_Zeit_Ersparnis.png](Kosten_Zeit_Ersparnis.png)
+# Was ist die Lehre aus dem Diagramm? (gehe dabei auch auf die Projektphasen ein) ![Kosten_Zeit_Ersparnis.png](SYP1-Fragen_Grafiken/Kosten_Zeit_Ersparnis.png)
 
 Mehraufwand von 5 % in der Anfangsphase führt zu Kosten- und Zeitvorteil von ca. 20 % beim Projektabschluss.
 
@@ -96,7 +96,7 @@ Mehraufwand von 5 % in der Anfangsphase führt zu Kosten- und Zeitvorteil von ca
 
 # Skizziere das Prozessmodell der DIN 69901
 
-![Prozessmodell DIN 69901.PNG](ProzessmodellDIN69901.PNG)
+![Prozessmodell DIN 69901.PNG](SYP1-Fragen_Grafiken/ProzessmodellDIN69901.PNG)
 
 # Welche Prozessphasen sieht die DIN 69901 in Projektmanagement-Prozessen vor?
 
@@ -227,7 +227,7 @@ n**ach Aufgabengebiet (Projektinhalt)**
 - Sachziel(z.B Produktverbesserung)
 - Prozessziel (z.B Ablaufverbesserung)
 
-![DIN69901-Phasenmodell.jpg](DIN69901-Phasenmodell.jpg)
+![DIN69901-Phasenmodell.jpg](SYP1-Fragen_Grafiken/DIN69901-Phasenmodell.jpg)
 
 # Welche Prozessphasen sieht die DIN 69901 in Projektmanagement-Prozessen vor?
 
@@ -601,6 +601,8 @@ Eine Kreativitätstechnik
 - Lösungen des Gesamtproblems ergeben sich durch Kombination der einzelnen Bestandteils-Lösungen
 
 ## Worauf ist zu achten?
+
+Tabelle anfertigen
 
 # Beschreibe die Methode Mindmapping?
 
