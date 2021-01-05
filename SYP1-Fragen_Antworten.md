@@ -151,10 +151,70 @@ abgenommen wurden
 
 # Welche Projektarten kann man unterscheiden?
 
-**Nach Auftraggeber**
+
+**nach Auftraggeber**
 
 - intern
 - extern
+
+**nach Ziel**
+
+- Sachziel → zb Produktverbesserung
+- Prozessziel → Ablaufverbesserung
+
+**nach Häufigkeit**
+
+- repetitiv → ähnliche Grundstruktur
+- nicht repetitiv → einmalig
+
+**nach relativer Neuartigkeit**
+
+- Wie bekannt ist der Zweck bzw. die Anwendung?
+- Wie bekannt sind die Mittel- bzw Technologien
+
+n**ach Aufgabengebiet (Projektinhalt)**
+
+- Investitionsprojekte
+- Kundenauftragsprojekte
+- Forschungs- und Entwicklungsprojekte
+- Bauprojekte
+- IT-Projekte
+- Dienstleistungsprojekte
+- usw.
+
+**Nach Projektorganisation / Befugnisse des Projektleiters**
+
+- Einflussprojekt
+- Matrixprojekt
+- Autonomes Projekt
+
+**Projektsteuerung**
+
+- Technokratisches Projekt
+- Agiles Projekt
+
+**nach strategischen Aspekten**
+
+- Akzeptanzprojekte( komplexe Standardprojekte)
+    - werden meist wiederholt (Wiederholcharakter)
+    - unbekannte Personen
+    - abteilungsübergreifende Zusammenarbeit
+    - klare Aufgabenstellung
+- PionierProjekte
+    - kein Wiederholcharakter
+    - unbekannte Personen
+    - alternative Lösungswege
+    - abteilungs übergreifende Zusammenarbeit
+- Potentialprojekte
+    - kein Wiederholcharakter
+    - bekannte Personen
+    - alternative Lösungswege
+    - innerhalb einer Abteilung
+- Standard-/Routineprojekte
+    - Wiederholcharakter
+    - bekannte Personen
+    - klare Aufgabenstellung
+    - innerhalb einer Abteilung
 
 # Welche grundlegenden Prozesse unterscheidet DIN 69901?
 

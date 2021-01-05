@@ -149,14 +149,73 @@ abgenommen wurden
 
 **Projektmanagement als Basis für die Personalauswahl und für die Entwicklung zukünftiger Führungskräfte**
 
-# Welche Projektarten kann man unterscheiden?
+# Welche Projektarten kann man unterscheiden? 
 
-**Nach Auftraggeber**
+**nach Auftraggeber**
 
 - intern
 - extern
 
-# Welche grundlegenden Prozesse unterscheidet DIN 69901?
+**nach Ziel**
+
+- Sachziel → zb Produktverbesserung
+- Prozessziel → Ablaufverbesserung
+
+**nach Häufigkeit**
+
+- repetitiv → ähnliche Grundstruktur
+- nicht repetitiv → einmalig
+
+**nach relativer Neuartigkeit**
+
+- Wie bekannt ist der Zweck bzw. die Anwendung?
+- Wie bekannt sind die Mittel- bzw Technologien
+
+n**ach Aufgabengebiet (Projektinhalt)**
+
+- Investitionsprojekte
+- Kundenauftragsprojekte
+- Forschungs- und Entwicklungsprojekte
+- Bauprojekte
+- IT-Projekte
+- Dienstleistungsprojekte
+- usw.
+
+**Nach Projektorganisation / Befugnisse des Projektleiters**
+
+- Einflussprojekt
+- Matrixprojekt
+- Autonomes Projekt
+
+**Projektsteuerung**
+
+- Technokratisches Projekt
+- Agiles Projekt
+
+**nach strategischen Aspekten**
+
+- Akzeptanzprojekte( komplexe Standardprojekte)
+    - werden meist wiederholt (Wiederholcharakter)
+    - unbekannte Personen
+    - abteilungsübergreifende Zusammenarbeit
+    - klare Aufgabenstellung
+- PionierProjekte
+    - kein Wiederholcharakter
+    - unbekannte Personen
+    - alternative Lösungswege
+    - abteilungs übergreifende Zusammenarbeit
+- Potentialprojekte
+    - kein Wiederholcharakter
+    - bekannte Personen
+    - alternative Lösungswege
+    - innerhalb einer Abteilung
+- Standard-/Routineprojekte
+    - Wiederholcharakter
+    - bekannte Personen
+    - klare Aufgabenstellung
+    - innerhalb einer Abteilung
+  
+<!-- # Welche grundlegenden Prozesse unterscheidet DIN 69901?
 
 - Führungsprozesse
 - Projektmanagementprozesse
@@ -268,7 +327,7 @@ nach strategischen Aspekten
   - Wiederholcharakter
   - bekannte Personen
   - klare Aufgabenstellung
-  - innerhalb einer Abteilung
+  - innerhalb einer Abteilung -->
 
 # Welche Faktoren sind bei einem Innovationsprojekt besonders ausgeprägt?
 
@@ -483,6 +542,8 @@ Ideensuchgruppe soll zu bekanntem Problem so viele Lösungsvorschläge wie mögl
 
 Eine Kreativiätstechnik
 
+
+
 ## Wie ist der Ablauf?
 
 **6** Problemlöser schreiben je **3** Lösungsansätze auf Blatt Papier.  
@@ -506,13 +567,26 @@ jedem der 6 Teilnehmer mit 3 Lösungsideen beschrieben sind.
 
 Eine Kreativitätstechnik
 
+> Sinn: Von geistigen Fesseln befreien, Abstand vom Problem gewinnen, weg von bekannten Gleisen
+
 ## Wie ist der Ablauf?
 
 - Mache dir das Fremde vertraut = Gründliche Problemanalyse
-- Entfremdedir das Vertraute: Durch Bildung von Analogien verfremden und für neue Problemstellungen nach Lösungen suchen (um den Hemmschuh "Erfahrung" zu entfernen)
+- Entfremde dir das Vertraute: Durch Bildung von Analogien verfremden und für neue Problemstellungen nach Lösungen suchen (um den Hemmschuh "Erfahrung" zu entfernen)
 - Die möglicherweise "utopischen" Lösungen wieder an die ursprüngliche Problemstellung ranführen
 
 ## Worauf ist zu achten?
+Verfremdung durch Analogien-Bildung
+- Persönliche Analogie: sich hineindenken
+- Wenn ich ein Kolben im Dieselmotor wäre ….
+- Direkte Analogien, z. B. aus anderen Wissensgebieten 
+  - Entsalzung: Wie macht das ein Seevogel? ( Bionik
+- Symbolische Analogie: „Buchtitel“1) suchen
+  - Viskosität … Buchtitel: verzögerndes Verschieben
+  - Maschinengewehrfeuer  … Buchtitel: zusammenhängende Pausen
+
+- Phantastische Analogie
+  - Wenn wir dressierte Ameisen als Zahlen benutzen könnten, welche Art von Rechenmaschine mit Eigenantrieb könnten wir herstellen?
 
 # Beschreibe die Methode Morphologie?
 
