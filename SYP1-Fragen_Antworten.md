@@ -1055,12 +1055,12 @@ Informale Organisation basiert in erster Linie auf Zielen und Verhaltensweisen d
 # Nenne Vor- und Nachteile der Matrix-Projektorganisation im Vergleich zu anderen Formen. 
 
 ## Vorteile:
-  Identifaktion der Projektmitglieder (Team)
-  Keine (Re)Integrationsprobleme bei Projektende
+* Identifaktion der Projektmitglieder (Team)
+* Keine (Re)Integrationsprobleme bei Projektende
 
 ## Nachteile:
-  Konfliktpotential (Projekt-Linie)
-  Doppelunterstellung("zwei Herren")
+* Konfliktpotential (Projekt-Linie)
+* Doppelunterstellung("zwei Herren")
 
 # Beschreibe die Org.-Form „Auftrags-Projektorganisation“. 
 
