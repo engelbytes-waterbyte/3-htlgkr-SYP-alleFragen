@@ -1,6 +1,9 @@
 # Was zeichnet sachbezogenes Verhandeln aus? (Harvard-Konzept) (Textlücken füllen)
 Hart in ……… , weich  …..….
 
+Hart in der Sache, weich zu den Menschen
+
+> Ob des stimmt? - Ma was es ned
 > Harvard der huan ka diggah
 
 
