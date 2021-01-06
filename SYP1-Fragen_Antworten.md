@@ -957,9 +957,15 @@ Er enthält (fein):
 
 # Was gehört alles zu einer guten Projektkultur? Was muss dafür getan werden? Was bekommt man dafür (Nutzen)?
 
-Die Projektkultur ist das Umfeld, die Art und Weise wie Methoden, Management usw. mit Menschen verbunden werden
+* Projektziele
+* Aufbauorganisation
+* Ablauforganisation
+* Projektplanung
+* Führung
+* Projekt-Controlling
 
-Ensteht durch Haltungen, Denkweisen, die der Förderung von Motivation, Engagement und Teamgeist dienen.  
+Ensteht durch Haltungen und Denkweisen, die der Förderung von Motivation, Engagement und Teamgeist dienen.  
+Projektkultur muss gelebt werden.  
   
 Projektkultur ist und schafft das Klima für
 * Verbesserung der Kooperation
@@ -972,7 +978,8 @@ Verringerung des Projektrisikos
 # Warum ist ein motivierender Projektstart so wichtig?
 
 Der Projektstart ist wie der erste Schultag: Man spürt gleich, ob man sich in dieser Gruppe wohl fühlen wird oder nicht. 
-Und vom „Wohlfühlen“ hängt vielfach auch der Erfolg des gesamten Projektes ab.
+Und vom „Wohlfühlen“ hängt vielfach auch der Erfolg des gesamten Projektes ab.  
+  
 Wichtig daher: Gute Projektkultur zeigt sich bereits am Projektstart​
 
 # Welche Formen haben wir kennen gelernt (Aufzählung)?
@@ -1013,15 +1020,18 @@ am besten auch von einem externen Moderator/Berater geleitet
 * Spielregeln für Zusammenarbeit (Protokoll, Moderation, Pünktlichkeit, Folgen: Kaffekassen füllen ....)
 
 **Ablauf**
-1. Pl eröffnet, stellt sich vor, legt Kompetenz offen
-2. PL stellt Projektziel vor
+1. Projektleiter eröffnet, stellt sich vor, legt Kompetenz offen
+2. Projektleiter stellt Projektziel vor
 3. Jedes Teammitglied stellt sich vor, schildert Erfahrungen, Wünsche und Befürchtungen
-4. Pl informiert über weitere Details des Auftrages, geht auf Wünsche und Befürchtungen ein
+4. Projektleiter informiert über weitere Details des Auftrages, geht auf Wünsche und Befürchtungen ein
 5. Gemeinsam Spielregeln beschließen
 6. Weitere Vorgehensweise vereinbaren
+
+
 # Was versteht man unter informeller Organisation?
-Informelle Organisationen sind soziale Strukturen, bei denenzwischenmenschliche Beziehungen eine große Rolle spielen. Sie werden durch soziale Kontakte und Sympathien zwischenden Mitgliedern gebildet und entstehen spontan.
-> Hob i aus Internet i find ned auf Folien
+
+Die informelle Organisation ist im Gegensatz zur Aufbau- oder Ablauforganisation NICHT explizit geregelt/geplant und NICHT schriftlich festgelegt.  
+Informale Organisation basiert in erster Linie auf Zielen und Verhaltensweisen der einzelnen Mitarbeiter und entsteht aufgrund spontaner, ungeplanter Beziehungen zwischen den Mitarbeitern. Die informale Organisation ergänzt und überlagert die formale Organisation. Sie kann die formale Organisation unterstützen oder behindern.
 
 # Nenne die 6 Grundformen von Projektorganisation
 * Einfluss-Projektorganisation
@@ -1054,6 +1064,11 @@ Informelle Organisationen sind soziale Strukturen, bei denenzwischenmenschliche 
 
 # Beschreibe die Org.-Form „Auftrags-Projektorganisation“. 
 
+* Matrixorientiert, aber keine Doppelunterstellung
+* Eigene Organisationseinheit „Projektmanagement“ 🠖 für Unternehmen mit vielen Projekten
+* Projektleiter hat Gesamtverantwortung
+* Kleine Projektgruppe ist z.B. „Lieferant“ des Vertriebes oder der Leitung und „Auftraggeber“ für Entwicklung und Fertigung
+
 Die Auftrags-Projektorganisation ist zwar Matrixorientiert hat aber keine Doppelunterstellung. Sie hat eine eigene Organisationseinheit: "Projektmanagement" und ist für Unternehmen mit vielen Projekten. Der Projektleiter hat die Gesamtverantwortung und grundsätzlich ist die setzt sich die Auftrags-Projektorganisation aus kleine Projektgruppen(z.B. "Lieferant" ) zusammen. 
 
 > Beispiel: Von der Motoren-Divison von VW kommt der Auftrag an die als Auftrags-PO aufgestellte Forschungsabteilung: „Entwickeln sie eine neue, Abgas-reduziernde Motorensteuerung“. Die Forschungs-Abteilung übernimmt den Auftrag und steuert die Entwicklung. Sie vergibt selbst wieder Aufträge an die Fachabteilungen (Elektronik, IT). Gemanagt wird das Projekt aber von der Forschungsabteilung (analog Bild: „Proj. A“)
@@ -1061,11 +1076,18 @@ Die Auftrags-Projektorganisation ist zwar Matrixorientiert hat aber keine Doppel
 ![Auftrags-Projektorganisation.jpg](SYP1-Fragen_Grafiken/Auftrags-Projektorganisation.jpg)
 
 # a) Beschreibe die Org.-Form „Reine Projektorganisation“.  
- 
-  Bie einer reinen Projektorganisation werden die Mitarbeiter vollstündig aus ihren üblichen Unternehmensbereichen ausgegliedert und in das Projekt eingebunden. Sie eignet sich besonders gut für umfangreiche, komplexe Projekte von hoher Bedeutung. 
-  Die Verantwortungsbereiche und die Aufgabenverteilung ist klar strukturiert.
 
-# b) Wie nennt man diese noch?      
+* Separate Struktur für die Dauer des Projektes
+* Projektleiter kann wie Bereichs-/Abteilungsleiter installiert werden
+* In der Regel für lange dauernde (Groß-)Projekte
+* Mitarbeiter werden vollständig aus ihren üblichen Unternehmensbereichen ausgegliedert und in das Projekt eingebunden
+ 
+Bei einer reinen Projektorganisation werden die Mitarbeiter vollstündig aus ihren üblichen Unternehmensbereichen ausgegliedert und in das Projekt eingebunden. Sie eignet sich besonders gut für umfangreiche, komplexe Projekte von hoher Bedeutung. 
+Die Verantwortungsbereiche und die Aufgabenverteilung ist klar strukturiert.
+
+# b) Wie nennt man diese noch?
+
+  Task Force
 
   Die "reine Projektorganisation" nennt man außerdem noch "Task Force".
 
@@ -1089,11 +1111,19 @@ Die Auftrags-Projektorganisation ist zwar Matrixorientiert hat aber keine Doppel
 
 # Beschreibe die Organisationsform „projektorientiertes Unternehmen“. (Wie ist so eine Form aufgebaut? Wie ist der Arbeitsablauf? Wie werden die Projekte koordiniert usw.)
 
-Wenn Projekte "zum Normalfall" werden wird die Projektorganisation immer mehr auch zur Unternehmensorgainsation.
-Jeder im Führungskreis ist für ein Projekt zuständig. Jeder Arbeiter ist einem Projekt zugeteilt. Dienstleistungsservice (Administration, Verwaltung (z.B. EDV, Personal, …)) wird für alle Projekte zur Verfügung gestellt. 
+* Wenn Projekte "zum Normalfall" werden, wird die Projektorganisation immer mehr auch zur Unternehmensorgainsation.  
+* Jeder im Führungskreis ist für ein Projekt zuständig (Projektleiter) und kann im nächsten Projekt wieder zum Arbeiter werden.  
+* Jeder Arbeiter ist einem Projekt zugeteilt.  
+* Dienstleistungsservice (Administration, Verwaltung (z.B. EDV, Personal, …)) wird für alle Projekte zur Verfügung gestellt. 
+
+Wenn Projekte "zum Normalfall" werden, wird die Projektorganisation immer mehr auch zur Unternehmensorgainsation.  
+Jeder im Führungskreis ist für ein Projekt zuständig (Projektleiter) und kann im nächsten Projekt wieder zum Arbeiter werden.  
+Jeder Arbeiter ist einem Projekt zugeteilt.  
+Dienstleistungsservice (Administration, Verwaltung (z.B. EDV, Personal, …)) wird für alle Projekte zur Verfügung gestellt. 
 
 # Wähle eine Projekt-Organisationsform und begründe* deine Wahl: Sehr umfangreiches Projekt, wenig Risiko, bekannte Technologie, durchschnittlicher Zeitdruck, Plandauer ist 2 Jahre. (Annahme: es wurden/werden nur wenige Projekte im Unternehmen gemacht) 
-> *Nenne Aspekte, die für die eine oder andere Form sprechen.
+
+
 
 # Wähle eine Projekt-Organisationsform und begründe* deine Wahl:Projektgröße mittel, hohes Risiko, bekannte Technologie, hoher Zeitdruck, Plandauer 7 Monate. (Annahme: es wurden/werden nicht sehr viele Projekte im Unternehmen gemacht)
 > *Nenne Aspekte, die für die eine oder andere Form sprechen.
@@ -1110,10 +1140,38 @@ Jeder im Führungskreis ist für ein Projekt zuständig. Jeder Arbeiter ist eine
 
 # Beschreibe die 4 (bzw. 5) Phasen der Teambildung
 
+1. Forming (Orientierungsphase)  
+Kennenlernen und Grenzen ausloten, definieren von Regeln und Methode
+
+2. Storming (Machtkampfphase)  
+„Rangkämpfe“ treten auf, informelle Hierarchie bildet sich
+
+3. Norming (Organisationsphase)  
+Konflikte sind geklärt, Gruppennormen bilden sich aus und werden anerkannt
+
+4. Performing (Leistungsphase)  
+endlich kann alle Energie den Projektaufgaben gewidmet werden
+
+5. Adjourning (Auflösungsphase)  
+Teamauflösung VOR Beendigung des Projekts. Zentrale Frage / Angst jedes Einzelnen: Wie geht es mit mir nach dem Projekt weiter?
+
+
 # Was unterscheidet Produktstruktur, Objektstruktur und Projektstruktur?
+
+* Produktstruktur  
+z.B. eine Stückliste: Zerlegung eines Motors in seine Einzelteile
+
+* Objektstruktur
+Produktstruktur + erforderliche Werkzeuge und Vorrichtungen, Hilfsmittel, Zwischenergebnisse
+
+* Projektstruktur  
+Objektstruktur + Aufgaben bzw. Projektfunktionen
+
 
 # Wie lautet die englische Bezeichnung für Projektstrukturplan?
 
 Work Breakdown Structure
 
 # Im Projektstrukturplan wird das Projekt tätigkeitsmäßig und zeitlich gegliedert:    wahr  /  falsch  
+
+Falsch
