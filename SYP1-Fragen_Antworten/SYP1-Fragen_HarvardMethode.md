@@ -4,7 +4,7 @@
 # Was zeichnet sachbezogenes Verhandeln aus? (Harvard-Konzept) 
 `Textlücken füllen`
 
- Hart in ……… , weich  …..….
+ Hart in ……… , weich  ………
 
  Hart in Willenskämpfen, Weich in Geständnissen
 
@@ -49,11 +49,14 @@ Das Harvard-Konzept des "sachbezogenen Verhandelns" beruht im Wesentlichen auf v
 
 # Was unterscheidet „Interessen“ von „Positionen“? (Harvard)
 
+<!-- Interessen sollen verbindet werden -> gemeinsame Lösung finden. -->
+<!-- Positionen sollen während der Verhandlung getrennt werden. -->
 
-> am Beispiel Bibliothe
+Interessen können viele Positionen hinter sich vereinen. Eine Position dagegen ist unverrückbar. Die Formulierung von Interessen ermöglicht es auch dem Verhandlungspartner eine Lösungsmöglichkeit zu finden.
+
+> am Beispiel Bibliothek
 > Position: Entscheidung das Fenster zu öffnen
 > Interesse: frische Luft, vermeidung von Zugluft
-
 
 # Wie kann man die Interessen der Gegenseite rausfinden? (Harvard)
 
@@ -64,6 +67,8 @@ In die Lage der anderen hineinversetzen
 Nein
 
 # Wie gelangt man zu objektiven / neutralen  Kriterien? (Harvard)
+
+
 # Harvard-Methode: Wie schützt man sich vor „Notabschlüssen“ ?
 
 Mindestergbnis festlegen
@@ -81,6 +86,7 @@ Was bedeuted Verhandlungs-Judo? Was tun?
 
 - nicht auf Angriffe eingehen
 - Verhandlungsebene adjustieren
+- Ruhig zuhören
 
 
 
@@ -91,6 +97,8 @@ Interessen hinter Fordeerungen herausfiltern,
 Folgen der Verhandlung erfahren,
 
 Gegenseite um Rat bitten
+
+Stimmung ansprechen
 
 # Harvard-Methode: Was kann man gegen falsche Aussagen machen?
 
