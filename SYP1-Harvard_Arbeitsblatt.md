@@ -42,7 +42,7 @@
 1. Menschen und Sachprobleme trennen
 2. Nicht Position sondern Interessen verfolgen!
 3. Vor der Entscheidung
-    1. Viele Optionen zum beidseitigen Nutzen entwickeln
+   -  Viele Optionen zum beidseitigen Nutzen entwickeln
 4. Verhandlung → Objektive Kriterien anziehen
 
 # Benjamin Franklin-Taktik ... was machte er?
