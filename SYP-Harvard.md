@@ -1,4 +1,4 @@
-# Was zeichnet sachbezogenes Verhandeln aus? (Harvard-Konzept) (Textlücken füllen)
+<!-- # Was zeichnet sachbezogenes Verhandeln aus? (Harvard-Konzept) (Textlücken füllen)
 Hart in ……… , weich  …..….
 
 Hart in der Sache, weich zu den Menschen
@@ -13,3 +13,6 @@ Hart in der Sache, weich zu den Menschen
 2. Nicht Positionen, sondern Interessen verfolgen
 3. Vor Entscheidung verschiedene Optionen zu Nutzen beider entwickeln
 4. In Verhandlung objektive Kriterien heranziehen
+-->
+
+> diese Fragen sand jetzt im SYP1-Fragen_Antworten Ordner  

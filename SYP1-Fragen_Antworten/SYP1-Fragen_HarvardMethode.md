@@ -8,12 +8,14 @@
 
 # Nenne die Grundsätze (Leitsätze) der Harvard-Methode
 
-Trenne … 
-Nicht Positionen sondern …. 
-Vor Entscheidung verschiedene  ….  
-In Verhandlung ….  
+1. Trenne Menschen und Probleme/Interessen (Sachfragen)
+2. Nicht Positionen, sondern Interessen verfolgen
+3. Vor Entscheidung verschiedene Optionen zu Nutzen beider entwickeln
+4. In Verhandlung objektive Kriterien heranziehen  
 
 # Die Harvard-Methode empfiehlt:  Bestehen sie auf neutrale Beurteilungskriterien!  Wie kann man das machen?
+
+
 
 # Harvard: Was ist die Folge eines einseitig begonnenen harten Verhandlungsstils (bei gleich starken Partnern: wie reagiert der Partner)?
 > (Achte darauf, relevant zu antworten! Was gehört wirklich zur Frage!) 

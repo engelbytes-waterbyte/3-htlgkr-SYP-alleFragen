@@ -17,7 +17,7 @@ Der Projektantrag ist die Voraussetzung und Grundlage zur Feststellung der Proje
 
 # Was ist eine feasibility study? Wann erfolgt eine solche (zeitlich im Projektablauf)
 
-Die feasibility study oder auch Machbarkeitsstudie ist eine Grundlage für die Entscheidung, ob und wie ein Projekt durchgeführt werden kann.
+Die feasibility study oder auch Machbarkeitsstudie ist eine Grundlage für die Entscheidung, ob und wie ein Projekt durchgeführt werden kann. Sie untersucht Wirtschaftlichkeit, technische Umsetzbarkeit und Risiko.
 
 Sie erfolgt am Anfang der Vorstudie, also zwischen Projektidee und Projektplanung.
 
@@ -28,6 +28,11 @@ Die visher vage Zielvorstellung soll
 - systematisch strukturiert,
 - auf Vollständigkeit überprüft und
 - in eine verbindliche Form gebracht werden
+
+> „Ein Problem ist halb gelöst, wenn es klar formuliert ist“
+
+> "Wenn man das Ziel nicht kennt, ist kein Weg der richtige"
+
 
 # Was versteht man unter der Stoßrichtung eines Projektzieles?
 
@@ -48,7 +53,7 @@ An den Ecken des Teufelsquadrat stehen Qualität, Quantität, Kosten und Entwick
 
 oder
 
-* Lösungsneutralität
+* Lösungsneutralität(Raum für Lösungsalternativen lassen)
 * Operationalität (Messbarkeit)
 * Stoßrichtung
 * Randbedingungen (Ressourcen)
@@ -58,7 +63,7 @@ oder
 - **S**pecific
 - **M**easurable
 - **A**chievable
-- **R**elevant
+- **R**elevant (Realistic)
 - **T**ime phased
 
 # Eine „Eselsbrücke“ zum Überprüfen der Zielformulierung lautet PURE? Was verbirgt sich dahinter?
@@ -128,7 +133,7 @@ Die Sensitivitätsanalyse zeigt die Veränderung des Gesamtnutzens, wenn einzeln
 
 **aus Beziehungssicht: Außenbeziehungen des Projekts**
 
-![Projekt_Umfeld_Abgrenzung_Beziehungssicht.png](SYP1-Fragen_Grafiken/Projekt_Umfeld_Abgrenzung_Beziehungssicht.png)
+![SYP1-Fragen_Grafiken/Projekt_Umfeld_Abgrenzung_Beziehungssicht.png](../SYP1-Fragen_Grafiken/Projekt_Umfeld_Abgrenzung_Beziehungssicht.png)
 
 # Kennzeichne (durch umkreisen von ) w (wahr), f (falsch)
 
