@@ -100,7 +100,6 @@ Mindestergbnis festlegen
     - Fähigkeit
   
 
-
 ## Was ist aber der Nachteil dieses Ansatzes?
 
 # Harvard-Methode: Was heißt/bedeutet „Verhandlungs-Judo“?

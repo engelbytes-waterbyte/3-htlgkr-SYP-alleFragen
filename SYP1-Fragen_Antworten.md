@@ -1,4 +1,4 @@
-# **100er**
+<!-- # **100er**
 
 # Wieso Projekte? Warum werden immer mehr Aufgaben in Projektform abgewickelt?
 
@@ -1092,12 +1092,6 @@ Die Verantwortungsbereiche und die Aufgabenverteilung ist klar strukturiert.
   Die "reine Projektorganisation" nennt man außerdem noch "Task Force".
 
 # c) Vor-/Nachteile 
-  <!-- |Vorteile |Nachteile |
-  |--|--|
-  |PL hat volle Kompetenz | Wiedereingliederung nach Projektende|
-  |Optimale Ausrichtung auf das Projektziel| Wer wird abgestellt(Qualif.)|
-  |Geringster Overhead | |
-  |Volle Identifikation(Motivation) | | -->
 
 ## Vorteile
 * PL hat volle Kompetenz
@@ -1174,4 +1168,4 @@ Work Breakdown Structure
 
 # Im Projektstrukturplan wird das Projekt tätigkeitsmäßig und zeitlich gegliedert:    wahr  /  falsch  
 
-Falsch
+Falsch -->

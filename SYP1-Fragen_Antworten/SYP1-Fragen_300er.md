@@ -29,7 +29,7 @@ Der Projektstart ist wie der erste Schultag: Man spürt gleich, ob man sich in d
 Und vom „Wohlfühlen“ hängt vielfach auch der Erfolg des gesamten Projektes ab.
 Wichtig daher: Gute Projektkultur zeigt sich bereits am Projektstart​
 
-# Welche Formen haben wir kennen gelernt (Aufzählung)?
+## Welche Formen haben wir kennen gelernt (Aufzählung)?
 
 * Start-Up-Seminar
 * Start-Up-Workshop
@@ -98,17 +98,17 @@ Informelle Organisationen sind soziale Strukturen, bei denenzwischenmenschliche 
 
 # Nenne Vor- und Nachteile der Matrix-Projektorganisation im Vergleich zu anderen Formen. 
 
-## Vorteile:
+**Vorteile**  
   Identifaktion der Projektmitglieder (Team)
   Keine (Re)Integrationsprobleme bei Projektende
 
-## Nachteile:
-  Konfliktpotential (Projekt-Linie)
+**Nachteile**  
+  Konfliktpotential (Projekt-Linie)(zwischen Abteilungsleiter und Projektleiter)
   Doppelunterstellung("zwei Herren")
 
 # Beschreibe die Org.-Form „Auftrags-Projektorganisation“. 
 
-Die Auftrags-Projektorganisation ist zwar Matrixorientiert hat aber keine Doppelunterstellung. Sie hat eine eigene Organisationseinheit: "Projektmanagement" und ist für Unternehmen mit vielen Projekten. Der Projektleiter hat die Gesamtverantwortung und grundsätzlich ist die setzt sich die Auftrags-Projektorganisation aus kleine Projektgruppen(z.B. "Lieferant" ) zusammen. 
+Die Auftrags-Projektorganisation ist zwar Matrixorientiert hat aber keine Doppelunterstellung. Sie hat eine eigene Organisationseinheit: "Projektmanagement" und ist für Unternehmen mit vielen Projekten. Der Projektleiter hat die Gesamtverantwortung und grundsätzlich ist setzt sich die Auftrags-Projektorganisation aus kleine Projektgruppen(z.B. "Lieferant" ) zusammen. 
 
 > Beispiel: Von der Motoren-Divison von VW kommt der Auftrag an die als Auftrags-PO aufgestellte Forschungsabteilung: „Entwickeln sie eine neue, Abgas-reduziernde Motorensteuerung“. Die Forschungs-Abteilung übernimmt den Auftrag und steuert die Entwicklung. Sie vergibt selbst wieder Aufträge an die Fachabteilungen (Elektronik, IT). Gemanagt wird das Projekt aber von der Forschungsabteilung (analog Bild: „Proj. A“)
 
@@ -121,7 +121,7 @@ Die Auftrags-Projektorganisation ist zwar Matrixorientiert hat aber keine Doppel
 
 # b) Wie nennt man diese noch?      
 
-  Die "reine Projektorganisation" nennt man außerdem noch "Task Force".
+  Die "reine Projektorganisation" nennt man außerdem noch "Task Force" oder "autonome Projektorganisation".
 
 # c) Vor-/Nachteile 
   <!-- |Vorteile |Nachteile |
@@ -131,13 +131,13 @@ Die Auftrags-Projektorganisation ist zwar Matrixorientiert hat aber keine Doppel
   |Geringster Overhead | |
   |Volle Identifikation(Motivation) | | -->
 
-## Vorteile
+**Vorteile**
 * PL hat volle Kompetenz
 * Optimale Ausrichtung auf das Projektziel
 * Geringster Overhead
 * Volle Identifikation (Motivation)
 
-## Nachteile
+**Nachteile**
 * Wiedereingliederung nach Projektende
 * Wer wird abgestellt (Qualif.)
 
@@ -146,8 +146,9 @@ Die Auftrags-Projektorganisation ist zwar Matrixorientiert hat aber keine Doppel
 Wenn Projekte "zum Normalfall" werden wird die Projektorganisation immer mehr auch zur Unternehmensorgainsation.
 Jeder im Führungskreis ist für ein Projekt zuständig. Jeder Arbeiter ist einem Projekt zugeteilt. Dienstleistungsservice (Administration, Verwaltung (z.B. EDV, Personal, …)) wird für alle Projekte zur Verfügung gestellt. 
 
+
 # Wähle eine Projekt-Organisationsform und begründe* deine Wahl: Sehr umfangreiches Projekt, wenig Risiko, bekannte Technologie, durchschnittlicher Zeitdruck, Plandauer ist 2 Jahre. (Annahme: es wurden/werden nur wenige Projekte im Unternehmen gemacht) 
-> *Nenne Aspekte, die für die eine oder andere Form sprechen.
+
 
 # Wähle eine Projekt-Organisationsform und begründe* deine Wahl:Projektgröße mittel, hohes Risiko, bekannte Technologie, hoher Zeitdruck, Plandauer 7 Monate. (Annahme: es wurden/werden nicht sehr viele Projekte im Unternehmen gemacht)
 > *Nenne Aspekte, die für die eine oder andere Form sprechen.
@@ -160,14 +161,80 @@ Jeder im Führungskreis ist für ein Projekt zuständig. Jeder Arbeiter ist eine
 
 # Beschreibe die Organisationsform „Chefprogrammierer-Team“ (Charakteristika, Vor-, Nachteile)
 
-# a) Was grenzt die Organisationsform „Projektgruppe“ vom „Chefprogrammierer-Team“ ab?       b) Vor- /Nachteile?
+- Flache / gar keine Hierarchie
+- Projektleiter ist an der Entwicklung beteiligt
+- Topspezialisten in kleinem Team
+  - Chefprogrammierer (= Team-/Projektleiter) Projektassistent Projektsekretär und 1- 5 Spezialisten (Programmierer, Bibliothekar, Administrator, Tester)
+- der Chefprogrammierer …
+  * Plant und entwirft das System
+  * Implementiert wichtige Teile selbst
+  * Kontrolliert den Projektfortschritt
+  * Entscheidet in wichtigen Fragen
+  * Ist für alles verantwortlich
+  * Ist ein Wunderwuzzi mit hohen fachlichen wie Management-Können ->
+  * „in der Natur selten vorkommende Spezies“
 
+Projektassistent …
+* Engster technischer Mitarbeiter des CP
+* Assistiert in allen wichtigen Tätigkeiten
+* Ist damit Back-up /Ausfallsicherheit
+* Muss damit fachlich gleich gut sein
+  
+Projektsekretär …
+* Übernimmt administrative Tätigkeiten
+* Verwaltet die Ergebnisse
+* Verwaltet die Fortschrittskontrolle
+  
+**Vorteile**
+  * bessere Kontrollfunktion durch CP, weil direkt involviert
+  * flache Org, Berichtswege kurz
+  * Produktive, kleine Teams
+
+**Nachteile**
+  * Auf kleine Teams beschränkt
+  * CP-Fähigkeiten selten
+  * PS hat "faden" aber sumso wichtigeren Job ohne Ersatzpersonen
+
+
+# Was grenzt die Organisationsform „Projektgruppe“ vom „Chefprogrammierer-Team“ ab?
+  
+
+## Vor- /Nachteile?
+  
 # Beschreibe die 4 (bzw. 5) Phasen der Teambildung
 
+1. Forming (Orientierungsphase)  
+Kennenlernen und Grenzen ausloten, definieren von Regeln und Methode
+
+2. Storming (Machtkampfphase)  
+„Rangkämpfe“ treten auf, informelle Hierarchie bildet sich
+
+3. Norming (Organisationsphase)  
+Konflikte sind geklärt, Gruppennormen bilden sich aus und werden anerkannt
+
+4. Performing (Leistungsphase)  
+endlich kann alle Energie den Projektaufgaben gewidmet werden
+
+5. Adjourning (Auflösungsphase)  
+Teamauflösung VOR Beendigung des Projekts. Zentrale Frage / Angst jedes Einzelnen: Wie geht es mit mir nach dem Projekt weiter?
+
+
 # Was unterscheidet Produktstruktur, Objektstruktur und Projektstruktur?
+
+* Produktstruktur  
+z.B. eine Stückliste: Zerlegung eines Motors in seine Einzelteile
+
+* Objektstruktur
+Produktstruktur + erforderliche Werkzeuge und Vorrichtungen, Hilfsmittel, Zwischenergebnisse
+
+* Projektstruktur  
+Objektstruktur + Aufgaben bzw. Projektfunktionen
+
 
 # Wie lautet die englische Bezeichnung für Projektstrukturplan?
 
 Work Breakdown Structure
 
 # Im Projektstrukturplan wird das Projekt tätigkeitsmäßig und zeitlich gegliedert:    wahr  /  falsch  
+
+Falsch
