@@ -44,13 +44,13 @@ Ziel des sachbezognen Verhandeln ist es, so weit wie möglich auf gegenseitigen 
 
 # Nenne die 4 Grundsätze / Leitsätze der Harvard-Methode. Beschreibe 1 davon ausführlicher.
 
-1. behandeln Sie Menschen und ihre Interessen (die Sachfragen) getrennt voneinander;
-2. konzentrieren Sie sich auf die Interessen der Beteiligten und nicht auf ihre Positionen;
-3. entwickeln Sie Entscheidungsoptionen (Auswahlmöglichkeiten); und
-4. bestehen Sie auf objektiven Beurteilungskriterien (bspw. gesetzliche Regelungen, ethische Normen etc.), bei deren Einhaltung das Ziel eine Übereinkunft ist, die folgenden Anforderungen genügt:
-* die guten Beziehungen der Parteien bleiben erhalten,
-* beide Seiten nehmen mit, was sie brauchen – oder, wenn beide das Gleiche brauchen, teilen es fair (bspw. nach dem „Einer-teilt-einer-wählt“-Prinzip) –, und
-* es wird zeiteffizient verhandelt (da nicht auf Positionen herumgeritten wird).
+1. Trenne Menschen und Probleme/Interessen (Sachfragen)
+2. Nicht Positionen, sondern Interessen verfolgen
+3. Vor Entscheidung verschiedene Optionen zu Nutzen beider entwickeln
+4. In Verhandlung objektive Kriterien heranziehenAnforderungen genügt:
+
+Nicht Positionen, sondern Interessen verfolgen:  
+Man soll nicht um Positionen feilschen, sondern sein dahinterliegendes Interesse äußern. Somit kann der Verhandlungspartner die Position nachvollziehen, und man kommt zu einer Einigung, die beiden Seiten nutzt.
 
 # Was unterscheidet „Interessen“ von „Positionen“? (Harvard)
 
