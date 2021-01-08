@@ -1,14 +1,16 @@
 # Hart verhandeln? Was ist das? Folgen?
 
-- Besstandtteil im Leben
-- Grundform der Kommunikation
-- Ziel von wem anderem etwas zu bekommen oder etwas zu erreichen
+* Ziel: Sieg über Gegenseite
+* Grundform der Kommunikation
+* Willenskampf
+* belastet Verhältnis
+* um Positionen feilschen
 
-# Was ist sachebzogenes Verhandeln?
+# Was ist sachbezogenes Verhandeln?
 
 - Streitfragen nicht in Prozesss
-- weich - Geständniss
-- Hart - Willenskampf
+- weich zu den Menschen
+- Hart in der Sache
 - Bezogen auf Sach und Mensch
 - Rücksicht auf Mensch
 - keine Tricks
@@ -18,53 +20,49 @@
 
 # Grundkriterien einer gelungenen Verhandlung?
 
-- keine Tricks
-- fair
-- objektiv
-- umso mehr Leute → schwierige Lösungsvereinbarung
+1. Vernünftige Übereinkunft (unter Berücksichtigung beiderseitiger Interessen)
+2. Möglichst Effizient
+3. Verhältnis verbessern
 
 # Ebenen des Verhandelns?
 
-2 Ebenen
-
-- Inhaltilicher: Was?
+- Inhaltiliche: Was? (Verhandlungsgegenstand)
 - Verfahrensweise: Wie?
 
 # Harvard Methode: Weich oder Hart verhandeln?
 
-- Handlungsbarer Denkrahmen
-- Effizient und Vernünftig - Verhandeln nach Sachweise
-- weich - Geständniss
-- Hart - Willenskampf
+Weder noch - Hart in der Sache, weich zu den Menschen
 
 # 4 Grundsätze / Leistsätze der Harvard Methode
 
 1. Menschen und Sachprobleme trennen
 2. Nicht Position sondern Interessen verfolgen!
-3. Vor der Entscheidung
-   -  Viele Optionen zum beidseitigen Nutzen entwickeln
-4. Verhandlung → Objektive Kriterien anziehen
+3. Vor der Entscheidung viele Optionen zum beidseitigen Nutzen entwickeln
+4. in der Verhandlung objektive Kriterien anziehen
 
 # Benjamin Franklin-Taktik ... was machte er?
 
-bestimmtes Buch leihen von Gegner um ihn zu zeigen dass er ihm auch einen Gefallen schuldet
+Er bat seinem gegenüber ihm ein Buch zu leihen um ihm das Gefühl zu geben ihm auch etwas schuldig zu sein.
 
-# Was unttersscheidett "Interessen" von "Positionen" am Beispiel Bibliothek
+# Was untersscheidet "Interessen" von "Positionen"? am Beispiel Bibliothek?
 
-Position: Entscheidung das Fenster zu öffnen
+Position: das, was eine Partei einfordert
+Interesse: warum eine Partei diese Position vertritt
 
-Interesse: frische Luft, vermeidung von Zugluft
+> am Beispiel Bibliothek:
+> Positionen: Fenster auf/zu
+> Interessen: frische Luft, Vermeidung von Zugluft
 
 # Wie Interesse rausfinden?
 
-In die Lage der anderen hineinversetzen
+Sich in die Lage der anderen hineinversetzen
 
 # 4 Gründe, warum wir unsere Aufmerksamkeit nicht stärker auf die Aufgabe lenken
 
 - Vorschnelle Urteil
 - Vorschnell Einigen auf die scheinbar beste Lösung
 - alle Seiten betrachten das Verhandlungsergebnis als entweder/oder
-- jede Seite befassst sich nur mitt eigenen Interesse
+- jede Seite befassst sich nur mit eigenen Interessen
 
 # Ist es für eine Einigung zwingend, dass sich die Interessen in der Sache decken?
 
@@ -73,7 +71,7 @@ Nein
 # Wie gelangt man zu objektiven/neutralen Kriterien?
 
 - Dritte Person hinzuziehen
-- immer nur mit k
+- immer nur nach vorne schauen
 - Druck nicht nachgeben
 
 # Authentischer Fall: Geparkter Wagen von Tom Klein - Versicherungsfall:
@@ -126,8 +124,6 @@ Interessen hinter Forderungen herausfinden, Folgen der Abstreitung erfahren, Geg
 
 # Was gegen falsche Aussagen machen?
 
- Menschen von Probleme trennen.
-
-Nicht deren gründe trauen
-
-Verhandlung ohne Vertauschung hitnen
+* Menschen von Probleme trennen.
+* nicht ohne Gründe vertrauen
+* Verhandlung ohne Vertrauensfragen führen

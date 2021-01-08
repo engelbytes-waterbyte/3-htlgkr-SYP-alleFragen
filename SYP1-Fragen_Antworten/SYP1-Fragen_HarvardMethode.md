@@ -14,22 +14,22 @@ Hart in der Sache, weich zu den Menschen
 
 # Die Harvard-Methode empfiehlt:  Bestehen sie auf neutrale Beurteilungskriterien!  Wie kann man das machen?
 
-* objektive Kriterien entwickeln (faire Kriterien, faire Verfahrensweise)
-* Die Lösung soll auf Prinzipien gründen und nicht durch gegenseitigen Druck zustande kommen
-
-* Jeden Streitfall zur gemeinsamen Suche nach objektiven Kriterien umfunktionieren
-* Vernünftig argumentieren – und selbst offen gegenüber solchen Argumenten sein
-* Niemals irgendwelchem Druck nachgeben, sich nur (sinnvollen) Prinzipien beugen
+* nicht durch Druck überzeugen lassen
+* nur durch objektive Kriterien überzeugen lassen
+* objektive, neutrale Kriterien verwenden
+* nach vorne schauen
 
 # Harvard: Was ist die Folge eines einseitig begonnenen harten Verhandlungsstils (bei gleich starken Partnern: wie reagiert der Partner)?
 > (Achte darauf, relevant zu antworten! Was gehört wirklich zur Frage!)
 
+der Partner reagiert mit objektiven Kriterien, gegen die sich der harte Verhandlungsgegner nicht wehren kann.
 
+Die Verhandlung kommt garnicht zu einer Einigung oder endet zugunsten des sachbezogenen Verhandlungspartners.
 
 # Harvard: Was versteht man unter sachbezogenem Verhandeln?
 > (Achte darauf, relevant zu antworten! Was gehört wirklich zur Frage!) 
 
-Das Harvard-Konzept des "sachbezogenen Verhandelns" beruht im Wesentlichen auf vier Grundaspekten: - Menschen und Probleme getrennt voneinander behandeln; - nicht Positionen, sondern Interessen in den Mittelpunkt stellen; - vor der Entscheidung verschiedene Wahlmöglichkeiten entwickeln; - das Ergebnis auf objektiven Entscheidungsprinzipien aufbauen.
+Ziel des sachbezognen Verhandeln ist es, so weit wie möglich auf gegenseitigen Nutzen hinzuarbeiten und dort, wo Interessen einander widersprechen, darauf zu bestehen, dass das Ergebnis auf Prinzipien beruht, die fair und von beiderseitigen Willen unabhängig sind.
 
 # Nenne die Grundkriterien einer gelungenen Verhandlung? (Harvard)
 
@@ -87,6 +87,12 @@ Fähigkeit zu profitieren eingeschränkt
 
 # Harvard-Methode: Was heißt/bedeutet „Verhandlungs-Judo“?
 
+* nicht aufs Kräftemessen einlassen
+* Aufmerksamkeit stets auf die Sachebene lenken
+* bei persönlichen Angriffen nicht verteidigen, keine Gegenattacke
+* Interessen hinter Forderung erkennen
+* Gegenseite um Rat fragen
+
 Beim Verhandlungs-Judo schlägt man nicht jeden persönlichen Angriff mit gleicher Waffe zurück, sondern macht gedanklich einen Schritt zur Seite und analysiert die dahinterstehenden Beweggründe und reagiert mit Schweigen oder sachlichen Fragen.
 
 * die eigene Kraft nicht direkt gegen die Energie des Gegners stellen
@@ -115,5 +121,6 @@ Beim Eintext-Verfahren wird ein Dritter (Mediator) in die festgefahrene Verhandl
 Wenn eine Verhandlung festgefahren ist, also wenn es zu keiner Einigung zwischen den Parteien kommt.
 
 # Harvard-Methode: Beschreibe das Eintext-Verfahren. (Was ist es? Wann wird es eingesetzt? (In  welchen Situationen? …)
+
 Beim Eintext-Verfahren wird ein Dritter (Mediator) in die festgefahrene Verhandlung eingebunden und es wird zusammen an einer Lösung (Ein-Text) gearbeitet.
 Es wird eingesetzt, wenn eine Verhandlung festgefahren ist, also wenn es zu keiner Einigung zwischen den Parteien kommt.
