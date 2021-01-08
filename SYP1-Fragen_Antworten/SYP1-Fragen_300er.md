@@ -304,3 +304,38 @@ Eine PSP ist die hierarchische Gliederung der Gesamtaufgabe nach inhaltlichen Me
 
 Die Arbeitspakete eines PSPs werden in einer Funktionenmatrix oder Verantwortungsmatrix z.B. bei der Einfluss-PO den Stellen der Unternehmens-Aufbauorganisation oder einzelnen Personen zugeordnet.  
 Bei der Verantwortungsmatrix wird außerdem zwischen "ist zu informieren", "arbeitet mit" und "ist verantwortlich" unterschieden.
+
+# Was ist ein Meilenstein? Wodurch ist ein Meilenstein mindestens definiert?
+
+Meilensteine ...
+
+* sind „Abschnittsmarken“ im zeitlichen Planungsablauf
+* sing wichtige Ereignisse im Projektverlauf
+* markieren den Abschluss von wichtigen Projektschritten
+* sind mit Ergebnissen verbunden
+* werden vom Projektteam geplant
+* sind mindestens definiert durch:
+* * Name/Bezeichnung
+* * Verantwortlichen
+* * (vorläufige) Termine für die Erbringung der Ergebnisse
+* * Festgelegte Ergebnisse (Dokumente, Prototypen, Entscheidungen, ...)
+
+# Beim Übergang von der Ablauf- zur Terminplanung (können) werden ...
+
+Beim Übergang von der Ablauf- zur Terminplanung (können) werden …
+1.	Vorgänge zu Arbeitspaketen
+2.	Arbeitspakete zu Vorgängen
+3.	Vorgänge zu Meilensteinen
+4.	Meilensteine zu Vorgängen
+5.	Arbeitspakete zu mehreren Vorgängen
+6.	Vorgänge zu mehreren Arbeitspaketen
+7.	Mehrere Vorgänge zu einem Arbeitspaket
+8.	Mehrere Arbeitspakete zu einem Vorgang
+9.	Mehrere Vorgänge zu einem Meilenstein
+10.	Mehrere Arbeitspakete zu einem Meilenstein
+11.	Mehrere Meilensteine zu einem Arbeitspaket
+12.	Mehrere Meilensteine zu einem Vorgang
+
+Markiere die 3 richtigsten Aussagen (1 Pkt je richtiger, ½ Pkt Abzug je falscher)
+
+2., 
