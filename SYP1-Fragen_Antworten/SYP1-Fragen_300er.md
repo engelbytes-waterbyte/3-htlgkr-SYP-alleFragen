@@ -148,6 +148,7 @@ Jeder im Führungskreis ist für ein Projekt zuständig. Jeder Arbeiter ist eine
 
 
 # Wähle eine Projekt-Organisationsform und begründe* deine Wahl: Sehr umfangreiches Projekt, wenig Risiko, bekannte Technologie, durchschnittlicher Zeitdruck, Plandauer ist 2 Jahre. (Annahme: es wurden/werden nur wenige Projekte im Unternehmen gemacht) 
+> *Nenne Aspekte, die für die eine oder andere Form sprechen.
 
 * sehr umfangreiches Projekt spricht für Reine PO
 * wenig Risiko spricht für Einfluss-PO
