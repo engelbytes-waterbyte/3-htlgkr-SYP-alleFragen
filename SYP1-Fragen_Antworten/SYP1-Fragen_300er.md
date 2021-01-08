@@ -231,6 +231,7 @@ Projektsekretär …
 # Was grenzt die Organisationsform „Projektgruppe“ vom „Chefprogrammierer-Team“ ab?
 
 Im Gegensatz zum Chefprogrammierer hat der Projektleiter keinen Assistent und keinen Sekretär.
+Der Projektleiter muss kein Übermensch sein.
 
 ## Vor- /Nachteile?
 
