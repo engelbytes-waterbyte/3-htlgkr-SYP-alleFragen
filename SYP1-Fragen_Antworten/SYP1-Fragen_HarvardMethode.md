@@ -16,6 +16,9 @@ Hart in der Sache, weich zu den Menschen
 
 * objektive, neutrale Kriterien verwenden
 * Gesetze, Normen, Regeln, Präzedenzfälle als Basis für Kriterien verwenden
+* dritte Person hinzuziehen
+* immer nur nach vorne schauen
+* Druck nicht nachgeben
 
 # Harvard: Was ist die Folge eines einseitig begonnenen harten Verhandlungsstils (bei gleich starken Partnern: wie reagiert der Partner)?
 > (Achte darauf, relevant zu antworten! Was gehört wirklich zur Frage!)
@@ -71,6 +74,8 @@ Nein
 
 # Wie gelangt man zu objektiven / neutralen  Kriterien? (Harvard)
 
+* objektive, neutrale Kriterien verwenden
+* Gesetze, Normen, Regeln, Präzedenzfälle als Basis für Kriterien verwenden
 * dritte Person hinzuziehen
 * immer nur nach vorne schauen
 * Druck nicht nachgeben
