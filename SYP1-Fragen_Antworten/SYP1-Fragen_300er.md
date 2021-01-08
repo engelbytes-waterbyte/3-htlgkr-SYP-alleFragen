@@ -280,3 +280,22 @@ Work Breakdown Structure
 # Im Projektstrukturplan wird das Projekt tätigkeitsmäßig und zeitlich gegliedert:    wahr  /  falsch  
 
 Falsch
+
+# Welche Aussage ist die richtigste?
+<ol type="a">
+  <li>
+  Eine PSP ist die hierarchische Gliederung der Gesamtaufgabe nach formalen oder inhaltlichen Merkmalen in einzelne Teilaufgaben
+
+  </li>
+  <li>
+  Eine PSP ist die hierarchische Gliederung der Gesamtaufgabe nach formalen, zeitlichen und/oder inhaltlichen Merkmalen in einzelne Teilaufgaben
+  </li>
+  <li>
+  Eine PSP ist die hierarchische Gliederung der Gesamtaufgabe nach formalen und/oder inhaltlichen Merkmalen in einzelne Teilaufgaben
+  </li>
+  <li>
+Eine PSP ist die hierarchische Gliederung der Gesamtaufgabe nach inhaltlichen Merkmalen in einzelne Teilaufgaben
+</li>
+</ol>
+
+**c)**
