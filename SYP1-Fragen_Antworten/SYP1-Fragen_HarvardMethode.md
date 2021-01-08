@@ -30,28 +30,10 @@ Verhandlung können scheitern wenn man versucht negative Eindrücke bestetigen z
 Das Harvard-Konzept des "sachbezogenen Verhandelns" beruht im Wesentlichen auf vier Grundaspekten: - Menschen und Probleme getrennt voneinander behandeln; - nicht Positionen, sondern Interessen in den Mittelpunkt stellen; - vor der Entscheidung verschiedene Wahlmöglichkeiten entwickeln; - das Ergebnis auf objektiven Entscheidungsprinzipien aufbauen.
 
 # Nenne die Grundkriterien einer gelungenen Verhandlung? (Harvard)
-<!-- 1. Offen in eine Verhandlung gehen
-2. Vorschnelle Urteile vermeiden
-3. Für Standpunkte des Gegenüber zu öffnen
-4. Verstehen heißt nicht teilen
- -->
-Merkmale einer gelungenen Verhandlungsführung
-1. In einer gelungenen Verhandlung gibt es keinen Gewinner und keinen Verlierer. Es wird ja keine Schlacht mit Siegern und Besiegten geschlagen, sondern eine Situation geschaffen, in der beide Verhandlungsparteien etwas geben und etwas bekommen.
-2. Wenn ein Verhandlungsteilnehmer sein Ergebnis als eine Niederlage empfindet, wird er alles daran setzen, diese Niederlage bei der nächsten Verhandlung wieder auszubügeln.
-3. Bei jedem Interessenkonflikt gibt es, wenn man konstruktiv, geduldig und unvoreingenommen danach forscht, Lösungen, die für beide Konfliktparteien einen Nutzen bieten.
-4. Formulieren Sie Ihre Beiträge klar, prägnant und für alle verständlich. Benutzen Sie visuelle Hilfen (Flipchart) und Gegenstände, damit Ihre Botschaft vollständig ankommt.
-5. Untermauern Sie Ihre Standpunkte mit griffigen Beispielen aus der Praxis, zu denen die Verhandlungsteilnehmer Bezug haben.
-<!-- 6. Packen Sie nie mehr als 3 Zahlen oder Adjektive in Ihre Sätze. -->
-7. Achten Sie darauf, wann Spannungen die Sachdiskussion negativ beeinflussen und sprechen Sie diese Spannungen an.
-8. Formulieren Sie mit den Worten und Begriffen, von denen Sie wissen, dass sie von allen so interpretiert werden, wie Sie es beabsichtigen.
-9. Wenn Sie den Fehler machen und sich zu bescheiden, unsicher oder gar untertänig verhalten, wird die Wirkung Ihrer Argumente deutlich geschwächt, auch wenn diese noch so gut und fundiert sind.
-10. Verzichten sie auf versteckte Provokationen und vermeiden Sie alles, was andere in ihrem Selbstwertgefühl verletzen könnte.
-11. Reden ist Blech, Fragen ist Gold!
-12. Die Erfahrung zeigt, dass die Personen, die aktiv die Führung in einer Verhandlungsrunde übernehmen, meist ein akzeptables Verhandlungsergebnis erzielen.
-13. Wenn Sie zu früh Kompromissbereitschaft zeigen, spornen Sie Ihren Verhandlungspartner nur dazu an, seine Forderungen noch weiter nach oben zu schrauben.
-14. Was leicht zu haben ist, kann nicht wertvoll sein.
 
-
+1. Vernünftige Übereinkunft
+2. Möglichst Effizient
+3. Verhältnis verbessern
 
 # Welche Ebenen des Verhandelns unterscheidet die Harvard-Methode?
 
