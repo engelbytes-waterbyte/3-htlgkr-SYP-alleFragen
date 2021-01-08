@@ -299,3 +299,8 @@ Eine PSP ist die hierarchische Gliederung der Gesamtaufgabe nach inhaltlichen Me
 </ol>
 
 **c)**
+
+# Zum Projektstrukturplan: Beschreibe den Zusammenhang zwischen PSP und Aufbauorganisation? Wie kann dieser dargestellt bzw. dokumentiert werden?
+
+Die Arbeitspakete eines PSPs werden in einer Funktionenmatrix oder Verantwortungsmatrix z.B. bei der Einfluss-PO den Stellen der Unternehmens-Aufbauorganisation oder einzelnen Personen zugeordnet.  
+Bei der Verantwortungsmatrix wird außerdem zwischen "ist zu informieren", "arbeitet mit" und "ist verantwortlich" unterschieden.
