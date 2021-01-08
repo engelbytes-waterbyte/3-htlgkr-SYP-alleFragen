@@ -2,27 +2,29 @@
 
 
 # Was zeichnet sachbezogenes Verhandeln aus? (Harvard-Konzept) 
-`Textlücken füllen`
 
- <!-- Hart in ……… , weich  ……… -->
- Hart in Willenskämpfen, Weich in Geständnissen
+Hart in der Sache, weich zu den Menschen
 
 # Nenne die Grundsätze (Leitsätze) der Harvard-Methode
 
 1. Trenne Menschen und Probleme/Interessen (Sachfragen)
 2. Nicht Positionen, sondern Interessen verfolgen
 3. Vor Entscheidung verschiedene Optionen zu Nutzen beider entwickeln
-4. In Verhandlung objektive Kriterien heranziehen  
+4. In Verhandlung objektive Kriterien heranziehen
 
 # Die Harvard-Methode empfiehlt:  Bestehen sie auf neutrale Beurteilungskriterien!  Wie kann man das machen?
 
-<!-- Vorstellung und Erwartungen, Emotionen, Kommunikation -->
+* objektive Kriterien entwickeln (faire Kriterien, faire Verfahrensweise)
+* Die Lösung soll auf Prinzipien gründen und nicht durch gegenseitigen Druck zustande kommen
+
+* Jeden Streitfall zur gemeinsamen Suche nach objektiven Kriterien umfunktionieren
+* Vernünftig argumentieren – und selbst offen gegenüber solchen Argumenten sein
+* Niemals irgendwelchem Druck nachgeben, sich nur (sinnvollen) Prinzipien beugen
 
 # Harvard: Was ist die Folge eines einseitig begonnenen harten Verhandlungsstils (bei gleich starken Partnern: wie reagiert der Partner)?
-> (Achte darauf, relevant zu antworten! Was gehört wirklich zur Frage!) 
+> (Achte darauf, relevant zu antworten! Was gehört wirklich zur Frage!)
 
-Verhandlung können scheitern wenn man versucht negative Eindrücke bestetigen zu lassen . Dies beruht auf Kosten sachlicher Interesse auf beiden Seiten.
-> I was ned: schwierga Hos
+
 
 # Harvard: Was versteht man unter sachbezogenem Verhandeln?
 > (Achte darauf, relevant zu antworten! Was gehört wirklich zur Frage!) 
@@ -54,18 +56,16 @@ Das Harvard-Konzept des "sachbezogenen Verhandelns" beruht im Wesentlichen auf v
 
 # Was unterscheidet „Interessen“ von „Positionen“? (Harvard)
 
-<!-- Interessen sollen verbindet werden -> gemeinsame Lösung finden. -->
-<!-- Positionen sollen während der Verhandlung getrennt werden. -->
+Position: das, was eine Partei einfordert
+Interesse: warum eine Partei diese Position vertritt
 
-Interessen können viele Positionen hinter sich vereinen. Eine Position dagegen ist unverrückbar. Die Formulierung von Interessen ermöglicht es auch dem Verhandlungspartner eine Lösungsmöglichkeit zu finden.
-
-> am Beispiel Bibliothek
-> Position: Entscheidung das Fenster zu öffnen
-> Interesse: frische Luft, vermeidung von Zugluft
+> am Beispiel Bibliothek:
+> Positionen: Fenster auf/zu
+> Interessen: frische Luft, Vermeidung von Zugluft
 
 # Wie kann man die Interessen der Gegenseite rausfinden? (Harvard)
 
-In die Lage der anderen hineinversetzen
+Sich in die Lage der anderen hineinversetzen
 
 # Ist es für eine Einigung zwingend, dass sich die Interessen in der Sache decken? (Harvard)
 
@@ -73,48 +73,47 @@ Nein
 
 # Wie gelangt man zu objektiven / neutralen  Kriterien? (Harvard)
 
+* dritte Person hinzuziehen
+* immer nur nach vorne schauen
+* Druck nicht nachgeben
 
 # Harvard-Methode: Wie schützt man sich vor „Notabschlüssen“ ?
 
 Mindestergbnis festlegen
 
-- Nachteil dieses Ansatzes?
-    - Fähigkeit
-  
-
 ## Was ist aber der Nachteil dieses Ansatzes?
+
+Fähigkeit zu profitieren eingeschränkt
 
 # Harvard-Methode: Was heißt/bedeutet „Verhandlungs-Judo“?
 
-Was bedeuted Verhandlungs-Judo? Was tun?
+Beim Verhandlungs-Judo schlägt man nicht jeden persönlichen Angriff mit gleicher Waffe zurück, sondern macht gedanklich einen Schritt zur Seite und analysiert die dahinterstehenden Beweggründe und reagiert mit Schweigen oder sachlichen Fragen.
 
-- nicht auf Angriffe eingehen
-- Verhandlungsebene adjustieren
-- Ruhig zuhören
-
+* die eigene Kraft nicht direkt gegen die Energie des Gegners stellen
+* Verhandlungs-Schwung des Gegners ausweichen und kanalisieren, oder ins Leere laufen lassen
 
 # Harvard-Methode: Was tun, wenn der Verhandlungspartner die Spielregeln nicht einhält?
 
-Interessen hinter Fordeerungen herausfiltern, 
+Sachbezogen über Spielregeln verhandeln:
 
-Folgen der Verhandlung erfahren,
-
-Gegenseite um Rat bitten
-
-Stimmung ansprechen
+* "schmutzige" Tricks des Gegners zur Sprache bringen
+* Gegenseite in Gefahr die Spielregeln zu verändern
+* Verfahrensweise genau wie alles andere verhandeln
 
 # Harvard-Methode: Was kann man gegen falsche Aussagen machen?
 
-Menschen von Probleme trennen.
-
-Nicht deren gründe trauen
-
-Verhandlung ohne Vertauschung hitnen
+* Menschen von Probleme trennen.
+* nicht ohne Gründe vertrauen
+* Verhandlung ohne Vertrauensfragen führen
 
 # Harvard-Methode: BESCHREIBE das Eintext-Verfahren?
 
-
+Beim Eintext-Verfahren wird ein Dritter (Mediator) in die festgefahrene Verhandlung eingebunden und es wird zusammen an einer Lösung (Ein-Text) gearbeitet.
 
 # Harvard-Methode: Wann wird das Eintext-Verfahren eingesetzt (in welchen Situationen)?
 
+Wenn eine Verhandlung festgefahren ist, also wenn es zu keiner Einigung zwischen den Parteien kommt.
+
 # Harvard-Methode: Beschreibe das Eintext-Verfahren. (Was ist es? Wann wird es eingesetzt? (In  welchen Situationen? …)
+Beim Eintext-Verfahren wird ein Dritter (Mediator) in die festgefahrene Verhandlung eingebunden und es wird zusammen an einer Lösung (Ein-Text) gearbeitet.
+Es wird eingesetzt, wenn eine Verhandlung festgefahren ist, also wenn es zu keiner Einigung zwischen den Parteien kommt.
