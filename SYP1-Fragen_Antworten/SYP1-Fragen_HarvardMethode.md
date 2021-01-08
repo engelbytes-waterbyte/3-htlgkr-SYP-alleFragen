@@ -14,10 +14,8 @@ Hart in der Sache, weich zu den Menschen
 
 # Die Harvard-Methode empfiehlt:  Bestehen sie auf neutrale Beurteilungskriterien!  Wie kann man das machen?
 
-* nicht durch Druck überzeugen lassen
-* nur durch objektive Kriterien überzeugen lassen
 * objektive, neutrale Kriterien verwenden
-* nach vorne schauen
+* Gesetze, Normen, Regeln, Präzedenzfälle als Basis für Kriterien verwenden
 
 # Harvard: Was ist die Folge eines einseitig begonnenen harten Verhandlungsstils (bei gleich starken Partnern: wie reagiert der Partner)?
 > (Achte darauf, relevant zu antworten! Was gehört wirklich zur Frage!)
