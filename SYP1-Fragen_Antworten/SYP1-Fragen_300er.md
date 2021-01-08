@@ -158,17 +158,38 @@ Jeder im Führungskreis ist für ein Projekt zuständig. Jeder Arbeiter ist eine
 
 Da je 2 Aspekte für jede Organisationsform, die in Frage kommen sprechen, würde ich mich für die Matrix-PO (Mittelweg) entscheiden.
 
-
-Einfluss oder Matrix
-
 # Wähle eine Projekt-Organisationsform und begründe* deine Wahl:Projektgröße mittel, hohes Risiko, bekannte Technologie, hoher Zeitdruck, Plandauer 7 Monate. (Annahme: es wurden/werden nicht sehr viele Projekte im Unternehmen gemacht)
 > *Nenne Aspekte, die für die eine oder andere Form sprechen.
+
+* Projektgröße mittel spricht für Einfluss-PO oder Matrix-PO
+* hohes Risiko spricht für Matrix-PO
+* bekannte Technologie spricht für Einfluss-PO
+* hoher Zeitdruck spricht für Matrix-PO
+* Plandauer 7 Monate spricht für Matrix-PO
+
+Ich würde mich für die Matrix-PO entscheiden, weil die meisten Aspekte dafür sprechen.
 
 # Wähle eine Projekt-Organisationsform und begründe* deine Wahl: Projektgröße klein, hohes Risiko, bekannte Technologie, sehr hoher Zeitdruck, Plandauer 2 Monate. (Annahme: es wurden/werden nur wenige Projekte im Unternehmen gemacht)
 > *Nenne Aspekte, die für die eine oder andere Form sprechen.
 
+* Projektgröße klein spricht für Einfluss-PO
+* hohes Risiko spricht für Matrix-PO
+* bekannte Technologie spricht für Einfluss-PO
+* sehr hoher Zeitdruck spricht für Reine PO
+* Plandauer 2 Monate spricht für Einfluss-PO
+
+Da die Einfluss-PO dem sehr hohen Zeitdruck nicht gerecht wird, würde ich mich für den Mittelweg, die Matrix-PO entscheiden. Die Reine PO würde ich nicht bevorzugen, weil die Einrichtung schon zu viel Zeit der 2 Monate in Anspruch nehmen würde.
+
 # Wähle eine Projekt-Organisationsform und begründe* deine Wahl: Projektgröße klein, mittleres Risiko, unbekannte Technologie, sehr hoher Zeitdruck, Plandauer 12 Monate. (Annahme: es wurden/werden nur wenige Projekte im Unternehmen gemacht)
 > Nenne Aspekte, die für die eine oder andere Form sprechen.
+
+* Projekgröße klein spricht für Einfluss-PO
+* mittleres Risiko spricht für Einfluss-PO oder Matrix-PO
+* unbekannte Technologie spricht für Reine PO
+* sehr hoher Zeitdruck spricht für Reine PO
+* Plandauer 12 Monate spricht für Matrix-PO oder Reine PO
+
+Ich würde mich für die Reine PO entscheiden, da 3 Aspekte für diese sprechen.
 
 # Beschreibe die Organisationsform „Chefprogrammierer-Team“ (Charakteristika, Vor-, Nachteile)
 
