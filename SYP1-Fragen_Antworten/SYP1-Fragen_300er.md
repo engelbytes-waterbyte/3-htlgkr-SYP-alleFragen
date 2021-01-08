@@ -196,7 +196,9 @@ Ich würde mich für die Reine PO entscheiden, da 3 Aspekte für diese sprechen.
 - Flache / gar keine Hierarchie
 - Projektleiter ist an der Entwicklung beteiligt
 - Topspezialisten in kleinem Team
-  - Chefprogrammierer (= Team-/Projektleiter) Projektassistent Projektsekretär und 1- 5 Spezialisten (Programmierer, Bibliothekar, Administrator, Tester)
+  - Chefprogrammierer (= Team-/Projektleiter)
+  - Projektassistent
+  - Projektsekretär und 1-5 Spezialisten (Programmierer, Bibliothekar, Administrator, Tester)
 - der Chefprogrammierer …
   * Plant und entwirft das System
   * Implementiert wichtige Teile selbst
