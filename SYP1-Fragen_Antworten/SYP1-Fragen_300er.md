@@ -229,9 +229,18 @@ Projektsekretär …
 
 
 # Was grenzt die Organisationsform „Projektgruppe“ vom „Chefprogrammierer-Team“ ab?
-  
+
 
 ## Vor- /Nachteile?
+
+Vorteile:
+* PL muss kein Übermensch sein
+* Berichtswege kurz
+* PSek-Aufgaben verteilt
+
+Nachteile:
+* Projekt braucht Anlaufzeit ("einschleifen" der Rollen)
+* Gute soziale Fähigkeiten des PL
   
 # Beschreibe die 4 (bzw. 5) Phasen der Teambildung
 
