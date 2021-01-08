@@ -338,4 +338,4 @@ Beim Übergang von der Ablauf- zur Terminplanung (können) werden …
 
 Markiere die 3 richtigsten Aussagen (1 Pkt je richtiger, ½ Pkt Abzug je falscher)
 
-2., 
+2., 5., 9.
