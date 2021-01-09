@@ -299,7 +299,8 @@ Meilensteine ...
 * markieren den Abschluss von wichtigen Projektschritten
 * sind mit Ergebnissen verbunden
 * werden vom Projektteam geplant
-* sind mindestens definiert durch:
+
+sind mindestens definiert durch:
 * * Name/Bezeichnung
 * * Verantwortlichen
 * * (vorläufige) Termine für die Erbringung der Ergebnisse
