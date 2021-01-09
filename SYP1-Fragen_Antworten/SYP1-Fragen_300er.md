@@ -196,28 +196,10 @@ Ich würde mich für die Reine PO entscheiden, da 3 Aspekte für diese sprechen.
 - Flache / gar keine Hierarchie
 - Projektleiter ist an der Entwicklung beteiligt
 - Topspezialisten in kleinem Team
-  - Chefprogrammierer (= Team-/Projektleiter)
-  - Projektassistent
-  - Projektsekretär und 1-5 Spezialisten (Programmierer, Bibliothekar, Administrator, Tester)
-- der Chefprogrammierer …
-  * Plant und entwirft das System
-  * Implementiert wichtige Teile selbst
-  * Kontrolliert den Projektfortschritt
-  * Entscheidet in wichtigen Fragen
-  * Ist für alles verantwortlich
-  * Ist ein Wunderwuzzi mit hohen fachlichen wie Management-Können ->
-  * „in der Natur selten vorkommende Spezies“
-
-Projektassistent …
-* Engster technischer Mitarbeiter des CP
-* Assistiert in allen wichtigen Tätigkeiten
-* Ist damit Back-up /Ausfallsicherheit
-* Muss damit fachlich gleich gut sein
-  
-Projektsekretär …
-* Übernimmt administrative Tätigkeiten
-* Verwaltet die Ergebnisse
-* Verwaltet die Fortschrittskontrolle
+  - Chefprogrammierer (= Team-/Projektleiter, hohes Fachliches und Management-Können)
+  - Projektassistent (gleich gut wie CP, Back-Up/Ausfallsicherheit)
+  - Projektsekretär
+  - 1-5 Spezialisten (Programmierer, Bibliothekar, Administrator, Tester)
   
 **Vorteile**
   * bessere Kontrollfunktion durch CP, weil direkt involviert
