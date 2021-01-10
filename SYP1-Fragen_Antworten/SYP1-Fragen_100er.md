@@ -91,6 +91,7 @@ Mehraufwand von 5 % in der Anfangsphase führt zu Kosten- und Zeitvorteil von ca
 # Welche grundlegenden Prozesse unterscheidet DIN 69901?
 
 - Führungsprozesse
+- Projektmanagement-Prozesse
 - Unterstützungsprozesse
 - Wertschöpfungsprozesse
 
