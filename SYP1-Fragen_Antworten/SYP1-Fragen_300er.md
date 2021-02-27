@@ -325,3 +325,25 @@ Beim Übergang von der Ablauf- zur Terminplanung (können) werden …
 Markiere die 3 richtigsten Aussagen (1 Pkt je richtiger, ½ Pkt Abzug je falscher)
 
 2., 5., 9.
+
+# Was sind die häufigsten Fehler bei Aufwandschätzungen und was ist der Schluss daraus (Lessons learned)?
+
+* Neue Themen, neue Werkzeuge, wenig Erfahrung: Schätzung fällt zu niedrig aus!
+* Aufwand und Dauer wird vermischt
+* Keine Erfahrungssicherung("Zeitmangel")
+* Wunsch ist oft Vater des Gedankens, bzw. Druck "von Oben".
+* Nicht-Einbindung der durchführenden MitarbeiterInnen
+* Vergessen des PM- und/oder QM-Aufwandes
+
+# Wozu dient eine Vorgangsliste?
+
+# Welche Darstellungsformen werden in der Ablauf- und Terminplanung verwendet?
+
+# Was ist ein „kombinierter Balkenplan“?
+
+# Was ist eine Anordnungsbeziehung? Welche Formen gibt es?
+# Was ist ein vernetzter Balkenplan?
+# Welche klassische Arten von (deterministischen) Netzplänen gibt es? 
+# Nenne deren Abkürzung und Langname. Wie „orientiert“ sind diese und was heißt das?
+# Warum müssen bei Netzplänen Meilensteine als Vorgänge mit Dauer 0 deklariert werden?
+# Was versteht man in der Ablaufplanung unter einem Zeitwert?
