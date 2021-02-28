@@ -337,11 +337,35 @@ Markiere die 3 richtigsten Aussagen (1 Pkt je richtiger, ½ Pkt Abzug je falsche
 
 # Wozu dient eine Vorgangsliste?
 
+Ablauf- und Terminplanung(Zeitplanung)
+
+Arbeitspakete werden zu Vorgängen
+
 # Welche Darstellungsformen werden in der Ablauf- und Terminplanung verwendet?
+
+* Balkenpläne
+  * Personenbezogen
+  * Aufgabenbezogen
+  * Einfach
+  * Kombiniert
+  * Vernetzt
+* Netzpläne
 
 # Was ist ein „kombinierter Balkenplan“?
 
+Bei einem kombinierten Balkenplan enthalten die Balken mehrere kombinierte Informationen und Aussagen die durch unterschiedliche Symbole, zum Beispiel unterschiedliche Strichlierungen, sichtbar gemacht werden.
+
+[Quelle](https://www.openpm.info/display/openPM/Projektplanung+-+Ablauf+und+Termine#:~:text=Bei%20einem%20kombinierten%20Balkenplan%20enthalten,unterschiedliche%20Strichlierungen%2C%20sichtbar%20gemacht%20werden.)
+
 # Was ist eine Anordnungsbeziehung? Welche Formen gibt es?
+
+
+
+**Arten von Anordnungsbeziehungen**
+* Normalfolge(NF)
+* Endfolge(EF)
+* Anfangsfolge(AF)
+
 # Was ist ein vernetzter Balkenplan?
 # Welche klassische Arten von (deterministischen) Netzplänen gibt es? 
 # Nenne deren Abkürzung und Langname. Wie „orientiert“ sind diese und was heißt das?
