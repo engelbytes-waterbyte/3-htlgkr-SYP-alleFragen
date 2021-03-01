@@ -359,14 +359,21 @@ Bei einem kombinierten Balkenplan enthalten die Balken mehrere kombinierte Infor
 
 # Was ist eine Anordnungsbeziehung? Welche Formen gibt es?
 
-
-
 **Arten von Anordnungsbeziehungen**
-* Normalfolge(NF)
-* Endfolge(EF)
-* Anfangsfolge(AF)
+
+| Bezeichnung       | Abkürzung                           | Bedeutung                                                                                             |
+|-------------------|-------------------------------------|-------------------------------------------------------------------------------------------------------|
+| Normalfolge (NF)  | EA (Ende-Anfang) ES (Ende-Start)    | Start des Nachfolgers ist vom Ende des Vorgängers abhängig                                            |
+| Endfolge (EF)     | EE (Ende-Ende) (finish-to-finish)   | Das Ende des Nachfolgers ist vom Ende des Vorgängers abhängig, die Startpunkte sind jedoch unabhängig |
+| Anfangsfolge (AF) | AA (Anfang-Anfang) SS (Start-Start) | Start des Nachfolgers ist vom Start des Vorgängers abhängig, die Endpunkte sind unabhängig            |
 
 # Was ist ein vernetzter Balkenplan?
+
+![vernetzter Balkenplan](../SYP1-Fragen_Grafiken\Vernetzer_Balkenplan.PNG)
+* mit Anordnungsbeziehungen (AOB; Precedence Relationship)
+* Guter Kompromiss für kleine und wenig vernetzte Projekte
+* AOB sehr schnell eher verwirrend den Helfend
+
 # Welche klassische Arten von (deterministischen) Netzplänen gibt es? 
 # Nenne deren Abkürzung und Langname. Wie „orientiert“ sind diese und was heißt das?
 # Warum müssen bei Netzplänen Meilensteine als Vorgänge mit Dauer 0 deklariert werden?
