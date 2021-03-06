@@ -359,7 +359,7 @@ Bei einem kombinierten Balkenplan enthalten die Balken mehrere kombinierte Infor
 
 # Was ist eine Anordnungsbeziehung? Welche Formen gibt es?
 
-**Arten von Anordnungsbeziehungen**
+## Arten von Anordnungsbeziehungen
 
 | Bezeichnung       | Abkürzung                           | Bedeutung                                                                                             |
 |-------------------|-------------------------------------|-------------------------------------------------------------------------------------------------------|
@@ -374,7 +374,36 @@ Bei einem kombinierten Balkenplan enthalten die Balken mehrere kombinierte Infor
 * Guter Kompromiss für kleine und wenig vernetzte Projekte
 * AOB sehr schnell eher verwirrend den Helfend
 
-# Welche klassische Arten von (deterministischen) Netzplänen gibt es? 
-# Nenne deren Abkürzung und Langname. Wie „orientiert“ sind diese und was heißt das?
+# Welche klassische Arten von (deterministischen) Netzplänen gibt es? Nenne deren Abkürzung und Langname. Wie „orientiert“ sind diese und was heißt das?
+
+* CPM (Critical Path Method) jetzt ADM Arrow Diagramming Method oder AOA Activity-On-Arrow Network
+* PERT (Programm Evaluation and Review Technique)
+* MPM (Metra Potential Method)
+
+
 # Warum müssen bei Netzplänen Meilensteine als Vorgänge mit Dauer 0 deklariert werden?
+
+Sie sind lediglich Entscheidungspunkte und damit keine Scheinvorgänge auftreten.
+
 # Was versteht man in der Ablaufplanung unter einem Zeitwert?
+
+* Positiv 
+* Negativ
+
+
+# Beschreibe die Vorgehensweise zur Erstellung eines Netzplanes.
+
+**Top-Down**
+* Zerlegung des Projektzieles in Teilziele. In der untersten Ebene eines Astes stehen dann die Aktivitäten.
+* Gut, wenn Erfahrung vorhanden oder Standards vorhanden sind
+* Praxistipp: Breite vor Tiefe!
+
+**Bottom-Up**
+* Zuerst alle Aktivitäten und Teilziele ungeordnet auflisten
+* hier ist Kreativität gefordert! Dann nach Oberbegriffen ordnen und in Struktur bringen
+* Gut, wenn noch keine klaren Vorstellungen über die Vorgehensweise im Projekt bestehen.
+
+# Was versteht man unter „kritischer Pfad“ im Projektmanagement?
+
+> Der Netzweg mit der längsten Gesamtdurchlaufzeit wird als "kritischer Pfad" bezeichnet
+> auf diesem Weg ist der Puffer jeweils 0
