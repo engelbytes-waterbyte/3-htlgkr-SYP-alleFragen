@@ -387,8 +387,8 @@ Sie sind lediglich Entscheidungspunkte und damit keine Scheinvorgänge auftreten
 
 # Was versteht man in der Ablaufplanung unter einem Zeitwert?
 
-* Positiv 
-* Negativ
+* Positiv (Abstand) 
+* Negativ (Überlappung)
 
 
 # Beschreibe die Vorgehensweise zur Erstellung eines Netzplanes.
