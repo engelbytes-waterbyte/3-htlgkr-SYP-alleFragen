@@ -266,6 +266,12 @@ Work Breakdown Structure
 
 Falsch
 
+---
+
+Ende der Fragen vom ersten Test
+
+---
+
 # Welche Aussage ist die richtigste?
 <ol type="a">
   <li>
@@ -306,6 +312,8 @@ sind mindestens definiert durch:
 * * (vorläufige) Termine für die Erbringung der Ergebnisse
 * * Festgelegte Ergebnisse (Dokumente, Prototypen, Entscheidungen, ...)
 
+
+
 # Beim Übergang von der Ablauf- zur Terminplanung (können) werden ...
 
 Beim Übergang von der Ablauf- zur Terminplanung (können) werden …
@@ -326,6 +334,7 @@ Markiere die 3 richtigsten Aussagen (1 Pkt je richtiger, ½ Pkt Abzug je falsche
 
 2., 5., 9.
 
+
 # Was sind die häufigsten Fehler bei Aufwandschätzungen und was ist der Schluss daraus (Lessons learned)?
 
 * Neue Themen, neue Werkzeuge, wenig Erfahrung: Schätzung fällt zu niedrig aus!
@@ -337,8 +346,12 @@ Markiere die 3 richtigsten Aussagen (1 Pkt je richtiger, ½ Pkt Abzug je falsche
 
 # Wozu dient eine Vorgangsliste?
 
-Ablauf- und Terminplanung(Zeitplanung)
+Sie verdeutlicht auch parallelablaufende Arbeitspakete, Überlappungen zwischen Arbeitspaketen oder Zeitabstände
+Im Projektmanagement wird sie für die Ausführenden z.B. Termine und Aufgabenbeschreibung enthalten. Auf der Basis der Vorgansliste kann dann das Projektmanagement die jeweiligen Start- und Endtermine der Arbeitspakete ermitteln.
 
+[Quelle](http://projektmanagement-definitionen.de/glossar/vorgangsliste/)
+
+Ablauf- und Terminplanung(Zeitplanung)
 Arbeitspakete werden zu Vorgängen
 
 # Welche Darstellungsformen werden in der Ablauf- und Terminplanung verwendet?
@@ -353,23 +366,33 @@ Arbeitspakete werden zu Vorgängen
 
 # Was ist ein „kombinierter Balkenplan“?
 
+Balkenpläne bilden die Dauer jedes Vorgangs in Form eines horizontalen Balkens ab
+
 Bei einem kombinierten Balkenplan enthalten die Balken mehrere kombinierte Informationen und Aussagen die durch unterschiedliche Symbole, zum Beispiel unterschiedliche Strichlierungen, sichtbar gemacht werden.
 
 [Quelle](https://www.openpm.info/display/openPM/Projektplanung+-+Ablauf+und+Termine#:~:text=Bei%20einem%20kombinierten%20Balkenplan%20enthalten,unterschiedliche%20Strichlierungen%2C%20sichtbar%20gemacht%20werden.)
 
 # Was ist eine Anordnungsbeziehung? Welche Formen gibt es?
 
-## Arten von Anordnungsbeziehungen
+
+Eine Anordnungsbeziehung ist eine gerichtete Verknüpfung von zwei Planungselementen im Netzplan, die eine sachlogische und zeitliche Beziehung zwischen diesen Elementen widerspiegelt. Die Abhängigkeit zwischen Vorgänger- und Nachfolger-Vorgang wird im Netzplan durch Pfeile dargestellt.
+
+[Quelle](https://www.inloox.de/projektmanagement-glossar/anordnungsbeziehung/)
 
 | Bezeichnung       | Abkürzung                           | Bedeutung                                                                                             |
 |-------------------|-------------------------------------|-------------------------------------------------------------------------------------------------------|
 | Normalfolge (NF)  | EA (Ende-Anfang) ES (Ende-Start)    | Start des Nachfolgers ist vom Ende des Vorgängers abhängig                                            |
 | Endfolge (EF)     | EE (Ende-Ende) (finish-to-finish)   | Das Ende des Nachfolgers ist vom Ende des Vorgängers abhängig, die Startpunkte sind jedoch unabhängig |
 | Anfangsfolge (AF) | AA (Anfang-Anfang) SS (Start-Start) | Start des Nachfolgers ist vom Start des Vorgängers abhängig, die Endpunkte sind unabhängig            |
+| Sprungfolge(SF) | AE (Anfang-Endne) SE (Start-Ende) | Ende des Nachfolgers ist vom Start des Vorgängers abhängig |
+
 
 # Was ist ein vernetzter Balkenplan?
 
-![vernetzter Balkenplan](../SYP1-Fragen_Grafiken\Vernetzer_Balkenplan.PNG)
+[Quelle](http://projekt-manager.eu/projektmanagement/balkenplan.html)
+
+Der vernetzte Balkenplan erweitert die Darstellung um die Abhängigkeiten zwischen den Vorgängen und wird so zu einem Netzplan, der die Abhängigkeiten zwischen Arbeitspaketen - die Vorgehensweise bei der Projektabwicklung - graphisch darstellt.
+
 * mit Anordnungsbeziehungen (AOB; Precedence Relationship)
 * Guter Kompromiss für kleine und wenig vernetzte Projekte
 * AOB sehr schnell eher verwirrend den Helfend
@@ -379,7 +402,6 @@ Bei einem kombinierten Balkenplan enthalten die Balken mehrere kombinierte Infor
 * CPM (Critical Path Method) jetzt ADM Arrow Diagramming Method oder AOA Activity-On-Arrow Network
 * PERT (Programm Evaluation and Review Technique)
 * MPM (Metra Potential Method)
-
 
 # Warum müssen bei Netzplänen Meilensteine als Vorgänge mit Dauer 0 deklariert werden?
 
@@ -407,3 +429,5 @@ Sie sind lediglich Entscheidungspunkte und damit keine Scheinvorgänge auftreten
 
 > Der Netzweg mit der längsten Gesamtdurchlaufzeit wird als "kritischer Pfad" bezeichnet
 > auf diesem Weg ist der Puffer jeweils 0
+
+
