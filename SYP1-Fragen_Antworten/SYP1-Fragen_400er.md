@@ -6,13 +6,16 @@ Den Projekterfolg gefährdende Faktoren
 -> Gegenmaßnahmen planen
 -> für Risiko-Eintrittsfall vorzubereiten
 
-# Beschreibe eine Risikomatrix (Zeichnung allein genügt nicht)?  
+# Beschreibe eine Risikomatrix (Zeichnung allein genügt nicht)?  Wie entsteht sie?
 
 Auf der x-Achse wird in einem Koordinatensystem die Schadenshöhe eingezeichnet.
 Auf der y-Achse steht die Eintrittswahrscheinlichkeit
-> Auch Probability and Impat Matrix
+Im Diagramm sind die Risiken in Abhängigkeit ihrer Eintrittswahrscheinlichkeiten und Auswirkungen bzw. Schadensausmaße verteilt, sodass Sie die gravierendsten auf einen Blick ermitteln können.
 
-## Wie entsteht sie?
+Sie entsteht durch Aufnahme von Date (Fragebogen, Checkliste, Riskioanalyse-Workshop)
+
+[Quelle](https://www.microtool.de/wissen-online/was-ist-eine-risikomatrix/)
+
 
 
 # Zähle mögliche Risikokategorien auf.
@@ -67,10 +70,19 @@ Die Realität aus den Augen verlieren/ Tatsachen aus den Augen verlieren
 
 ![Kreislauf_des_Projectcontrolling.png](../SYP1-Fragen_Grafiken/Kreislauf_des_Projektcontrolling.png)
 
+Proektplanung entsteht in Verbindung mit Projektziele.
+Durch Sollgrößen der Projektplanung entstehen Maßnahmen.
+Aus diesen und Interenen wie auch externen Störungen entsteht die Abwicklung.
+Die Ist-Größen entstehen durch die Abwicklung. 
+Die Projektüberwachung für soll-/ist- Vergleich durch und benutzt eine Abweichungsanalyse. 
+Aus der Projektüberwachung kann eine Rückkopplung zur Projektplanung entstehen.
+Außerdem kann die Projektplanung Anpassungsentscheidungen treffen.
+
+
 
 # Welche Gefahr besteht, wenn die Projektüberwachung zu spät einsetzt?
 
-Es entsteht ein unkontrollierter Projektverlauf da man Maßnahmen nicht rechtzeitig setzten kann.
+Es entsteht ein unkontrollierter Projektverlauf da man Maßnahmen nicht rechtzeitig setzen kann.
 
 # Nenne die Voraussetzungen, die für ein frühzeitiges Erkennen von Planabweichungen erforderlich sind?
 

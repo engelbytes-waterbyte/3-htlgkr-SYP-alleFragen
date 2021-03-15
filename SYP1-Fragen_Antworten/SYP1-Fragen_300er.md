@@ -399,9 +399,11 @@ Der vernetzte Balkenplan erweitert die Darstellung um die Abhängigkeiten zwisch
 
 # Welche klassische Arten von (deterministischen) Netzplänen gibt es? Nenne deren Abkürzung und Langname. Wie „orientiert“ sind diese und was heißt das?
 
-* CPM (Critical Path Method) jetzt ADM Arrow Diagramming Method oder AOA Activity-On-Arrow Network
-* PERT (Programm Evaluation and Review Technique)
-* MPM (Metra Potential Method)
+"orientiert" heißt in welcher Form Ereignisse und Vorgänge beschrieben werden.
+
+* CPM (Critical Path Method) - Vorgangspfeil-orientiert
+* PERT (Programm Evaluation and Review Technique) - Ereignisknoten-orientiert
+* MPM (Metra Potential Method) - Vorgangsknoten-orientiert
 
 # Warum müssen bei Netzplänen Meilensteine als Vorgänge mit Dauer 0 deklariert werden?
 
@@ -409,9 +411,8 @@ Sie sind lediglich Entscheidungspunkte und damit keine Scheinvorgänge auftreten
 
 # Was versteht man in der Ablaufplanung unter einem Zeitwert?
 
-* Positiv (Abstand) 
-* Negativ (Überlappung)
-
+* Positiv (Abstand, lag) 
+* Negativ (Überlappung, lead)
 
 # Beschreibe die Vorgehensweise zur Erstellung eines Netzplanes.
 
@@ -429,5 +430,3 @@ Sie sind lediglich Entscheidungspunkte und damit keine Scheinvorgänge auftreten
 
 > Der Netzweg mit der längsten Gesamtdurchlaufzeit wird als "kritischer Pfad" bezeichnet
 > auf diesem Weg ist der Puffer jeweils 0
-
-
