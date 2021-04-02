@@ -267,23 +267,35 @@ Work Breakdown Structure
 Falsch
 
 # Welche Aussage ist die richtigste?
-<ol type="a">
-  <li>
+
   Eine PSP ist die hierarchische Gliederung der Gesamtaufgabe nach formalen oder inhaltlichen Merkmalen in einzelne Teilaufgaben
 
-  </li>
-  <li>
   Eine PSP ist die hierarchische Gliederung der Gesamtaufgabe nach formalen, zeitlichen und/oder inhaltlichen Merkmalen in einzelne Teilaufgaben
-  </li>
-  <li>
+
   Eine PSP ist die hierarchische Gliederung der Gesamtaufgabe nach formalen und/oder inhaltlichen Merkmalen in einzelne Teilaufgaben
-  </li>
-  <li>
-Eine PSP ist die hierarchische Gliederung der Gesamtaufgabe nach inhaltlichen Merkmalen in einzelne Teilaufgaben
-</li>
-</ol>
+
+  Eine PSP ist die hierarchische Gliederung der Gesamtaufgabe nach inhaltlichen Merkmalen in einzelne Teilaufgaben
 
 **c)**
+
+# Welche Strukturierungsmöglichkeiten hat man bei der Erstellung eines Projektstrukturplanes und was ist dabei zu beachten? (Nach welchen Gesichtspunkten ["Philosophien", „Orientierungen“, Prinzipien]!  - es ist NICHT gemeint: Top-Down/Bottom up).
+
+
+# Was ist ein Arbeitspaket? Wozu dienen diese?  Wie groß sollen sie sein?
+
+
+# Zum Projektstrukturplan: Welche Aussage stimmt am meisten?
+a)	Im PSP spiegelt sich die Aufbauorganisation wieder.
+b)	Ein PSP ist die formale und/oder inhaltliche Gliederung eines Projektes
+c)	Ein PSP ist die formale, die zeitliche und/oder inhaltliche Gliederung eines Projektes
+d)	Ein PSP zeigt die Zusammenhänge Projektstruktur und Organisation
+e)	Ein PSP zeigt die Abhängigkeiten der Arbeitspakete.
+f)	Ein PSP zeigt die Abhängigkeiten der Vorgänge.
+g)	Ein PSP entsteht während der Ausführung eines Projektes, d. h er wird ständig umfangreicher.  
+
+Keine der obigen Aussagen  a) bis g) ist richtig
+Alle Aussagen a) bis g) sind richtig
+
 
 # Zum Projektstrukturplan: Beschreibe den Zusammenhang zwischen PSP und Aufbauorganisation? Wie kann dieser dargestellt bzw. dokumentiert werden?
 
@@ -295,7 +307,7 @@ Bei der Verantwortungsmatrix wird außerdem zwischen "ist zu informieren", "arbe
 Meilensteine ...
 
 * sind „Abschnittsmarken“ im zeitlichen Planungsablauf
-* sing wichtige Ereignisse im Projektverlauf
+* sind wichtige Ereignisse im Projektverlauf
 * markieren den Abschluss von wichtigen Projektschritten
 * sind mit Ergebnissen verbunden
 * werden vom Projektteam geplant
