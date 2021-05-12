@@ -265,12 +265,38 @@ geplante Kosten der tatsächlich erbrachten Arbeitsleistung (oder: erzielte Wert
 
 # Was ist der Unterschied zwischen einem a) Projektmanagement-Handbuch bzw. PM-Leitfaden und einem b) Projekthandbuch?
 
+Der PM-Leitfaden ist ein projektunabhängiges, übergeordnetes Hilfswerk, das zur Standardisierung der PM-Arbeit dienen soll.
 
+Das Projekthandbuch ist die gesammelte Projektdokumentation spezifisch für ein Projekt
+
+Aus dem Projektmanagement-Leitfaden leiten sich Projekthandbücher ab.
 
 # Was ist die Aufgabe der Dokumenten- und Berichterstattungsplanung?
 
+Das Ziel der Dokumenten- und Berichtserstattungsplanung ist ein stets aktueller Überblick und somit klares, frühzeitiges Erkennen von Problemen und Risiken.
+
 # Was sind die Kerninhalte der Phase Projektabschluss?
+
+1. Produktabnahme
+2. Abschlussanalyse
+3. Erfahrungssicherung
+4. Projektauflösung
+
+Ergebnisse:
+      * Abnahmeprotokolle
+      * Nachkalkulation
+      * Kennzahlen, Berichte
+      * Abschlussberichte
+      * Personalüberleitung
 
 # Beschreibe die Begriffe Übergabeprotokoll und Übernahmeprotokoll
 
+**Übergabeprotokoll**
+Das Übergabeprotokoll beinhaltet die Beschreibung des Übergabegegenstandes(Software, Dokumentation, Handbücher)
+
+**Übernahmeprotokoll**
+Das Übernahmeprotkoll beinhaltet die Basis für eventuelle Nachforderungen durch den Auftraggeber(genaues Festhalten erforderliche Restleistungen). 
+
 # Was beschreibt das M-Modell?
+
+Sicht auf ein projektorientiert geführtes Unternehmen und die Funktionen, die von PM-Software unterstützt werden sollen
