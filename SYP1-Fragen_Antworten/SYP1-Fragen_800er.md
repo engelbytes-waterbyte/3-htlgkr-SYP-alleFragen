@@ -1,6 +1,8 @@
-# Was versteht man unter „Qualität“? Welche Ansätze gibt es zur Erklärung des Begriffs?
+# 8.1 Was versteht man unter „Qualität“? Welche Ansätze gibt es zur Erklärung des Begriffs?
 
-Qualität ist die Gesamtheit von Eigenschaften und Merkmalen eines Produktes oder einer Tätigkeit, die sich auf deren Eignung zur Erfüllung gegebener Erfordernisse bezieht
+Formal ist Qualität die Gesamtheit von Eigenschaften und Merkmalen eines Produktes oder einer Tätigkeit, die sich auf deren Eignung zur Erfüllung gegebener Erfordernisse bezieht
+
+Grundsätzlich: Gesamtheit der charakteristischen Eigenschaften
 
 * transzendete Ansatz
 * produktbezoge Ansatz
@@ -8,21 +10,26 @@ Qualität ist die Gesamtheit von Eigenschaften und Merkmalen eines Produktes ode
 * prozessbezogene Ansatz
 * Kosten/Nutzen-bezogene Ansatz
 
-# Wie definieren die „Gurus“ von QM den Begriff „Qualität“?
+# 8.2 Wie definieren die „Gurus“ von QM den Begriff „Qualität“?
 
-Kundenorientierung im Mittelpunkt
+Fitness for use, Erfüllung von Anforderungen, wenn Zufriedenheit erreicht wird
+
+Letztlich steht Kundenorientierung im Mittelpunkt
 -> QM steht dem Marketing nahe
 
-# Was versteht man unter einem FCM-Modell? 
+# 8.3 Was versteht man unter einem FCM-Modell? 
 
 Das Factor-Criteria-Metrics Model bildet einen Baum bzw. ein Netz aus den Teilmerkmalen bzw. Kriterien welche durch Indikatoren bzw. Metriken messbar gemacht werden.
 
+# 8.4 Welche Qualitätsmodelle beschreibt die ISO / IEC 25010? 
 
-# Welche Qualitätsmodelle beschreibt die ISO / IEC 25010? 
+**Quality in User**
+* Q aus der Anwendersicht: Entscheidend für die Brauchbarkeit einer Softwarelösung in seinem Einsatzszenario
 
-System und Software-Engineering – Qualitätskriterien und Bewertung von System und Softwareprodukten (SQuaRE)  – Qualitätsmodell und Leitlinien
+**Product Quality**
+* Beschreibt Q-Merkmale losgelöst vom Anwendungskontext aus der Anbietersicht bzw. aus der Sicht einer Produktspezifikation
 
-# Was steht hinter den Buchstaben FURPS?
+# 8.5 Was steht hinter den Buchstaben FURPS?
 
 Functionality
 Usability
@@ -30,7 +37,7 @@ Reliability
 Performance
 Supportability
 
-# Wodurch beschreibt die ISO / IEC 25010 den Q-Faktor „Security“?
+# 8.6 Wodurch beschreibt die ISO / IEC 25010 den Q-Faktor „Security“?
 
 * Vertraulichkeit,
 * Integrity,
@@ -38,16 +45,16 @@ Supportability
 * Accountability
 * Authenticy
 
-# Was bedeutet GQM? Wofür und wie wird es angewendet?
+# 8.7 Was bedeutet GQM? Wofür und wie wird es angewendet?
 
-GQM ist ein Vorgehensmodell, dessen Anwendung zu einem entwicklungsspezifischen Qualitätsmodell führt.
+Goal-Question-Metric ist ein Vorgehensmodell, dessen Anwendung zu einem entwicklungsspezifischen Qualitätsmodell führt.
 
 
-# Beschreibe das KANO-Modell. 
+# 8.8 Beschreibe das KANO-Modell. 
 
 Das KANO-Modell beschreibt wie heutige Begeisterungsfaktoren morgen zu Basisfaktoren werden. Ständige Verbesserung ist notwendig.
 
-# Was sind die zentralen Begriffe die man T – Q – und M zuordnen kann?
+# 8.9 Was sind die zentralen Begriffe die man T – Q – und M zuordnen kann?
 
 **Total**
 - bereichsübergreifend
@@ -63,7 +70,7 @@ Das KANO-Modell beschreibt wie heutige Begeisterungsfaktoren morgen zu Basisfakt
 - Vorbildfunktion des Managements
 - Q wird bei Managemententscheidungen gleichberechtigt zu Kosten und Terminen bewertet
 
-# Was unterscheidet TQM vom traditionellen Qualitätsmanagement?
+# 8.10 Was unterscheidet TQM vom traditionellen Qualitätsmanagement?
 
 **Traditionelle**
 Technikorientierte Produktentwicklung
@@ -75,7 +82,11 @@ Radikale, revolutionäre Veränderungen
 Veränderungen sind stabil
 Personenabhängiges Erfahrungswissen als Entscheidungsgrundlage
 
-**Ziele** sind bessere Produkte bei geringeren Kosten und **Orientierung** an das Produkt. Nur eine bestimmte Abteilung bzw. der Q-Beauftrager sind für die Qualität verantwortlich. Es werden Messungen, Kontrollen, Fehlererfassung und Fehlerauswertung werden verwendet
+Ziele: Bessere Produkte, Geringere Kosten
+Orientierung: Produkt
+Organisation: Starke Positionierung der QS
+Q-Verantwortung: Q-Beauftragter
+Methode: Messungen, Kontrollen, Fehlererfassung und Fehlerauswertung
 
 **TQM**
 Kundenorientierte Produktentwicklung
@@ -87,13 +98,24 @@ inkrementelle, evolutionäre Verbesserungen
 Veränderungen müssen stabilisiert werden
 Nachprüfbare Fakten als Entscheidungsgrundlage
 
-# Erkläre das Verhältnis TQM zur klassische Qualitätssicherung. Wie kann man das mittels einer schiefen Ebene auch bildlich darstellen?
+Ziele: Besseres Unternehmen, Kundenzufriedenheit, Flexibilität
+Orientierung: Markt, Prozess
+Organisation: Alle Tätigkeiten sind auf die Qualität fokussiert
+Q-Verantwortung: Jeder Mitarbeiter
+Methode: Porgramm zur Fehlerreduktion, Prozessüberwachung und Prozessoptimierung, Optimierung im eigenen Tätigkeitsbereich
+
+# 8.11 Erkläre das Verhältnis TQM zur klassische Qualitätssicherung. Wie kann man das mittels einer schiefen Ebene auch bildlich darstellen?
 
 Das Rad, welches aus planen -> handeln -> überprüfen -> verbessern besteht wird mithilfe von TQM über das ansteigende Qualitätsbewusstsein gezogen. Qualitätssicherung dient dabei als Anker um den bereits erreichten Fortschritt nicht zu verlieren.
 
-# Erkläre möglichst viele TQM-Prinzipien.
+# 8.12 Erkläre möglichst viele TQM-Prinzipien.
 
 * Prinzip der Kundenorientierung
+    * Primäres Ziel: Kundennutzen und Kundenzufriedenheit
+    * Die SW-Entwickler müssen verstehen, welche Aufgaben der Kunde mit der Software erfüllen will
+    * Die Entwicklung muss daher eng mit dem Marketing und dem Kundendienst/Support zusammenarbeiten
+    * Bei der Entwicklung von Individualsoftware muss der Kunde bei der Erkennung und Formulierung seiner Bedürfnisse unterstützt werden
+    * Die Entwicklung von Standard-Software setzt intensive Marktstudien voraus, um die Bedürfnisporfile der hauptzielgruppen zu ermitteln
 
 * Prinzip der Zuständigkeit aller Mitarbeiter_innen
     - Qualität ist nicht nur Aufgabe der Q-Abteilung(diese ist überflüssig)
@@ -104,18 +126,23 @@ Das Rad, welches aus planen -> handeln -> überprüfen -> verbessern besteht wir
     - Verbesserung in kleinen, aber kontinuierlichen Schritten
     **Motto: Jeder Tag bringt eine konkrete Verbesserung im Unternehmen**
     - Nicht kurzfristige Ergebnisse, Leistung und Kontrolle, sondern langfristige Perspektiven und Verhaltensänderungen stehen im Mittelpunkt
-    - Gewachsene Strukturen und soziale S
+    - Gewachsene Strukturen und soziale Systeme sollen für QM nutzbar gemacht werden: Teamarbeit, ständiges lernen, offenes Klima
+
+* Prinzip des Prmats der Qualität
+    * alle Prozesse einer Organisation sind Q-Prozesse
+    * Jeder an eineme Prozess beteiligte Mitarbeiter soll seine Arbeit sofort beim ersten Mal und jedes Mal erneut wieder richtig tun: Keine Verschwendung, keine Nacharbeit
 
 
-# Was versteht man unter einem Qualitätszirkel? (Für „Spezialisten“ und „Über-Drübers“ : es ist NICHT das Zeichengerät gemeint)
+# 8.13 Was versteht man unter einem Qualitätszirkel? (Für „Spezialisten“ und „Über-Drübers“ : es ist NICHT das Zeichengerät gemeint)
 
-Ein Qualitätszirkel dient zur Erreichung der Prinzipien(Zuständigkeit aller Mitarbeiter, Ständige Verbesserung) und wird üblicherweise in Form von einer wöchentlichen Besprechung durchgeführt.
+Ein Qualitätszirkel dient zur Erreichung der TQM-Prinzipien(Zuständigkeit aller Mitarbeiter, Ständige Verbesserung) und wird üblicherweise in Form von einer wöchentlichen Besprechung durchgeführt.
 
-# Wozu dient QFD?
+# 8.14 Wozu dient QFD?
 
 QFD dient zur Entfaltung der Qualitätsfunktion
+Konzept um die TQM-Prinzipien zu erreichen
 
-# Erkläre die Verwendung bzw. Vorgehensweise mit dem „House of Quality“. 
+# 8.15 Erkläre die Verwendung bzw. Vorgehensweise mit dem „House of Quality“. 
 
 
 
