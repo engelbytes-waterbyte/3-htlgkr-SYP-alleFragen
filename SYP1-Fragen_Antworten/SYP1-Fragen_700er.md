@@ -1,13 +1,109 @@
-# 700	Die agilen Methoden entstanden durch eine systematischen, ingenieurmäßigen Ansatz. Erkläre die hierarchische Basis dieser Entstehung: Die Grundlage bilden … auf diese aufbauend wurden … ausgearbeitet. …   
+# 700	Die agilen Methoden entstanden durch eine systematischen, ingenieurmäßigen Ansatz. Erkläre die hierarchische Basis dieser Entstehung: Die Grundlage bilden … auf diese aufbauend wurden … ausgearbeitet. …
 
+Die Grundlage bilden _agile Werte_, auf diese aufbauend wurden _agile Prinzipien_ ausgearbeitet. _Agile Techniken_ setzen die Prinzipien konkret um. Die _agilen Methoden_ strukturieren die Techniken und kombinieren sie mit Prinzipien, um einen schlüssigen Prozess zu formen.
 
 # 702 Beschreibe das agile Manifest. Worum geht es darin allgemein? Beschreibe die 4 Kernsätze.
 
+- Individuen und Interaktionen > Prozesse und Werkzeuge
+- Funktionierende Software > umfassende Doku
+- Zusammenarbeit mit Kunden > Vertragsverhandlung
+- Reagieren auf Veränderung > Plan befolgen
 
 # 703 Vergleiche kritisch die Prinzipien des agilen Manifests mit klassischen Ansätzen. 
 
+<table>
+  <tr>
+    <th>agil</th>
+    <th>klassisch</th>
+  </tr>
+  <tr>
+    <td>
+      Frühe und kontinuierliche Auslieferung von Software hat höchste Priorität
+    </td>
+    <td rowspan="2">
+      Plangetrieben: Kunde setzt zu Beginn Kriterien fest, Projekt wird entsprechend umgesetzt
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Regelmäßig funktionierende Prototypen innerhalb kürzestmöglicher Zeitspanne
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Änderungen selbst im späten Stadium willkommen, für Vorteil des Kunden nutzen
+    </td>
+    <td>
+      Negative Einstellung gegenüber Änderungen, Pläne müssen geändert werden
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Tägliche Zusammenarbeit zwischen Experten und Entwicklern
+    </td>
+    <td rowspan="2">
+      Teams während des Projekts zusammengestellt, möglicherweise gleichzeitiges Arbeiten an mehreren Projekten. Verantwortungsgefühl kann leiden. Stärkeres Controlling erforderlich.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Projekte rund um motivierte Individuen: Gib ihnen das benötigte Umfeld, Unterstützung und Vertrauen
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Informationen sollen face to face übermittelt werden
+    </td>
+    <td>
+      E-Mails ersetzen teilweise persönliches Gespräch
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Funktionierende Software als wichtigstes Fortschrittsmaß
+    </td>
+    <td>
+      Messung des Fortschritts in Kosten oder Mitarbeiterauslastung
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Nachhaltige Entwicklung: Alle Beteiligten sollen auf unbegrenzte Zeit mit gleichmäßigem Tempo arbeiten können
+    </td>
+    <td>
+      Projektmanager haben viel Verantwortung und wenig Befugnisse; führt zu Verzug und Eskalation.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Die Menge nicht getaner Arbeit zu maximieren ist essenziell
+    </td>
+    <td rowspan="2">
+      Komplexität soll durch Planung minimiert werden; späte Änderungen oder Abstriche in der Qualität mögliche Folgen
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Agilität wird durch Fokus auf technische Exzellenz und gutes Design gefördert
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Die besten Resultate kommen von selbstorganisierten Teams
+    </td>
+    <td rowspan="2">
+      Wissensmanagement durch "Lessons Learned" und Projektanalyse am Ende; im Regelfall keine regelmäßigen Reflexionen 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Regelmäßige Reflexion innerhalb des Teams zur Steigerung der Effizienz
+    </td>
+  </tr>
+</table>
 
 # 704 Nenne möglichst viele agile Techniken.
+
 
 
 # 706 Zähle möglichst viele agile Methoden auf. (Bei Abkürzungen auch die Langform dazu)
