@@ -104,22 +104,92 @@ Die Grundlage bilden _agile Werte_, auf diese aufbauend wurden _agile Prinzipien
 
 # 704 Nenne möglichst viele agile Techniken.
 
-
+- Task Board: Übersicht über aktuelle Aufgaben
+- Use Cases: Anwendungsfälle, Anforderungen aus Kundensicht
+- Daily-Standup-Meetings: Tägliche Statusmeetings im Stehen
+- Work-in-Progress-Limits: Parallele Aufgaben begrenzt, gut für Produktivität
+- Burn-Down-Charts: Arbeitsstand visualisieren
+- Timeboxing: Feste Zeitvorgaben
+- Planning Poker: Dynamisches Verfahren zur Aufwandsschätzung
+- Geschäftswert: Möglichst früher Kundennutzen
+- Definition of Done: Klar festgelegt, wann Aufgabe als fertig gilt
+- Earned Value: Fortschritts- und Budgetkontrolle
 
 # 706 Zähle möglichst viele agile Methoden auf. (Bei Abkürzungen auch die Langform dazu)
 
+- Scrum
+- Kanban
+- TDD: Test Driven Development
+- FDD: Feature Driven Development
+- XP: Extreme Programming
+- Crystal Methodologies
+- DSDM: Dynamic System Development Method
+- RAD: Rapid Application Development
 
 # 708 Was unterscheidet AGIL von der KLASSISCHEN Softwareentwicklung?
 
+agil | klassisch
+---- | ---------
+Anforderungen am Anfang unscharf | Von Beginn an bekannt
+Änderungen von Anforderungen während Verlauf geplant | schwierig
+Kosten für Anforderungsänderungen mäßig | Hohe Kosten
+Anforderungsbeschreibung aus Kundensicht (Anwendungsfälle) | aus technischer Sicht (Features)
+Iterativer Entwicklungsprozess | sequenziell
+Fortlaufende Prozessverbesserungen | Prozess starr
+Kunde bewertet Zwischenergebnisse | sieht nur Endergebnis
+Wenn es eng wird, Aufwand verringern | Meilensteine schieben
+Eher kleine Teams nötig | Große Teams möglich
+Teams selbstorganisiert | Klare Hierarchie
+Viel gemeinsame Verantwortung | Viele Spezialisten
+Team sitzt zusammen; Fokus auf einem Projekt | verteilt; mehrere Projekte gleichzeitig
+Aufgaben selbstständig übernehmen | von oben zugeteilt
+Viel informelle Kommunikation, Standup-Meetings | über Dokumente, lange Meetings
+Aufwandsschätzung im Team | durch Projektleiter oder Experten
 
 # 710 Standard (Normen) = „starr“, Agil = „beweglich, flexibel“: Warum gibt es dann trotzdem Standardisierung für agile Methoden und Verfahren?
 
+- Sichtbarkeit und Verbreitung der Methode wird gefördert
+- Erleichterte Zusammenarbeit in und von Teams
 
-# 712 Wie heißen die zwei Standardisierungs-Organisationen rund um agiles Projektmanagement
+# 712 Wie heißen die zwei Standardisierungs-Organisationen rund um agiles Projektmanagement?
 
+- Scrum Alliance
+- Scrum.org
 
 # 714 Was weißt du über die zwei Standardisierungs-Organisationen rund um agiles Projektmanagement
 
+- Scrum Alliance
+  - Scrum nicht nur in Software-Entwicklung
+  - Halbe Mio Personen zertifiziert
+  - Hierarchisches Zertifizierungssystem
+  - Je nach Einsatzgebiet startet man mit
+    - CSM: Certified Scrum Master,
+    - CSPO: Certified Scrum Product Owner oder
+    - CSD: Certified Scrum Developer
+    - aufbauend: CSP: Certified Scrum Professional
+  - Schulungsunterlagen enthalten nur Vorgaben und Ziele, Gestaltung liegt beim Trainer. Daher unterschiedlichste Kursarten
+  - Schulungen im Namen der Scrum Alliance abhalten dürfen nur
+    - Certified Scrum Trainer CST
+    - Certified Enterprise Coach
+    - Certified team Coach
+  - Prüfungen aus Multiple Choice-Fragen
+  - Prüfungen direkt nach Kurs online (>70% = bestanden)
+  - Kurse zwischen 400 und 2400$, nur für 2 Jahre gültig, dann erneut 100$
+  - Einfacher aber teuer als bei scrum.org
+- scrum.org
+  - Scrum nur in Software-Entwicklung
+  - 100k Personen zertifiziert
+  - Kurse aufbauend
+    - PSF: Professional Scrum Foundation
+    - PSM: Professional Scrum Master (3 Levels)
+    - PSPO: Professional Scrum Owner (2 Levels)
+    - PSD: Professional Scrum Developer
+  - Schulungsunterlagen einheitlich
+  - Prüfungen aus Multiple Choice-Fragen
+  - Kurse online, keine Trainer
+  - Im Kurs Zugangsdaten zu Prüfungen und kurzen Prüfungseinblick
+  - Prüfungen mehrteilig: PSM 1: Grundlagen, PSM 2: Detalliertes Wissen
+  - Kosten niedriger als Scrum Alliance, aber schwieriger: mehr Fragen, 85% nötig, 60-120 Minuten
 
 # 718 Erkläre das Scrum-Framework („Bierdeckel“) im Überblick (ohne Eingehen auf die einzelnen Rollen)
 
