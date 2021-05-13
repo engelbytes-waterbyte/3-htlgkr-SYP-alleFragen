@@ -269,6 +269,7 @@ Falsch
 ---
 
 Ende der Fragen vom ersten Test
+Anfang Fragen vom zweiten Test:
 
 ---
 
@@ -286,9 +287,17 @@ Ende der Fragen vom ersten Test
 
 # Welche Strukturierungsmöglichkeiten hat man bei der Erstellung eines Projektstrukturplanes und was ist dabei zu beachten? (Nach welchen Gesichtspunkten ["Philosophien", „Orientierungen“, Prinzipien]!  - es ist NICHT gemeint: Top-Down/Bottom up).
 
+1. Produkt- bzw. objektorientiert
+  * Zerlegung in Bestandteile
+
+2. Prozess-, funktions- oder phasenorientiert
+  * Betrachtung des Weges zum Ziel
+
+> Ziel des PSP ist NUR die inhaltliche Zergliederung
 
 # Was ist ein Arbeitspaket? Wozu dienen diese?  Wie groß sollen sie sein?
 
+Ein Arbeitspaket wird beschrieben durch ein Ziel, einen Verantwortlichen, einer Bezeichnung, und eventuelle Aufgabenbeschreibung. Sie bilden die Basis für die weitere Projektplanung und sind die unterste Ebene im PSP. Außerdem sollten sie zwischen 3 Wochen bis 3 Monate groß sein
 
 # Zum Projektstrukturplan: Welche Aussage stimmt am meisten?
 a)	Im PSP spiegelt sich die Aufbauorganisation wieder.
@@ -298,20 +307,18 @@ d)	Ein PSP zeigt die Zusammenhänge Projektstruktur und Organisation
 e)	Ein PSP zeigt die Abhängigkeiten der Arbeitspakete.
 f)	Ein PSP zeigt die Abhängigkeiten der Vorgänge.
 g)	Ein PSP entsteht während der Ausführung eines Projektes, d. h er wird ständig umfangreicher.  
+h)  Keine der obigen Aussagen  a) bis g) ist richtig
+i)  Alle Aussagen a) bis g) sind richtig
 
-Keine der obigen Aussagen  a) bis g) ist richtig
-Alle Aussagen a) bis g) sind richtig
-
+**b)**
 
 # Zum Projektstrukturplan: Beschreibe den Zusammenhang zwischen PSP und Aufbauorganisation? Wie kann dieser dargestellt bzw. dokumentiert werden?
 
-Die Arbeitspakete eines PSPs werden in einer Funktionenmatrix oder Verantwortungsmatrix z.B. bei der Einfluss-PO den Stellen der Unternehmens-Aufbauorganisation oder einzelnen Personen zugeordnet.  
-Bei der Verantwortungsmatrix wird außerdem zwischen "ist zu informieren", "arbeitet mit" und "ist verantwortlich" unterschieden.
+Um Arbeitspakete den Verantwortlichen zuteilen zu können, werden aus PSP und Aufbauorganisation Funktionenmatrizen oder Verantwortungsmatrizen erstellt.
 
 # Was ist ein Meilenstein? Wodurch ist ein Meilenstein mindestens definiert?
 
 Meilensteine ...
-
 * sind „Abschnittsmarken“ im zeitlichen Planungsablauf
 * sind wichtige Ereignisse im Projektverlauf
 * markieren den Abschluss von wichtigen Projektschritten
@@ -319,12 +326,10 @@ Meilensteine ...
 * werden vom Projektteam geplant
 
 sind mindestens definiert durch:
-* * Name/Bezeichnung
-* * Verantwortlichen
-* * (vorläufige) Termine für die Erbringung der Ergebnisse
-* * Festgelegte Ergebnisse (Dokumente, Prototypen, Entscheidungen, ...)
-
-
+* Name/Bezeichnung
+* Verantwortlichen
+* (vorläufige) Termine für die Erbringung der Ergebnisse
+* Festgelegte Ergebnisse (Dokumente, Prototypen, Entscheidungen, ...)
 
 # Beim Übergang von der Ablauf- zur Terminplanung (können) werden ...
 

@@ -16,8 +16,6 @@ Sie entsteht durch Aufnahme von Date (Fragebogen, Checkliste, Riskioanalyse-Work
 
 [Quelle](https://www.microtool.de/wissen-online/was-ist-eine-risikomatrix/)
 
-
-
 # Zähle mögliche Risikokategorien auf.
 
 * Markt- und Branchenrisiken
@@ -144,6 +142,8 @@ Man schätzt die Fertigungsstellungsdauer kürzer ein als sie letztendlich ist
 Man addiert den Bestellwert zu den Ist-Kosten. Ohne dieser Methode täuschen bis zu Rechnungseingang zu niedrigen Betrag an
 
 ---
+
+Duichgestrichene
 
 # a) Wozu dient die Meilenstein- Trendanalyse? b) Analysiere folgenden Verlauf: (kein Verlauf ist als normal anzunehmen, 1-2-3 sind abhängig) Was könnte im Projektablauf passiert sein?
 

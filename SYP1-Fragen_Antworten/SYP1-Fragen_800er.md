@@ -1,5 +1,7 @@
 # Was versteht man unter „Qualität“? Welche Ansätze gibt es zur Erklärung des Begriffs?
 
+Qualität ist die Gesamtheit von Eigenschaften und Merkmalen eines Produktes oder einer Tätigkeit, die sich auf deren Eignung zur Erfüllung gegebener Erfordernisse bezieht
+
 * transzendete Ansatz
 * produktbezoge Ansatz
 * benutzerbezogene Ansatz
@@ -13,8 +15,7 @@ Kundenorientierung im Mittelpunkt
 
 # Was versteht man unter einem FCM-Modell? 
 
-Factor-Criteria-Metrics Model
-bildet Baum bzw. Netz
+Das Factor-Criteria-Metrics Model bildet einen Baum bzw. ein Netz aus den Teilmerkmalen bzw. Kriterien welche durch Indikatoren bzw. Metriken messbar gemacht werden.
 
 
 # Welche Qualitätsmodelle beschreibt die ISO / IEC 25010? 
