@@ -49,7 +49,7 @@ Das Risken vermiden werden und somit Chancen ungenuzt bleiben
 
 # „Denke positiv, lasse negative Gedanken erst gar nicht aufkommen!“ Welche Gefahren  birgt so eine „Rosa Brille“?
 
-Die Realität aus den Augen verlieren/ Tatsachen aus den Augen verlieren
+Die Realität aus den Augen verlieren / Tatsachen aus den Augen verlieren
 
 # Welche Tipps bezüglich Risikomanagement gibt uns Mr. Tompkins (aus DeMarko`s  „Der Termin“)
 
@@ -155,9 +155,13 @@ Plankorrigierte: Mit einer laufenden Restaufwandskorrektur + Netzplanbasis jedoc
 
 # Beschreibe die Problematik der Feststellung des Fertigstellungsgrades. Gibt es Möglichkeiten, diese Problematiken zu verkleinern?
 
-
+Die EVA ist genau so verlässlich wie die Genauigkeit bei der Feststellung des Fertigstellungsgrades.
+Um die Problematik der ungenauen EVA zu vermeiden, ist eine sehr detaillierte Projektplanung und eine beständige Mitkalkulation erforderlich. 
+Entscheidend für die Aussagekraft ist die fachlich richtige Aufteilung des Projekts in überwachbare Arbeitspakete.
 
 ---
+
+4.21 
 
 XXa)  1 P:  Was versteht man unter dem Begriff „Earned Value“?
 XXb)  1 P:  Wie groß ist der Zeit [verzug|vorsprung] zum Zeitpunkt Z1: 
@@ -168,6 +172,8 @@ XXd)  6 P:  Analysieren Sie folgende Earned-Value-Darstellung (KEINE einfache Ku
 XXe)   1 P Was heißt BCWS in Langform und wie lautet die neue Abkürzung und Langform von BCWS?  …..           1 P Wie lautet die neue Abkürzung und Langform von ACWP?  …..  
             1 P Wie lautet die neue Abkürzung und Langform von BCWP?  …..  
 
+4.22
+
 XXa)  1 P:  Was versteht man unter dem Begriff „Earned Value“?
 XXb)  1 P:  Wie groß ist der Zeit [verzug|vorsprung] zum Zeitpunkt Z1: 
       ca. _____ Wochen   (Bitte auch im Diagramm einzeichnen)  
@@ -177,6 +183,8 @@ XXd)  6 P:  Analysieren Sie folgende Earned-Value-Darstellung (KEINE einfache Ku
 XXe)   1 P Was heißt BCWS in Langform und wie lautet die neue Abkürzung und Langform von BCWS?  …..                  1 P Wie lautet die neue Abkürzung und Langform von ACWP?  …..  
             1 P Wie lautet die neue Abkürzung und Langform von BCWP?  …..  
  
+4.23
+
 XXa)  1 P:  Was versteht man unter dem Begriff „Earned Value“?
 XXb)  1 P:  Wie groß ist der Zeit [verzug|vorsprung] zum Zeitpunkt Z1: 
       ca. _____ Wochen   (Bitte auch im Diagramm einzeichnen)  
@@ -185,6 +193,8 @@ XXc)  1 P:  Wie groß ist der Zeit [verzug|vorsprung] zum Zeitpunkt Z2:
 XXd)  6 P:  Analysieren Sie folgende Earned-Value-Darstellung (KEINE einfache Kurvenbeschreibung, sondern mögliche schlüssige Gründe, die zu so einem Verlauf  geführt haben könnten)
 XXe)   1 P Was heißt BCWS in Langform und wie lautet die neue Abkürzung und Langform von BCWS?  …..                  1 P Wie lautet die neue Abkürzung und Langform von ACWP?  …..  
             1 P Wie lautet die neue Abkürzung und Langform von BCWP?  …..  
+
+4.24
 
 XXa)  1 P:  Was versteht man unter dem Begriff „Earned Value“?
 XXb)  1 P:  Wie groß ist der Zeit [verzug|vorsprung] zum Zeitpunkt Z1: 
@@ -198,6 +208,8 @@ XXc)  1 P:  Wie groß ist der Zeit [verzug|vorsprung] zum Zeitpunkt Z4:
 XXd)  6 P:  Analysieren Sie folgende Earned-Value-Darstellung (KEINE einfache Kurvenbeschreibung, sondern mögliche schlüssige Gründe, die zu so einem Verlauf  geführt haben könnten)
 XXe)   1 P Was heißt BCWS in Langform und wie lautet die neue Abkürzung und Langform von BCWS?  …..                  1 P Wie lautet die neue Abkürzung und Langform von ACWP?  …..  
             1 P Wie lautet die neue Abkürzung und Langform von BCWP?  …..  
+
+4.25
 
 XXa)  1 P:  Was versteht man unter dem Begriff „Earned Value“?
 XXb)  1 P:  Wie groß ist der Zeit [verzug|vorsprung] zum Zeitpunkt Z1: 
@@ -226,6 +238,8 @@ f)	Plankosten minus Istkosten
 g)	Was man am Projekt verdient, d.h. das was man als Auftragnehmer bekommt minus das was man  in das Projekt investiert  hat
 
 **b)**
+
+4.27
 
 # Was versteht man unter „Earned value“? Analysiere folgenden Verlauf einer Earned-Value-Kurve: Wie ist der Projektstatus Ende September zu beurteilen? Wie hoch ist ca. der zeitliche Verzug? Was ist sonst noch aus den Kurvenverläufen zu ersehen? 
 
