@@ -63,9 +63,9 @@ Die Realität aus den Augen verlieren/ Tatsachen aus den Augen verlieren
 
 ![Kreislauf_des_Projectcontrolling.png](../SYP1-Fragen_Grafiken/Kreislauf_des_Projektcontrolling.png)
 
-Proektplanung entsteht in Verbindung mit Projektziele.
+Projektplanung entsteht in Verbindung mit Projektziele.
 Durch Sollgrößen der Projektplanung entstehen Maßnahmen.
-Aus diesen und Interenen wie auch externen Störungen entsteht die Abwicklung.
+Aus diesen und internen wie auch externen Störungen entsteht die Abwicklung.
 Die Ist-Größen entstehen durch die Abwicklung. 
 Die Projektüberwachung für soll-/ist- Vergleich durch und benutzt eine Abweichungsanalyse. 
 Aus der Projektüberwachung kann eine Rückkopplung zur Projektplanung entstehen.
@@ -136,18 +136,15 @@ Man schätzt die Fertigungsstellungsdauer kürzer ein als sie letztendlich ist
 
 Man addiert den Bestellwert zu den Ist-Kosten. Ohne dieser Methode täuschen bis zu Rechnungseingang zu niedrigen Betrag an
 
----
-
-Duichgestrichene
-
-# a) Wozu dient die Meilenstein- Trendanalyse? b) Analysiere folgenden Verlauf: (kein Verlauf ist als normal anzunehmen, 1-2-3 sind abhängig) Was könnte im Projektablauf passiert sein?
-
-	
 # a) Wozu dient die Meilenstein- Trendanalyse? b) Analysiere folgenden Verlauf: (kein Verlauf ist als normal anzunehmen, 1-2-3 sind abhängig) Was könnte im Projektablauf passiert sein?
 	
-# a) Wozu dient die Meilenstein- Trendanalyse? b) Analysiere folgenden Verlauf (Gesamtsicht!) (kein Verlauf ist als normal anzunehmen, 1-2-3 sind abhängig) Was könnte im Projektablauf passiert sein?
+Die Meilensteintrendanalyse werden verwendet um Terminverschiebung zu visualisieren um fühzeitig Steuerungsmaßnahmen einleiten zu können.
 
----
+**1**
+
+**2**
+
+**3**
 
 # Kosten-Kontrolle: Wo liegen die „Fallen“, wenn die Ist-Daten mit einem linearen Plandaten-Verlauf verglichen werden? Wie kann man diese Fehleinschätzungen bestmöglich vermeiden?
 
@@ -156,8 +153,8 @@ Am Anfang zu positive Sicht - führt zu leichtfertiger Kostensteigerung
 
 Plankorrigierte: Mit einer laufenden Restaufwandskorrektur + Netzplanbasis jedoch ist dieser weg sehr aufwändig aufgrund ständiger Restkostenschätzungen.
 
-
 # Beschreibe die Problematik der Feststellung des Fertigstellungsgrades. Gibt es Möglichkeiten, diese Problematiken zu verkleinern?
+
 
 
 ---
@@ -276,7 +273,7 @@ Das Ziel der Dokumenten- und Berichtserstattungsplanung ist ein stets aktueller 
 3. Erfahrungssicherung
 4. Projektauflösung
 
-Ergebnisse:
+**Ergebnisse:**
       * Abnahmeprotokolle
       * Nachkalkulation
       * Kennzahlen, Berichte
