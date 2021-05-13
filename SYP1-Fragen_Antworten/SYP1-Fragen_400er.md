@@ -8,28 +8,24 @@ Den Projekterfolg gefährdende Faktoren
 
 # Beschreibe eine Risikomatrix (Zeichnung allein genügt nicht)?  Wie entsteht sie?
 
+> Wos wü er???
+
 Auf der x-Achse wird in einem Koordinatensystem die Schadenshöhe eingezeichnet.
 Auf der y-Achse steht die Eintrittswahrscheinlichkeit
 Im Diagramm sind die Risiken in Abhängigkeit ihrer Eintrittswahrscheinlichkeiten und Auswirkungen bzw. Schadensausmaße verteilt, sodass Sie die gravierendsten auf einen Blick ermitteln können.
 
-Sie entsteht durch Aufnahme von Date (Fragebogen, Checkliste, Riskioanalyse-Workshop)
+Sie entsteht durch Aufnahme von Daten (Fragebogen, Checkliste, Riskioanalyse-Workshop)
 
 [Quelle](https://www.microtool.de/wissen-online/was-ist-eine-risikomatrix/)
 
 # Zähle mögliche Risikokategorien auf.
 
 * Markt- und Branchenrisiken
-
 * Management-Riskien
-
 * Produktrisiken
-
 * Prozessrisiken
-
 * Personalrisiken
-
-* Finanzielle- /rechtliche Risiken
-
+* Finanzielle- / rechtliche Risiken
 * Projekthistorie
 
 # Was ist die Gefahr des zu frühen Einsatzes von Checklisten, insbes. beim Finden von möglichen Projektrisiken?
@@ -50,7 +46,6 @@ Es besteht die Gefahr, projektspezifische Risiken zu übersehen
 # Wenn wir alle Risiken gefunden und untersucht haben – welche Gefahren birgt so ein schwarz sehen?
 
 Das Risken vermiden werden und somit Chancen ungenuzt bleiben
-
 
 # „Denke positiv, lasse negative Gedanken erst gar nicht aufkommen!“ Welche Gefahren  birgt so eine „Rosa Brille“?
 
@@ -163,7 +158,6 @@ Plankorrigierte: Mit einer laufenden Restaufwandskorrektur + Netzplanbasis jedoc
 
 
 # Beschreibe die Problematik der Feststellung des Fertigstellungsgrades. Gibt es Möglichkeiten, diese Problematiken zu verkleinern?
-
 
 
 ---

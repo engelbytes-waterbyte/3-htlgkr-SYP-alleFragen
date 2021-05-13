@@ -349,7 +349,7 @@ Beim Übergang von der Ablauf- zur Terminplanung (können) werden …
 
 Markiere die 3 richtigsten Aussagen (1 Pkt je richtiger, ½ Pkt Abzug je falscher)
 
-2., 5., 9.
+2., 5., 8.
 
 
 # Was sind die häufigsten Fehler bei Aufwandschätzungen und was ist der Schluss daraus (Lessons learned)?
@@ -360,6 +360,8 @@ Markiere die 3 richtigsten Aussagen (1 Pkt je richtiger, ½ Pkt Abzug je falsche
 * Wunsch ist oft Vater des Gedankens, bzw. Druck "von Oben".
 * Nicht-Einbindung der durchführenden MitarbeiterInnen
 * Vergessen des PM- und/oder QM-Aufwandes
+
+Lessons learned: Systematisches Schätzen mit Methoden!
 
 # Wozu dient eine Vorgangsliste?
 
