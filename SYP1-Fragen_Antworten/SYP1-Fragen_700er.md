@@ -193,27 +193,83 @@ Aufwandsschätzung im Team | durch Projektleiter oder Experten
 
 # 718 Erkläre das Scrum-Framework („Bierdeckel“) im Überblick (ohne Eingehen auf die einzelnen Rollen)
 
-
 # 720 Beschreibe die Rolle des Product Owners in Scrum
 
+- Verantwortet Produkterfolg
+- Priorisiert Features (Nutzen) des Produkts
+- Auftraggeber-Rolle ("Will das Produkt")
+- Volle Entscheidungsfreiheit
+- Nur ein PO, Rolle nicht teilbar
+- Verfolgt Produktvision
+- Produkteingenschaften werden in Product Backlog aufgelistet, PO nimmt Priorisierung vor
 
 # 722 Was ist ein „Sprint“ (Im Umfeld Scrum)? Erkläre diesen im Entwicklungsumfeld (Länge, Organisation, Ergebnis, beteiligte Rollen, … 
 
+- Iteration der Entwicklung
+- Immer gleich lang (max. 4 Wochen)
+- Inhalt im Sprint Planning Meeting festgelegt: Was tun, Wie tun
+- Ergebnis eines Sprint ist ein lieferbares Produktinkrement
+- PO entscheidet über dessen Auslieferung
+- Präsentation der Sprint-Ergebnisse im Sprint-Review: Feedback aller Stakeholder
 
 # 723 Das Scrum Team: Wie setzt es sich zusammen? Wie arbeitet es? („Entwicklungsperspektive“)
 
+- 3-9 Mitglieder
+- Nicht nur Programmierer
+- Selbstorganisiert, keine formelle Hierarchie, Rollen oder Positionen
+- Team bestimmt im Sprint Planning über Menge an Arbeit für Sprint
+- Pull-Prinzip: Team holt sich Arbeit selbst
+- Team erstellt Umsetzungsplan
 
 # 724 Was ist ein „Daily Scrum“?
 
+"Einsatzplanung für den Tag"
+
+- Abstimmung über Arbeitsfortschritt und nächste Aufgaben
+- Gleiche Uhrzeit, gleicher Ort, max. 15 Min, drei Fragen:
+  - Was seit letztem DS erledigt?
+  - Hindernisse bis zum Sprint-Ziel?
+  - Was bis zum nächste DS erledigen?
+- PO kann teilnehmen
 
 # 728 Was ist, was macht ein Scrum Master“
 
+"Sorgt für hocheffektives Scrum-Team"
+
+- Coach für alle
+- Hilft im Verständnis und der effektiven Anwendung von Scrum
+- Beseitigt Hindernisse
+- Moderiert Scrum-Meetings
 
 # 730 Was sind Sprint Burndown-  und Release Burnup-Chart?
 
+Sprint Burndown Chart
+- Frühe Einschätzung der Erfolgswahrscheinlichkeit
+- Visualisierung de im Sprint bereits erledigten Arbeit
+- Aktualisierung im Daily Scrum
+- Handgezeichnet auf DIN A3 oder Flipchart
+- Wenig hilfreich in kurzen Sprints
+Release-Burnup-Chart
+- Frühe Einschätzung des Releaseumfanges
+- Prognose des Fortschritts im Release auf Basis der erledigten Einträge
+- Aktualisierung im Sprint-Review
+- Handgezeichnet auf DIN A3 oder Flipchart
+- Wenig hilfreich in kurzen Releases, überflüssig bei kontinuierlichen Releases
 
 # 732 Was sind die Unterschiede zwischen Scrum und Kanban?
 
+Kanban
+- Flexibler, weniger Regeln
+- Ziel: gleichmäßiger Fluss in der Fertigung ohne Stehzeiten mit minimalen Lagerbeständen
+- Ideal für Teams, die wenig Management und Deadlines brauchen (Y-Typus)
+- Keine Rollen, nur Team
+- Kein Zeitlimit wie bei Sprints
+- Visualisierung ähnlich Scrum-Boards, aber
+  - Anforderungen nicht in Tasks
+  - Durchlaufen als Tickets der Reihe nach die Bearbeitungsschritte
+  - Anzahl Tickets in einem Workflow-Schritt limitiert: Erst, wenn sich Station n+1 ein Ticket von n holt, darf sich n wieder Arbeit nehmen
+- Board wird nicht zurückgesetzt
+- Vorteil: freieres Arbeiten
 
 # 734 Beschreibe die agile Methode TDD
 
