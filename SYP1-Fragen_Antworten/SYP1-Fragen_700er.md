@@ -193,6 +193,12 @@ Aufwandsschätzung im Team | durch Projektleiter oder Experten
 
 # 718 Erkläre das Scrum-Framework („Bierdeckel“) im Überblick (ohne Eingehen auf die einzelnen Rollen)
 
+Entwicklungsteams mit Businessfokus, die Verantwortung für ihren Prozess übernehmen:
+  3Perspektiven:
+    * Produktperspektive -> Produkte verbessern und definieren
+    * Entwicklungsperspektive -> Wie Produkte verbessert und definiert werden (entwickeln)
+    * Verbesserungsperspektive -> Wie Prozesse und Kollaboration verbessert werden 
+
 # 720 Beschreibe die Rolle des Product Owners in Scrum
 
 - Verantwortet Produkterfolg
@@ -273,23 +279,58 @@ Kanban
 
 # 734 Beschreibe die agile Methode TDD
 
+Aus User-stories und Use-Cases werden Tests definiert bevor überhaupt der Quellcode besteht. KISS, LC - Low Coupling(Änderung -> eine Komponente), HC - High Cohesion(Programmbaustein -> !eine Aufgabe!) ist damit leichter zu erfüllen. Dadurch kann man nicht *um den Fehler* herumtesten 
 
 # 736 Beschreibe die agile Methode FDD (nach Jeff DeLuca) 
 
+1. Entwicklung eines Gesamtmodell
+1. Erstellung einer Feature-Liste
+1. Planung je Feature
+1. Entwurf je Feature
+1. Programmierung der Features
 
 # 740 Beschreibe die agile Methode XP2
 
+Beim XP2 gibt kreative Techniken, die meiste Produktivität aus den Teams zu holen und sie basieren auf 5 Werte und 14 Prinzipien.
 
 # 742 Was sind die 5 Werte von XP2 (Aufzählung)?
 
+Einfachheit, Kommunikation, Rückkopplung, Mut, Respekt
 
 # 744 Zähle möglichst viele der 14 XP2-Prinzipien auf.
+
+Fluss (flow)
+ständiger "Ausfluss" von  Funktionalität – im Gegensatz zu Phasenmodellen
+Gelegenheit (opportunity)
+Probleme sind Chancen für Veränderungen/Verbesserungen
+Redundanz (redundancy)
+NICHT im Code, aber in den Ressoucen (z.B. Pair Programming)
+Fehlschlag (failure)
+lieber durch Ausprobieren einen Fehlschlag riskieren als endlos diskutieren
+Qualität (quality)
+reduzierte Qualität führt NICHT zu weniger Kosten! Q motiviert, Entwickler sind stolz auf ihr Produkt
 
 
 # 746 Zähle möglichst viele XP2-Techniken auf.
 
+Beieinander sitzen (sit together)
+idealerweise in einem Raum
+Vollständiges Team (whole team)
+jedes benötigte Wissen ist im Team vorhanden
+Informative Arbeitsumgebung (informative workspace)
+ob über Projektionen oder Pinwände: aktueller Projektzustand soll immer gegenwärtig sein
+Wochenzyklus (weekly cycle)
+jede Iteration dauert eine Wochen (Timeboxing)
+Energized Work
+Überstunden sind Ausnahmefälle, Pausen Pflicht,   30-Stunden-Woche1 – aber ohne Smartphone, …
+Quartalszyklus
+Jedes Release dauert 3 Monate
+Freiraum (Slack) 
+während Projekt Zeit um sich weiterzubilden
+
 
 # 750 Beschreibe die agile Methode Crystal
+
 
 
 # 752 Beschreibe die agile Methode DSDM
