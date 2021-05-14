@@ -331,12 +331,43 @@ während Projekt Zeit um sich weiterzubilden
 
 # 750 Beschreibe die agile Methode Crystal
 
-
+Crystal ist eine Famile von Methoden, mit Varianten
 
 # 752 Beschreibe die agile Methode DSDM
 
+DSDM ist ein iterativer, inkrementeller Ansatz und konzentriert sich auf Kundenlösung und nicht auf die Entwicklung
 
 # 754 Beschreibe die agile Methode RAD
 
+Prototypisches Vorgehen auf Grundlage des Spiralmodelles (Barry Boehm)
+Wie bei der klassischen Methode werden zunächst in einem ersten Prozess die Anforderungen als grobe Liste der Grundforderungen aufgestellt. Anstatt diese nun immer stärker zu verfeinern und zu optimieren, werden die Grundforderungen priorisiert und von den Entwicklern bearbeitet
+Ziel ist es, möglichst schnell einen lauffähigen Prototyp der Software entsprechend der Grundanforderungen des Auftraggebers zu entwickeln. Zu diesem Zweck werden im Regelfall Software-Baukästen verwendet, so dass ein schneller Software-Prototyp geliefert werden kann 
+Dieser Prototyp wird den Auftraggebern vorgelegt und zum Test überlassen. In diesem Schritt kann nun der Auftraggeber die Anforderungen ergänzen, verfeinern und optimieren, um diese anschließend den Entwicklern mitteilen zu können
+Dank kurzer Entwicklungszyklen können die neuen Anforderungen und Wünsche nun in die Software eingearbeitet werden. Dieser Prozess wird nun so lange wiederholt, bis die Software mit allen gewünschten Eigenschaften vom Kunden abgenommen wird
+
+
 
 # 762 Hybrides Projektmanagement: Was spricht für die Verwendung klassischer, was für die Verwendung agiler Ansätze?
+
+FÜR KLASSISCH
+* großes Team
+* Stabilität der Anforderungen
+* geringer Qualifikationsgrad der Menschen
+* hohes Gefährdungspotential
+* geordnete Kultur
+* bekannter Weg zum Ziel
+* bekanntes Ziel
+* große Projekte
+* stabile Anforderungen
+
+* FÜR AGIL
+* kleines Team
+* kleine Projektgröße
+* choatische Kultur
+* hoher Qualifikationsgrad der Menschen
+* labile Stabilität der Anforderungen
+* unbekannter Weg zum Ziel
+* unbekanntes Ziel
+* unbekannte Anforderungen
+* Unsicherheiten
+* starke Kundenbeteiligung
