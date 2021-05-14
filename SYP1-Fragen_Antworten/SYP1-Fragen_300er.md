@@ -1,7 +1,7 @@
 
 # **300er**
 
-# Zähle möglichst vollständig die Bausteine einer guten Projektkultur auf
+# 3.1 Zähle möglichst vollständig die Bausteine einer guten Projektkultur auf
 * Projektziele
 * Aufbauorganisation
 * Ablauforganisation
@@ -9,7 +9,7 @@
 * Führung
 * Projekt-Controlling
 
-# Was gehört alles zu einer guten Projektkultur? Was muss dafür getan werden? Was bekommt man dafür (Nutzen)?
+# 3.2 Was gehört alles zu einer guten Projektkultur? Was muss dafür getan werden? Was bekommt man dafür (Nutzen)?
 
 Die Projektkultur ist das Umfeld, die Art und Weise wie Methoden, Management usw. mit Menschen verbunden werden
 
@@ -23,7 +23,7 @@ Projektkultur ist und schafft das Klima für
 Ergebnis: 
 Verringerung des Projektrisikos
 
-# Warum ist ein motivierender Projektstart so wichtig?
+# 3.3 Warum ist ein motivierender Projektstart so wichtig?
 
 Der Projektstart ist wie der erste Schultag: Man spürt gleich, ob man sich in dieser Gruppe wohl fühlen wird oder nicht. 
 Und vom „Wohlfühlen“ hängt vielfach auch der Erfolg des gesamten Projektes ab.
@@ -35,7 +35,7 @@ Wichtig daher: Gute Projektkultur zeigt sich bereits am Projektstart​
 * Start-Up-Workshop
 * Kick-Off-Meeting
 
-# Beschreibe ein Projekt-Start-up-Workshop
+# 3.4 Beschreibe ein Projekt-Start-up-Workshop
 
 oft mehrtägig, außerhalb der Firma
 
@@ -55,7 +55,7 @@ kommen noch dazu:
 
 am besten auch von einem externen Moderator/Berater geleitet
 
-# Beschreibe ein Projekt-Kick-Off. Was ist das, Ziele, Ablauf. 
+# 3.5 Beschreibe ein Projekt-Kick-Off. Was ist das, Ziele, Ablauf. 
 **Was ist das**
 * Erste offizielle Sitzung des Teams nach Erteilung des Durchführungsauftrages
 * Die an der Projektdurchführung beteiligten Personen lernen sich kennen und werden informiert
@@ -73,11 +73,11 @@ am besten auch von einem externen Moderator/Berater geleitet
 4. Pl informiert über weitere Details des Auftrages, geht auf Wünsche und Befürchtungen ein
 5. Gemeinsam Spielregeln beschließen
 6. Weitere Vorgehensweise vereinbaren
-# Was versteht man unter informeller Organisation?
+# 3.6 Was versteht man unter informeller Organisation?
 Informelle Organisationen sind soziale Strukturen, bei denenzwischenmenschliche Beziehungen eine große Rolle spielen. Sie werden durch soziale Kontakte und Sympathien zwischenden Mitgliedern gebildet und entstehen spontan.
 > Hob i aus Internet i find ned auf Folien
 
-# Nenne die 6 Grundformen von Projektorganisation
+# 3.7 Nenne die 6 Grundformen von Projektorganisation
 * Einfluss-Projektorganisation
 * Matrix-Projektorganisation
 * Auftrags-Projektorganisation
@@ -85,7 +85,7 @@ Informelle Organisationen sind soziale Strukturen, bei denenzwischenmenschliche 
 * projektorierentierte Teilorganisation
 * projektorierentiertes Unternehmen
 
-# Nenne Vor- und Nachteile der Einfluss-Projektorganisation 
+# 3.8 Nenne Vor- und Nachteile der Einfluss-Projektorganisation 
 **Vorteile**
 * Besteh. Org. braucht nicht verändert werden
 * Personalzuordnung zu mehreren Projekten möglich
@@ -96,7 +96,7 @@ Informelle Organisationen sind soziale Strukturen, bei denenzwischenmenschliche 
 * Wenig Verbindendes (Team)
 * Kommunikation mit Auftraggeber
 
-# Nenne Vor- und Nachteile der Matrix-Projektorganisation im Vergleich zu anderen Formen. 
+# 3.9 Nenne Vor- und Nachteile der Matrix-Projektorganisation im Vergleich zu anderen Formen. 
 
 **Vorteile**  
   Identifaktion der Projektmitglieder (Team)
@@ -106,7 +106,7 @@ Informelle Organisationen sind soziale Strukturen, bei denenzwischenmenschliche 
   Konfliktpotential (Projekt-Linie)(zwischen Abteilungsleiter und Projektleiter)
   Doppelunterstellung("zwei Herren")
 
-# Beschreibe die Org.-Form „Auftrags-Projektorganisation“. 
+# 3.10 Beschreibe die Org.-Form „Auftrags-Projektorganisation“. 
 
 Die Auftrags-Projektorganisation ist zwar Matrixorientiert hat aber keine Doppelunterstellung. Sie hat eine eigene Organisationseinheit: "Projektmanagement" und ist für Unternehmen mit vielen Projekten. Der Projektleiter hat die Gesamtverantwortung und grundsätzlich ist setzt sich die Auftrags-Projektorganisation aus kleine Projektgruppen(z.B. "Lieferant" ) zusammen. 
 
@@ -114,16 +114,16 @@ Die Auftrags-Projektorganisation ist zwar Matrixorientiert hat aber keine Doppel
 
 ![Auftrags-Projektorganisation.jpg](../SYP1-Fragen_Grafiken/Auftrags-Projektorganisation.jpg)
 
-# a) Beschreibe die Org.-Form „Reine Projektorganisation“.  
+# 3.11 a) Beschreibe die Org.-Form „Reine Projektorganisation“.  
  
   Bie einer reinen Projektorganisation werden die Mitarbeiter vollstündig aus ihren üblichen Unternehmensbereichen ausgegliedert und in das Projekt eingebunden. Sie eignet sich besonders gut für umfangreiche, komplexe Projekte von hoher Bedeutung. 
   Die Verantwortungsbereiche und die Aufgabenverteilung ist klar strukturiert.
 
-# b) Wie nennt man diese noch?      
+## b) Wie nennt man diese noch?      
 
   Die "reine Projektorganisation" nennt man außerdem noch "Task Force" oder "autonome Projektorganisation".
 
-# c) Vor-/Nachteile 
+## c) Vor-/Nachteile 
   <!-- |Vorteile |Nachteile |
   |--|--|
   |PL hat volle Kompetenz | Wiedereingliederung nach Projektende|
@@ -141,13 +141,13 @@ Die Auftrags-Projektorganisation ist zwar Matrixorientiert hat aber keine Doppel
 * Wiedereingliederung nach Projektende
 * Wer wird abgestellt (Qualif.)
 
-# Beschreibe die Organisationsform „projektorientiertes Unternehmen“. (Wie ist so eine Form aufgebaut? Wie ist der Arbeitsablauf? Wie werden die Projekte koordiniert usw.)
+# 3.12 Beschreibe die Organisationsform „projektorientiertes Unternehmen“. (Wie ist so eine Form aufgebaut? Wie ist der Arbeitsablauf? Wie werden die Projekte koordiniert usw.)
 
 Wenn Projekte "zum Normalfall" werden wird die Projektorganisation immer mehr auch zur Unternehmensorgainsation.
 Jeder im Führungskreis ist für ein Projekt zuständig. Jeder Arbeiter ist einem Projekt zugeteilt. Dienstleistungsservice (Administration, Verwaltung (z.B. EDV, Personal, …)) wird für alle Projekte zur Verfügung gestellt. 
 
 
-# Wähle eine Projekt-Organisationsform und begründe* deine Wahl: Sehr umfangreiches Projekt, wenig Risiko, bekannte Technologie, durchschnittlicher Zeitdruck, Plandauer ist 2 Jahre. (Annahme: es wurden/werden nur wenige Projekte im Unternehmen gemacht) 
+# 3.13 Wähle eine Projekt-Organisationsform und begründe* deine Wahl: Sehr umfangreiches Projekt, wenig Risiko, bekannte Technologie, durchschnittlicher Zeitdruck, Plandauer ist 2 Jahre. (Annahme: es wurden/werden nur wenige Projekte im Unternehmen gemacht) 
 > *Nenne Aspekte, die für die eine oder andere Form sprechen.
 
 * sehr umfangreiches Projekt spricht für Reine PO
@@ -158,7 +158,7 @@ Jeder im Führungskreis ist für ein Projekt zuständig. Jeder Arbeiter ist eine
 
 Da je 2 Aspekte für jede Organisationsform, die in Frage kommen sprechen, würde ich mich für die Matrix-PO (Mittelweg) entscheiden.
 
-# Wähle eine Projekt-Organisationsform und begründe* deine Wahl:Projektgröße mittel, hohes Risiko, bekannte Technologie, hoher Zeitdruck, Plandauer 7 Monate. (Annahme: es wurden/werden nicht sehr viele Projekte im Unternehmen gemacht)
+# 3.14 Wähle eine Projekt-Organisationsform und begründe* deine Wahl:Projektgröße mittel, hohes Risiko, bekannte Technologie, hoher Zeitdruck, Plandauer 7 Monate. (Annahme: es wurden/werden nicht sehr viele Projekte im Unternehmen gemacht)
 > *Nenne Aspekte, die für die eine oder andere Form sprechen.
 
 * Projektgröße mittel spricht für Einfluss-PO oder Matrix-PO
@@ -169,7 +169,7 @@ Da je 2 Aspekte für jede Organisationsform, die in Frage kommen sprechen, würd
 
 Ich würde mich für die Matrix-PO entscheiden, weil die meisten Aspekte dafür sprechen.
 
-# Wähle eine Projekt-Organisationsform und begründe* deine Wahl: Projektgröße klein, hohes Risiko, bekannte Technologie, sehr hoher Zeitdruck, Plandauer 2 Monate. (Annahme: es wurden/werden nur wenige Projekte im Unternehmen gemacht)
+# 3.15 Wähle eine Projekt-Organisationsform und begründe* deine Wahl: Projektgröße klein, hohes Risiko, bekannte Technologie, sehr hoher Zeitdruck, Plandauer 2 Monate. (Annahme: es wurden/werden nur wenige Projekte im Unternehmen gemacht)
 > *Nenne Aspekte, die für die eine oder andere Form sprechen.
 
 * Projektgröße klein spricht für Einfluss-PO
@@ -180,7 +180,7 @@ Ich würde mich für die Matrix-PO entscheiden, weil die meisten Aspekte dafür 
 
 Da die Einfluss-PO dem sehr hohen Zeitdruck nicht gerecht wird, würde ich mich für den Mittelweg, die Matrix-PO entscheiden. Die Reine PO würde ich nicht bevorzugen, weil die Einrichtung schon zu viel Zeit der 2 Monate in Anspruch nehmen würde.
 
-# Wähle eine Projekt-Organisationsform und begründe* deine Wahl: Projektgröße klein, mittleres Risiko, unbekannte Technologie, sehr hoher Zeitdruck, Plandauer 12 Monate. (Annahme: es wurden/werden nur wenige Projekte im Unternehmen gemacht)
+# 3.16 Wähle eine Projekt-Organisationsform und begründe* deine Wahl: Projektgröße klein, mittleres Risiko, unbekannte Technologie, sehr hoher Zeitdruck, Plandauer 12 Monate. (Annahme: es wurden/werden nur wenige Projekte im Unternehmen gemacht)
 > Nenne Aspekte, die für die eine oder andere Form sprechen.
 
 * Projekgröße klein spricht für Einfluss-PO
@@ -191,7 +191,7 @@ Da die Einfluss-PO dem sehr hohen Zeitdruck nicht gerecht wird, würde ich mich 
 
 Ich würde mich für die Reine PO entscheiden, da 3 Aspekte für diese sprechen.
 
-# Beschreibe die Organisationsform „Chefprogrammierer-Team“ (Charakteristika, Vor-, Nachteile)
+# 3.17 Beschreibe die Organisationsform „Chefprogrammierer-Team“ (Charakteristika, Vor-, Nachteile)
 
 - Flache / gar keine Hierarchie
 - Projektleiter ist an der Entwicklung beteiligt
@@ -212,7 +212,7 @@ Ich würde mich für die Reine PO entscheiden, da 3 Aspekte für diese sprechen.
   * PS hat "faden" aber sumso wichtigeren Job ohne Ersatzpersonen
 
 
-# Was grenzt die Organisationsform „Projektgruppe“ vom „Chefprogrammierer-Team“ ab?
+# 3.19 Was grenzt die Organisationsform „Projektgruppe“ vom „Chefprogrammierer-Team“ ab?
 
 Im Gegensatz zum Chefprogrammierer hat der Projektleiter keinen Assistent und keinen Sekretär.
 Der Projektleiter muss kein Übermensch sein.
@@ -228,7 +228,7 @@ Nachteile:
 * Projekt braucht Anlaufzeit ("einschleifen" der Rollen)
 * Gute soziale Fähigkeiten des PL
   
-# Beschreibe die 4 (bzw. 5) Phasen der Teambildung
+# 3.20 Beschreibe die 4 (bzw. 5) Phasen der Teambildung
 
 1. Forming (Orientierungsphase)  
 Kennenlernen und Grenzen ausloten, definieren von Regeln und Methode
@@ -246,7 +246,7 @@ endlich kann alle Energie den Projektaufgaben gewidmet werden
 Teamauflösung VOR Beendigung des Projekts. Zentrale Frage / Angst jedes Einzelnen: Wie geht es mit mir nach dem Projekt weiter?
 
 
-# Was unterscheidet Produktstruktur, Objektstruktur und Projektstruktur?
+# 3.21 Was unterscheidet Produktstruktur, Objektstruktur und Projektstruktur?
 
 * Produktstruktur  
 z.B. eine Stückliste: Zerlegung eines Motors in seine Einzelteile
@@ -258,11 +258,11 @@ Produktstruktur + erforderliche Werkzeuge und Vorrichtungen, Hilfsmittel, Zwisch
 Objektstruktur + Aufgaben bzw. Projektfunktionen
 
 
-# Wie lautet die englische Bezeichnung für Projektstrukturplan?
+# 3.22 Wie lautet die englische Bezeichnung für Projektstrukturplan?
 
 Work Breakdown Structure
 
-# Im Projektstrukturplan wird das Projekt tätigkeitsmäßig und zeitlich gegliedert:    wahr  /  falsch  
+# 3.23 Im Projektstrukturplan wird das Projekt tätigkeitsmäßig und zeitlich gegliedert:    wahr  /  falsch  
 
 Falsch
 
@@ -273,7 +273,7 @@ Anfang Fragen vom zweiten Test:
 
 ---
 
-# Welche Aussage ist die richtigste?
+# 3.24 Welche Aussage ist die richtigste?
 
   Eine PSP ist die hierarchische Gliederung der Gesamtaufgabe nach formalen oder inhaltlichen Merkmalen in einzelne Teilaufgaben
 
@@ -285,7 +285,7 @@ Anfang Fragen vom zweiten Test:
 
 **c)**
 
-# Welche Strukturierungsmöglichkeiten hat man bei der Erstellung eines Projektstrukturplanes und was ist dabei zu beachten? (Nach welchen Gesichtspunkten ["Philosophien", „Orientierungen“, Prinzipien]!  - es ist NICHT gemeint: Top-Down/Bottom up).
+# 3.25 Welche Strukturierungsmöglichkeiten hat man bei der Erstellung eines Projektstrukturplanes und was ist dabei zu beachten? (Nach welchen Gesichtspunkten ["Philosophien", „Orientierungen“, Prinzipien]!  - es ist NICHT gemeint: Top-Down/Bottom up).
 
 1. Produkt- bzw. objektorientiert
   * Zerlegung in Bestandteile
@@ -295,11 +295,11 @@ Anfang Fragen vom zweiten Test:
 
 > Ziel des PSP ist NUR die inhaltliche Zergliederung
 
-# Was ist ein Arbeitspaket? Wozu dienen diese?  Wie groß sollen sie sein?
+# 3.26 Was ist ein Arbeitspaket? Wozu dienen diese?  Wie groß sollen sie sein?
 
 Ein Arbeitspaket wird beschrieben durch ein Ziel, einen Verantwortlichen, einer Bezeichnung, und eventuelle Aufgabenbeschreibung. Sie bilden die Basis für die weitere Projektplanung und sind die unterste Ebene im PSP. Außerdem sollten sie zwischen 3 Wochen bis 3 Monate groß sein
 
-# Zum Projektstrukturplan: Welche Aussage stimmt am meisten?
+# 3.27 Zum Projektstrukturplan: Welche Aussage stimmt am meisten?
 a)	Im PSP spiegelt sich die Aufbauorganisation wieder.
 b)	Ein PSP ist die formale und/oder inhaltliche Gliederung eines Projektes
 c)	Ein PSP ist die formale, die zeitliche und/oder inhaltliche Gliederung eines Projektes
@@ -312,11 +312,11 @@ i)  Alle Aussagen a) bis g) sind richtig
 
 **b)**
 
-# Zum Projektstrukturplan: Beschreibe den Zusammenhang zwischen PSP und Aufbauorganisation? Wie kann dieser dargestellt bzw. dokumentiert werden?
+# 3.28 Zum Projektstrukturplan: Beschreibe den Zusammenhang zwischen PSP und Aufbauorganisation? Wie kann dieser dargestellt bzw. dokumentiert werden?
 
 Um Arbeitspakete den Verantwortlichen zuteilen zu können, werden aus PSP und Aufbauorganisation Funktionenmatrizen oder Verantwortungsmatrizen erstellt.
 
-# Was ist ein Meilenstein? Wodurch ist ein Meilenstein mindestens definiert?
+# 3.29 Was ist ein Meilenstein? Wodurch ist ein Meilenstein mindestens definiert?
 
 Meilensteine ...
 * sind „Abschnittsmarken“ im zeitlichen Planungsablauf
@@ -331,7 +331,7 @@ sind mindestens definiert durch:
 * (vorläufige) Termine für die Erbringung der Ergebnisse
 * Festgelegte Ergebnisse (Dokumente, Prototypen, Entscheidungen, ...)
 
-# Beim Übergang von der Ablauf- zur Terminplanung (können) werden ...
+# 3.30 Beim Übergang von der Ablauf- zur Terminplanung (können) werden ...
 
 Beim Übergang von der Ablauf- zur Terminplanung (können) werden …
 1.	Vorgänge zu Arbeitspaketen
@@ -352,7 +352,7 @@ Markiere die 3 richtigsten Aussagen (1 Pkt je richtiger, ½ Pkt Abzug je falsche
 2., 5., 8.
 
 
-# Was sind die häufigsten Fehler bei Aufwandschätzungen und was ist der Schluss daraus (Lessons learned)?
+# 3.31 Was sind die häufigsten Fehler bei Aufwandschätzungen und was ist der Schluss daraus (Lessons learned)?
 
 * Neue Themen, neue Werkzeuge, wenig Erfahrung: Schätzung fällt zu niedrig aus!
 * Aufwand und Dauer wird vermischt
@@ -363,17 +363,17 @@ Markiere die 3 richtigsten Aussagen (1 Pkt je richtiger, ½ Pkt Abzug je falsche
 
 Lessons learned: Systematisches Schätzen mit Methoden!
 
-# Wozu dient eine Vorgangsliste?
+# 3.32 Wozu dient eine Vorgangsliste?
 
 Sie verdeutlicht auch parallelablaufende Arbeitspakete, Überlappungen zwischen Arbeitspaketen oder Zeitabstände
-Im Projektmanagement wird sie für die Ausführenden z.B. Termine und Aufgabenbeschreibung enthalten. Auf der Basis der Vorgansliste kann dann das Projektmanagement die jeweiligen Start- und Endtermine der Arbeitspakete ermitteln.
+Im Projektmanagement wird sie für die Ausführenden z.B. Termine und Aufgabenbeschreibung enthalten. Auf der Basis der Vorgangsliste kann dann das Projektmanagement die jeweiligen Start- und Endtermine der Arbeitspakete ermitteln.
 
 [Quelle](http://projektmanagement-definitionen.de/glossar/vorgangsliste/)
 
 Ablauf- und Terminplanung(Zeitplanung)
 Arbeitspakete werden zu Vorgängen
 
-# Welche Darstellungsformen werden in der Ablauf- und Terminplanung verwendet?
+# 3.33 Welche Darstellungsformen werden in der Ablauf- und Terminplanung verwendet?
 
 * Balkenpläne
   * Personenbezogen
@@ -383,7 +383,7 @@ Arbeitspakete werden zu Vorgängen
   * Vernetzt
 * Netzpläne
 
-# Was ist ein „kombinierter Balkenplan“?
+#   Was ist ein „kombinierter Balkenplan“?
 
 Balkenpläne bilden die Dauer jedes Vorgangs in Form eines horizontalen Balkens ab
 
@@ -391,7 +391,7 @@ Bei einem kombinierten Balkenplan enthalten die Balken mehrere kombinierte Infor
 
 [Quelle](https://www.openpm.info/display/openPM/Projektplanung+-+Ablauf+und+Termine#:~:text=Bei%20einem%20kombinierten%20Balkenplan%20enthalten,unterschiedliche%20Strichlierungen%2C%20sichtbar%20gemacht%20werden.)
 
-# Was ist eine Anordnungsbeziehung? Welche Formen gibt es?
+# 3.35 Was ist eine Anordnungsbeziehung? Welche Formen gibt es?
 
 
 Eine Anordnungsbeziehung ist eine gerichtete Verknüpfung von zwei Planungselementen im Netzplan, die eine sachlogische und zeitliche Beziehung zwischen diesen Elementen widerspiegelt. Die Abhängigkeit zwischen Vorgänger- und Nachfolger-Vorgang wird im Netzplan durch Pfeile dargestellt.
@@ -406,7 +406,7 @@ Eine Anordnungsbeziehung ist eine gerichtete Verknüpfung von zwei Planungseleme
 | Sprungfolge(SF) | AE (Anfang-Endne) SE (Start-Ende) | Ende des Nachfolgers ist vom Start des Vorgängers abhängig |
 
 
-# Was ist ein vernetzter Balkenplan?
+# 3.36 Was ist ein vernetzter Balkenplan?
 
 [Quelle](http://projekt-manager.eu/projektmanagement/balkenplan.html)
 
@@ -416,7 +416,7 @@ Der vernetzte Balkenplan erweitert die Darstellung um die Abhängigkeiten zwisch
 * Guter Kompromiss für kleine und wenig vernetzte Projekte
 * AOB sehr schnell eher verwirrend den Helfend
 
-# Welche klassische Arten von (deterministischen) Netzplänen gibt es? Nenne deren Abkürzung und Langname. Wie „orientiert“ sind diese und was heißt das?
+# 3.37  Welche klassische Arten von (deterministischen) Netzplänen gibt es? Nenne deren Abkürzung und Langname. Wie „orientiert“ sind diese und was heißt das?
 
 "orientiert" heißt in welcher Form Ereignisse und Vorgänge beschrieben werden.
 
@@ -424,16 +424,16 @@ Der vernetzte Balkenplan erweitert die Darstellung um die Abhängigkeiten zwisch
 * PERT (Programm Evaluation and Review Technique) - Ereignisknoten-orientiert
 * MPM (Metra Potential Method) - Vorgangsknoten-orientiert
 
-# Warum müssen bei Netzplänen Meilensteine als Vorgänge mit Dauer 0 deklariert werden?
+# 3.38 Warum müssen bei Netzplänen Meilensteine als Vorgänge mit Dauer 0 deklariert werden?
 
 Sie sind lediglich Entscheidungspunkte und damit keine Scheinvorgänge auftreten.
 
-# Was versteht man in der Ablaufplanung unter einem Zeitwert?
+# 3.39 Was versteht man in der Ablaufplanung unter einem Zeitwert?
 
 * Positiv (Abstand, lag) 
 * Negativ (Überlappung, lead)
 
-# Beschreibe die Vorgehensweise zur Erstellung eines Netzplanes.
+# 3.40 Beschreibe die Vorgehensweise zur Erstellung eines Netzplanes.
 
 **Top-Down**
 * Zerlegung des Projektzieles in Teilziele. In der untersten Ebene eines Astes stehen dann die Aktivitäten.
@@ -445,7 +445,7 @@ Sie sind lediglich Entscheidungspunkte und damit keine Scheinvorgänge auftreten
 * hier ist Kreativität gefordert! Dann nach Oberbegriffen ordnen und in Struktur bringen
 * Gut, wenn noch keine klaren Vorstellungen über die Vorgehensweise im Projekt bestehen.
 
-# Was versteht man unter „kritischer Pfad“ im Projektmanagement?
+# 3.41 Was versteht man unter „kritischer Pfad“ im Projektmanagement?
 
 > Der Netzweg mit der längsten Gesamtdurchlaufzeit wird als "kritischer Pfad" bezeichnet
 > auf diesem Weg ist der Puffer jeweils 0
