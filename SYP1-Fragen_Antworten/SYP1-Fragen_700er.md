@@ -345,8 +345,6 @@ Ziel ist es, möglichst schnell einen lauffähigen Prototyp der Software entspre
 Dieser Prototyp wird den Auftraggebern vorgelegt und zum Test überlassen. In diesem Schritt kann nun der Auftraggeber die Anforderungen ergänzen, verfeinern und optimieren, um diese anschließend den Entwicklern mitteilen zu können
 Dank kurzer Entwicklungszyklen können die neuen Anforderungen und Wünsche nun in die Software eingearbeitet werden. Dieser Prozess wird nun so lange wiederholt, bis die Software mit allen gewünschten Eigenschaften vom Kunden abgenommen wird
 
-
-
 # 762 Hybrides Projektmanagement: Was spricht für die Verwendung klassischer, was für die Verwendung agiler Ansätze?
 
 FÜR KLASSISCH
@@ -360,7 +358,7 @@ FÜR KLASSISCH
 * große Projekte
 * stabile Anforderungen
 
-* FÜR AGIL
+FÜR AGIL
 * kleines Team
 * kleine Projektgröße
 * choatische Kultur
