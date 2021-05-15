@@ -238,7 +238,7 @@ Entwicklungsteams mit Businessfokus, die Verantwortung für ihren Prozess übern
   - Was bis zum nächste DS erledigen?
 - PO kann teilnehmen
 
-# 728 Was ist, was macht ein Scrum Master“
+# 728 Was ist, was macht ein Scrum Master?
 
 "Sorgt für hocheffektives Scrum-Team"
 
@@ -255,6 +255,7 @@ Sprint Burndown Chart
 - Aktualisierung im Daily Scrum
 - Handgezeichnet auf DIN A3 oder Flipchart
 - Wenig hilfreich in kurzen Sprints
+
 Release-Burnup-Chart
 - Frühe Einschätzung des Releaseumfanges
 - Prognose des Fortschritts im Release auf Basis der erledigten Einträge
