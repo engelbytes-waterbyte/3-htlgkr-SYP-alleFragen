@@ -193,11 +193,11 @@ Aufwandsschätzung im Team | durch Projektleiter oder Experten
 
 # 718 Erkläre das Scrum-Framework („Bierdeckel“) im Überblick (ohne Eingehen auf die einzelnen Rollen)
 
-Entwicklungsteams mit Businessfokus, die Verantwortung für ihren Prozess übernehmen:
-  3Perspektiven:
-    * Produktperspektive -> Produkte verbessern und definieren
-    * Entwicklungsperspektive -> Wie Produkte verbessert und definiert werden (entwickeln)
-    * Verbesserungsperspektive -> Wie Prozesse und Kollaboration verbessert werden 
+Entwicklungsteams mit Businessfokus, die Verantwortung für ihren Prozess übernehmen: <br>
+3 Perspektiven:
+* Produktperspektive -> Produkte verbessern und definieren
+* Entwicklungsperspektive -> Wie Produkte verbessert und definiert werden (entwickeln)
+* Verbesserungsperspektive -> Wie Prozesse und Kollaboration verbessert werden 
 
 # 720 Beschreibe die Rolle des Product Owners in Scrum
 
